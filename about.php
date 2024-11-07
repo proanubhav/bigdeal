@@ -71,11 +71,12 @@
                 </button>
               </div>
               <div class="btn-box ml-4">
-              <button href="about.html" class="btn btn-border" style="background-color: #ee4f25;"><span>Read More</span></button>
+              <button href="about.html" class="btn btn-border border-none" style="background-color: #ee4f25;">
+                <span>Read More</span>
+              </button>
               </div>
             </div>
           </div>
-
         </div>
 
         <div class="col-lg-10 offset-lg-1">

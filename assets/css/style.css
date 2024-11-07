@@ -909,7 +909,7 @@ input:not(:placeholder-shown)+label.animate_label {
   background: #003D11 0% 0% no-repeat padding-box;
   opacity: 1;
   height: 66px;
-  padding: 15px 54px;
+  padding: 10px 54px;
   color: #fff;
   border-radius: 4px;
   text-align: center;
@@ -1166,11 +1166,13 @@ input:not(:placeholder-shown)+label.animate_label {
   position: relative;
   transition: 0.3s ease-in-out;
 }
+
 .featured-on .feat_right_section .feat_card {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .featured-on .feat_right_section .feat_card img {
   width: 80%;
   height: auto;
@@ -1591,9 +1593,11 @@ footer {
 .services_card .serv_card_cont {
   padding: 1.5rem 1rem;
 }
+
 .services_card .serv_card_cont p {
   margin-bottom: 0;
 }
+
 .card_margin {
   margin-top: 4rem;
 }
@@ -2180,12 +2184,14 @@ footer {
 .testi_carousel .carousel-indicators li {
   background-color: #ee4f25;
 }
+
 .testi_card {
   height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
+
 .testi_card_1 {
   height: 100%;
 }
@@ -2312,7 +2318,7 @@ footer {
   background-repeat: no-repeat;
   position: relative;
   background: linear-gradient(96.87deg, #ee4f25c9 0%, #0e1b41e3 100%), url('../../assets/img/slide-img.webp');
-  padding: 7rem 0 2rem 0;
+  padding: 11rem 0 2rem 0;
 }
 
 .services_top_sec h1 {
@@ -2354,6 +2360,7 @@ footer {
   margin: 0;
   padding: 0;
   list-style: none;
+  column-gap: 16px;
 }
 
 .service_benefit ul li {
@@ -2868,6 +2875,7 @@ footer {
     display: block !important;
     width: 40%;
   }
+
   .mobile_logo .logo img {
     width: 100px;
     display: block;
@@ -2899,7 +2907,7 @@ footer {
   }
 }
 
-  
+
 
 .navbar_two_nav li.login_button a.nav-link {
   width: 100%;
@@ -3144,6 +3152,33 @@ footer {
   margin-bottom: 1rem;
 }
 
+.d-mobile {
+  display: none;    
+}
+.email-text {
+  display: block;
+}
+.services_top_sec h1.contact_title {
+  text-shadow: 1px 1px #000;
+}
+.btn.btn-white {
+  background-color: #fff !important;
+  color: #000 !important;
+  height: 30px;
+  font-size: 10px;
+  min-width: 240px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: 1px solid #000;
+}
+
+.btn.btn-white:hover,
+.btn.btn-white:focus,
+.btn.btn-white:active {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
 /******* Service Page Section ***********/
 
 
@@ -3158,6 +3193,7 @@ footer {
     display: block;
     /*width: 80%;*/
   }
+
   .mobile_logo .logo img {
     width: 90px;
     display: block;
@@ -3220,7 +3256,6 @@ footer {
   .padd_right_zero {
     padding-right: 15px;
   }
-
   /****** Top Section *******/
   .breadcrumb-item+.breadcrumb-item::before {
     content: '>';
@@ -3258,355 +3293,355 @@ footer {
   }
 }
 
-  .quick_benefit ul li {
-    font-size: 16px;
-    width: 2  0%;
-    margin-bottom: 10px;
-    float: left;
-    text-align: center;
-  }
-
-  .top_section:before,
-  .top_section:after,
-  .top_section .container:before,
-  .faqs:after,
-  article:before {
-    display: none;
-  }
-
-  .top_section .container:after {
-    width: 350px;
-    height: 350px;
-  }
-
-  .right_section {
-    display: none;
-  }
-
-  .quick_benefit {
-    padding: 2rem 0 1rem 0;
-  }
-
-  .top_section .carousel-control-prev,
-  .top_section .carousel-control-next {
-    display: none;
-  }
-
-  .quick_benefit ul li img {
-    width: 100px;
-    margin-right: 0.2rem;
-    object-fit: contain;
-  }
-
-  .service_benefit ul li {
-    margin-right: 0;
-  }
-
-  /****** Top Section *******/
-
-
-  /****** Service Section *******/
-
-  .services_sec {
-    padding: 1rem 0rem;
-  }
-
-  .service_content {
-    padding-top: 0;
-    position: relative;
-  }
-
-  .service_card {
-    padding: 30px 15px;
-    margin-bottom: 30px;
-  }
-
-  .services_card .serv_card_cont {
-    padding: 1rem 0.4rem;
-  }
-
-  .services_card h2 {
-    font-size: 16px;
-  }
-
-  .services_card img {
-    height: 60px;
-  }
-
-  .services_card .service_img_sprit {
-    height: 80px;
-    width: 100%;
-  }
-
-  /****** Service Section *******/
-
-  /****** Counter Section **********/
-  .counter {
-    padding: 2rem 0;
-  }
-
-  .counter_content {
-    margin-top: 0;
-    margin-bottom: 2rem;
-  }
-
-  .counter_card {
-    text-align: center;
-    margin-bottom: 1rem;
-  }
-
-  .count_prefix {
-    transform: rotate(25deg) translateX(95px) translateY(-50px);
-  }
-
-  .count_suffix {
-    transform: rotate(25deg) translateX(47px) translateY(-32px);
-  }
-
-  /****** Counter Section **********/
-  /****** Feature Section *******/
-  .features {
-    padding: 30px 0;
-  }
-
-  .feat_card {
-    padding: 15px 0;
-    margin-bottom: 0;
-  }
-
-  .feat_left_section {
-    display: none;
-  }
-
-  /****** Feature Section *******/
-
-  /****** About Section ********/
-  .about_content {
-    padding: 1rem;
-  }
-
-  .about_content h2 {
-    font-size: 32px;
-  }
-
-  .about_content h6 {
-    font-size: 18px;
-  }
-
-  /****** About Section ********/
-  /****** FAQs Section *******/
-  .subheading {
-    margin-bottom: 2rem;
-  }
-
-  .faqs {
-    padding: 2rem 0;
-  }
-
-  .quick_call button {
-    margin-top: 0;
-    width: auto;
-  }
-
-  .ecomm_faq_sec {
-    padding: 1rem 0;
-  }
-
-  .ecomm_get_here_card {
-    margin-bottom: 2rem;
-  }
-
-  #accordion .card-body {
-    padding: 0.5rem;
-  }
-
-  #accordion .card-header .btn-link {
-    font-size: 1.15rem;
-  }
-
-  /****** FAQs Section *******/
-
-  /****** Testimonial Section ********/
-  .testimonial {
-    padding: 2rem 0;
-  }
-
-  .testi_carousel .carousel-inner {
-    padding: 2rem;
-  }
-
-  .testi_area:before {
-    left: -5px;
-  }
-
-  .testi_carousel .carousel-control-prev {
-    left: 0;
-  }
-
-  .testi_carousel .carousel-control-next {
-    right: 0;
-  }
-
-  .testi_area img {
-    width: 35%;
-  }
-
-  .testi_area p {
-    font-size: 16px;
-  }
-
-  .review_sec_area h6 {
-    font-size: 14px;
-  }
-
-  /****** Testimonial Section ********/
-  /****** Footer Section *******/
-  footer {
-    padding: 2rem 0 4rem 0;
-  }
-
-  .footer_col_2,
-  .footer_col_3 {
-    margin-top: 0;
-  }
-
-  .footer_col_4 ol li::before {
-    left: -10px;
-  }
-
-  .privacy_link {
-    justify-content: flex-end;
-  }
-
-  /****** Footer Section *******/
-
-  /***** Blog Section ********/
-  .blog_sec {
-    padding: 2rem 0;
-  }
-
-  .article_card h4 {
-    font-size: 20px;
-  }
-
-  .article_card {
-    margin-bottom: 2rem;
-  }
-
-  /***** Blog Section ********/
-
-  /**** CTA Section *********/
-  .cta_first {
-    padding: 2rem 0;
-  }
-
-  .section_heading {
-    padding: 0;
-  }
-
-  .section_heading h2 {
-    line-height: 40px;
-    font-size: 32px;
-  }
-
-  /**** CTA Section *********/
-
-  /******* Service Page **********/
-  .services_top_sec h1 {
-    font-size: 26px;
-    line-height: 30px;
-  }
-
-  .service_benefit ul li img {
-    margin-right: 0.1rem;
-  }
-
-  .serv_article_card h2 {
-    font-size: 28px;
-  }
-
-  .service_article {
-    padding: 2rem 0;
-  }
-
-  .privacy_page {
-    padding: 2rem 0;
-  }
-
-  .serv_article_card .para_heading {
-    font-size: 16px;
-  }
-
-  .benefit_sec_area,
-  .process_sec_area {
-    margin-bottom: 0;
-  }
-
-  .faq_sec_area #accordion .card-header .btn-link {
-    font-size: 16px;
-  }
-
-  .service_sidebar {
-    margin-top: 0;
-    position: relative;
-    margin-bottom: 2rem;
-  }
-
-  .review_sec_area .testi_carousel .carousel-inner {
-    padding: 1rem;
-  }
-
-  /******* Service Page **********/
-
-  /****** Mobile Footer Fixed ********/
-  .mobile_footer {
-    display: block;
-    position: fixed;
-    padding: 0.4rem 0;
-    background-color: #ECEFF1;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    z-index: 999;
-    border-top: 1px solid #37474F;
-  }
-
-  .mobile_footer ul {
-    list-style: none;
-    display: flex;
-    justify-content: space-around;
-    margin: 0;
-    padding: 0;
-  }
-
-  .mobile_footer ul li {
-    margin: 0;
-    font-size: 16px;
-    background: #cfd8dc;
-    color: #fff;
-    padding: 0 10px;
-    border-radius: 3px;
-    line-height: 30px;
-  }
-
-  .mobile_footer ul li .btn-secondary,
-  .mobile_footer ul li .btn-primary {
-    height: 30px;
-    font-size: 10px;
-  }
-
-  .mobile_footer ul li:nth-last-child(1),
-  .mobile_footer ul li:nth-last-child(2) {
-    padding: 0;
-    background-color: transparent;
-  }
-
-  .mobile_footer ul li img {
-    width: 14px;
-  }
-
-  /****** Mobile Footer Fixed ********/
+.quick_benefit ul li {
+  font-size: 16px;
+  width: 2 0%;
+  margin-bottom: 10px;
+  float: left;
+  text-align: center;
+}
+
+.top_section:before,
+.top_section:after,
+.top_section .container:before,
+.faqs:after,
+article:before {
+  display: none;
+}
+
+.top_section .container:after {
+  width: 350px;
+  height: 350px;
+}
+
+.right_section {
+  display: none;
+}
+
+.quick_benefit {
+  padding: 2rem 0 1rem 0;
+}
+
+.top_section .carousel-control-prev,
+.top_section .carousel-control-next {
+  display: none;
+}
+
+.quick_benefit ul li img {
+  width: 100px;
+  margin-right: 0.2rem;
+  object-fit: contain;
+}
+
+.service_benefit ul li {
+  margin-right: 0;
+}
+
+/****** Top Section *******/
+
+
+/****** Service Section *******/
+
+.services_sec {
+  padding: 1rem 0rem;
+}
+
+.service_content {
+  padding-top: 0;
+  position: relative;
+}
+
+.service_card {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+}
+
+.services_card .serv_card_cont {
+  padding: 1rem 0.4rem;
+}
+
+.services_card h2 {
+  font-size: 16px;
+}
+
+.services_card img {
+  height: 60px;
+}
+
+.services_card .service_img_sprit {
+  height: 80px;
+  width: 100%;
+}
+
+/****** Service Section *******/
+
+/****** Counter Section **********/
+.counter {
+  padding: 2rem 0;
+}
+
+.counter_content {
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.counter_card {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.count_prefix {
+  transform: rotate(25deg) translateX(95px) translateY(-50px);
+}
+
+.count_suffix {
+  transform: rotate(25deg) translateX(47px) translateY(-32px);
+}
+
+/****** Counter Section **********/
+/****** Feature Section *******/
+.features {
+  padding: 30px 0;
+}
+
+.feat_card {
+  padding: 15px 0;
+  margin-bottom: 0;
+}
+
+.feat_left_section {
+  display: none;
+}
+
+/****** Feature Section *******/
+
+/****** About Section ********/
+.about_content {
+  padding: 1rem;
+}
+
+.about_content h2 {
+  font-size: 32px;
+}
+
+.about_content h6 {
+  font-size: 18px;
+}
+
+/****** About Section ********/
+/****** FAQs Section *******/
+.subheading {
+  margin-bottom: 2rem;
+}
+
+.faqs {
+  padding: 2rem 0;
+}
+
+.quick_call button {
+  margin-top: 0;
+  width: auto;
+}
+
+.ecomm_faq_sec {
+  padding: 1rem 0;
+}
+
+.ecomm_get_here_card {
+  margin-bottom: 2rem;
+}
+
+#accordion .card-body {
+  padding: 0.5rem;
+}
+
+#accordion .card-header .btn-link {
+  font-size: 1.15rem;
+}
+
+/****** FAQs Section *******/
+
+/****** Testimonial Section ********/
+.testimonial {
+  padding: 2rem 0;
+}
+
+.testi_carousel .carousel-inner {
+  padding: 2rem;
+}
+
+.testi_area:before {
+  left: -5px;
+}
+
+.testi_carousel .carousel-control-prev {
+  left: 0;
+}
+
+.testi_carousel .carousel-control-next {
+  right: 0;
+}
+
+.testi_area img {
+  width: 35%;
+}
+
+.testi_area p {
+  font-size: 16px;
+}
+
+.review_sec_area h6 {
+  font-size: 14px;
+}
+
+/****** Testimonial Section ********/
+/****** Footer Section *******/
+footer {
+  padding: 2rem 0 4rem 0;
+}
+
+.footer_col_2,
+.footer_col_3 {
+  margin-top: 0;
+}
+
+.footer_col_4 ol li::before {
+  left: -10px;
+}
+
+.privacy_link {
+  justify-content: flex-end;
+}
+
+/****** Footer Section *******/
+
+/***** Blog Section ********/
+.blog_sec {
+  padding: 2rem 0;
+}
+
+.article_card h4 {
+  font-size: 20px;
+}
+
+.article_card {
+  margin-bottom: 2rem;
+}
+
+/***** Blog Section ********/
+
+/**** CTA Section *********/
+.cta_first {
+  padding: 2rem 0;
+}
+
+.section_heading {
+  padding: 0;
+}
+
+.section_heading h2 {
+  line-height: 40px;
+  font-size: 32px;
+}
+
+/**** CTA Section *********/
+
+/******* Service Page **********/
+.services_top_sec h1 {
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.service_benefit ul li img {
+  margin-right: 0.1rem;
+}
+
+.serv_article_card h2 {
+  font-size: 28px;
+}
+
+.service_article {
+  padding: 2rem 0;
+}
+
+.privacy_page {
+  padding: 2rem 0;
+}
+
+.serv_article_card .para_heading {
+  font-size: 16px;
+}
+
+.benefit_sec_area,
+.process_sec_area {
+  margin-bottom: 0;
+}
+
+.faq_sec_area #accordion .card-header .btn-link {
+  font-size: 16px;
+}
+
+.service_sidebar {
+  margin-top: 0;
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.review_sec_area .testi_carousel .carousel-inner {
+  padding: 1rem;
+}
+
+/******* Service Page **********/
+
+/****** Mobile Footer Fixed ********/
+.mobile_footer {
+  display: block;
+  position: fixed;
+  padding: 0.4rem 0;
+  background-color: #ECEFF1;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 999;
+  border-top: 1px solid #37474F;
+}
+
+.mobile_footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+.mobile_footer ul li {
+  margin: 0;
+  font-size: 16px;
+  background: #cfd8dc;
+  color: #fff;
+  padding: 0 10px;
+  border-radius: 3px;
+  line-height: 30px;
+}
+
+.mobile_footer ul li .btn-secondary,
+.mobile_footer ul li .btn-primary {
+  height: 30px;
+  font-size: 10px;
+}
+
+.mobile_footer ul li:nth-last-child(1),
+.mobile_footer ul li:nth-last-child(2) {
+  padding: 0;
+  background-color: transparent;
+}
+
+.mobile_footer ul li img {
+  width: 14px;
+}
+
+/****** Mobile Footer Fixed ********/
 
 @media (max-width: 320px) {
 
@@ -3684,6 +3719,7 @@ footer {
   .container-1 {
     max-width: 1680px;
   }
+
   .about-us .image-group img {
     width: auto;
     height: 400px;
@@ -4756,6 +4792,7 @@ footer .logo {
 
 .banner-about .about-title {
   font-size: 4rem;
+  margin-top: 3rem;
 }
 
 .our-team img {
@@ -4843,8 +4880,8 @@ footer .logo {
 
 .conference-timeline-content {
   display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 
@@ -4991,25 +5028,70 @@ footer .logo {
     margin-top: 3rem;
     margin-bottom: 3rem;
   }
+
   .banner-home:before {
     bottom: 416px !important;
     width: 400px;
     height: 300px;
     transform: 0;
     left: -156px;
-}
+  }
+
   .banner-home__media {
     margin-left: 0 !important;
     max-width: 100vw;
     height: 100%;
-}
+  }
+
   .banner-home__media:after {
     left: -4rem;
   }
-.img-fluid.start {
-  width: 100px;
-}
 
+  .img-fluid.start {
+    width: 100px;
+  }
+
+  .banner-about .about-title {
+    font-size: 2.5rem;
+    margin-top: 1rem;
+  }
+  .btn span {
+    font-size: 12px;
+  }
+  .service_article {
+    padding-bottom: 0;
+  }
+  .serv_article_card h2 {
+    font-size: 2rem;
+  }
+  footer {
+    padding-top: 0;
+  }
+  .btn-secondary, .btn-primary, .btn.btn-white {
+    width: auto !important;
+    min-width: auto;
+  }
+  .mobile_footer .btn-secondary, .mobile_footer .btn-primary, .btn.btn-white {
+    font-size: 10px !important;
+    padding: 8px 12px !important;
+  }
+  .services_top {
+    padding: 8rem 0 2rem 0;
+  }
+  .service_benefit ul {
+    flex-wrap: wrap;
+    column-gap: 16px;
+  }
+  .d-mobile {
+    display: block;
+  }
+  .email-text {
+    display: none;
+  }
+  .top_header ul li img.email_svg {
+    margin-top: 9px;
+    width: 16px;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -5038,6 +5120,7 @@ footer .logo {
   .banner-home__content .description {
     margin-bottom: 0.5rem;
   }
+
   .free-demo h3 {
     font-size: 28px;
   }
@@ -5054,19 +5137,24 @@ footer .logo {
   .banner-home__content .theme-btn {
     padding: 18px 35px;
   }
+
   .free-demo {
     flex-direction: column-reverse;
     margin-top: 2rem !important;
-    margin-bottom: 2rem !important; 
+    margin-bottom: 2rem !important;
   }
+
   .lil-reinforcement-title {
     text-align: center;
   }
+
   .free-demo .btn-box {
     margin-left: auto;
     margin-right: auto;
   }
-  .btn-primary, .btn-border {
+
+  .btn-primary,
+  .btn-border {
     height: auto !important;
     padding: 10px 20px !important;
   }
@@ -5094,6 +5182,7 @@ footer .logo {
   .banner-home__media {
     margin-left: -9rem;
   }
+
   .about-us .image-group img {
     width: auto;
     height: 300px;
@@ -5149,56 +5238,72 @@ footer .logo {
   .d-none.d-xl-block {
     display: none !important;
   }
+
   .about-us {
     background: url('../../assets/img/about-us-bg.png');
     background-position: center;
     background-repeat: no-repeat;
   }
+
   .wpb_wrapper {
     padding: 0 4rem;
   }
+
   .wpb_content_element .logo img {
     display: block;
   }
+
   .blue-bg h2 {
     font-size: 3rem;
   }
+
   .quick_benefit ul li {
     width: 25%;
   }
 
 }
+
 @media screen and (max-width: 767px) {
   .blue-bg h2 {
     font-size: 2.5rem;
   }
+
   .wpb_wrapper {
     padding: 0 2rem;
   }
+
   .quick_benefit ul.second_list li {
     margin-bottom: 3rem;
   }
+
   .reason_start.featured-on {
     padding-top: 0;
   }
+
   .banner-home__media:before {
     display: none;
   }
+
   .btn-primary {
     padding: 15px;
   }
+
   .btn-border {
     padding: 15px 18px;
   }
+
   .nav-link {
     flex-direction: column;
   }
+
   .privacy_link {
     justify-content: center;
   }
+
   .copy_rights {
     text-align: center;
   }
+
   .service_sidebar.mobile_sidebar {
     display: none;
   }
@@ -5224,4 +5329,6 @@ footer .logo {
   margin-bottom: 20px;
 }
 
-
+.border-none {
+  border: none !important;
+}

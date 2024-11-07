@@ -72,7 +72,7 @@
                 </li>
               </ol>
             </nav> -->
-            <h1>Contact Us</h1>
+            <h1 class="contact_title">Contact Us</h1>
             <p>You can incorporate your private company in 3 days with Startupclubindia.com. Minimum 2 Shareholders & 2 directors are required to register a Private Company.</p>
             <section class="service_benefit">
               <ul>

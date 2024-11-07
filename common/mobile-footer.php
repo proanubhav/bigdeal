@@ -6,7 +6,7 @@
         <button class="btn btn-secondary">Call Now</button>
       </li>
       <li>
-        <button class="btn btn-primary">Enquire Now</button>
+        <button class="btn btn-white">Enquire Now</button>
       </li>
     </ul>
   </section>

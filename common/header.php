@@ -7,7 +7,10 @@
         <li><a
             href="https://api.whatsapp.com/send?phone=917701944497&text=Hello%2C%20I%20have%20some%20queries%20about%20G-Fresh%20Mart%20Franchise!"
             target="_blank" title="WhatsApp"><img src="assets/img/whatsapp.svg" alt=""></li>
-        <li><a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a></li>
+        <li><a href="mailto:connect@bigdealsupermart.com">
+        <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
+          <span class="email-text">connect@bigdealsupermart.com<span>
+        </a></li>
         <li><a href="tel:+91-1234567890">(+91) - 1234567890</a></li>
       </ul>
     </div>
@@ -43,10 +46,10 @@
                 <a class="nav-link" href="https://startupclubindia.com/">Home</a>
               </li>
               <li class="dropdown mega-dropdown">
-                <a class="nav-link" href="about"> About </a>
+                <a class="nav-link" href="about.php"> About </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact">Contact Us</a>
+                <a class="nav-link" href="contact.php"> Contact Us </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="apply-franchise">Apply Franchise</a>
