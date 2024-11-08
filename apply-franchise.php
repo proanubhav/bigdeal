@@ -73,8 +73,17 @@
 
         <div class="apply_franchise">
             <div class="container">
+              <div class="row">
+                <div class="col-12 col-lg-5 franchise_img">
+                  <div class="image d-flex justify-content-center align-items-center h-100">
+                    <img style="width: 95%" src="./assets/img/frenchise_model.png"/>
+                  </div>
+                </div>
+                <div class="col-12 col-lg-7">
+                <div class="card">
+                <div class="card-body py-4">
                 <div class="row">
-                    <div class="col-md-10 offset-md-1 col-12">
+                    <div class="col-12">
                         <form method="POST" action="./ajax/contact.php" id="desktop-contact-form">
                             <div class="row">
                                 <div class="col-12 col-md-6">
@@ -140,7 +149,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-12 col-md-6">
+                                <div class="col-12 col-md-12">
                                     <div class="form-group">
                                         <select class="form-control" name="contact" id="exampleInputNumber1"
                                             aria-describedby="emailHelp">
@@ -154,7 +163,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-12 col-md-6">
+                                <div class="col-12 col-md-12">
                                     <div class="form-group">
                                         <select class="form-control" name="contact" id="exampleInputNumber1"
                                             aria-describedby="emailHelp">
@@ -185,6 +194,10 @@
                         </form>
                     </div>
                 </div>
+                </div>
+              </div>
+                </div>
+              </div>
             </div>
         </div>
 

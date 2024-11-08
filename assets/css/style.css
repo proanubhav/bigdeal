@@ -2318,7 +2318,7 @@ footer {
   height: auto;
   background-repeat: no-repeat;
   position: relative;
-  background: linear-gradient(96.87deg, #ee4f25c9 0%, #0e1b41e3 100%);
+  background: linear-gradient(96.87deg, #ee4f25 0%, #ee4f25 100%);
   padding: 11rem 0 2rem 0;
 }
 
@@ -2327,7 +2327,7 @@ footer {
   font-weight: 600;
   line-height: 38px;
   margin-bottom: 1rem;
-  color: #2e79bd;
+  color: #fff;
   letter-spacing: 1px;
   font-family: 'Agrandir';
 }
@@ -2905,7 +2905,7 @@ footer {
   .btn-primary span,
   .btn-border span {
     font-size: 0.875rem;
-  }
+  }  
 }
 
 
@@ -3161,12 +3161,13 @@ footer {
 }
 .drop_email {
   margin-top: -8rem;
+  border-radius: 16px;
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
 }
 
-.services_top_sec h1.contact_title {
+/* .services_top_sec h1.contact_title {
   text-shadow: 1px 1px #000;
-}
+} */
 .btn.btn-white {
   background-color: #fff !important;
   color: #000 !important;
@@ -3299,6 +3300,12 @@ footer {
   }
   .drop_email {
     margin-top: 2rem;
+  }
+  .serv_article_card > .row {
+      flex-direction: column-reverse !important;
+  }
+  .benefit_sec_area {
+    margin-top: 3rem;
   }
 }
 
@@ -5020,7 +5027,11 @@ footer .logo {
 .apply_franchise {
   margin-top: 2rem;
 }
-
+.apply_franchise .card {
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+}
 .service_article .reason_start .feat_card {
   box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 1.5rem 2.2rem rgb(0 0 0 / 10%);
   background-color: #fff;
@@ -5028,7 +5039,9 @@ footer .logo {
   text-align: left;
 }
 
-
+.drop_email .card-body {
+    padding: 3rem !important;
+}
 
 /* home banner check start */
 
@@ -5108,7 +5121,7 @@ footer .logo {
   }
   .mobile_footer {
     display: block;
-  }
+  }   
 }
 
 @media (max-width: 1199px) {
@@ -5140,6 +5153,9 @@ footer .logo {
 
   .free-demo h3 {
     font-size: 28px;
+  }
+  .franchise_img {
+    display: none;
   }
 }
 
@@ -5235,6 +5251,9 @@ footer .logo {
   .service_benefit ul {
     flex-wrap: wrap;
     width: 70%;
+  }
+  .drop_email .card-body {
+    padding: 2rem !important;
   }
 }
 

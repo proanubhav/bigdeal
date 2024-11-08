@@ -142,7 +142,7 @@
         <div class="col-12">          
           <div class="serv_article_card">
           <div class="row">
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-5">
             <div class="benefit_sec_area">
               <div class="row">
                 <div class="col-12 col-sm-6 col-md-12 col-lg-6">
@@ -171,7 +171,7 @@
               </div>
             </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-7">
               <div class="card drop_email">
                 <div class="card-body">
                 <h2>Drop an Email</h2>
