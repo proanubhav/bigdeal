@@ -5331,6 +5331,12 @@ footer .logo {
   .service_sidebar.mobile_sidebar {
     display: none;
   }
+  .drop_email {
+    margin-top: 2rem;
+  }
+  .lil-reinforcement {
+    margin-top: 0 !important;
+  }
 }
 
 /* home banner check end */
