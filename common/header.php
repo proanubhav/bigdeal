@@ -40,7 +40,7 @@
               </a>
             </div>
           </div>
-          <div class="col-12 col-md-12 col-lg-8">
+          <div class="col-12 col-md-12 col-lg-8 pr-0">
             <ul class="navbar-nav mr-auto navbar_two_nav float-right">
               <li class="nav-item">
                 <a class="nav-link" href="https://startupclubindia.com/">Home</a>
@@ -52,7 +52,7 @@
                 <a class="nav-link" href="contact.php"> Contact Us </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="apply-franchise">Apply Franchise</a>
+                <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://bigdealsupermart.com/wp-content/uploads/2022/02/G-Fresh-Mart-Franchise-Broucher-L.pdf" target="_blank">Download Brochure</a>

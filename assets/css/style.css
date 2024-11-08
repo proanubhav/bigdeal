@@ -540,7 +540,7 @@ header {
 }
 
 .top_header {
-  background-color: #ffccbc;
+  background-color: #000;
   height: 36px;
   border-bottom: 1px solid #ffccbc;
 }
@@ -550,7 +550,7 @@ header {
   margin: 0;
   list-style-type: none;
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   line-height: 36px;
   flex-wrap: nowrap;
   overflow-y: auto;
@@ -568,7 +568,7 @@ header {
   right: -14px;
   top: -7px;
   border-radius: 50px;
-  color: #353444;
+  color: #fff;
   font-size: 30px;
 }
 
@@ -579,6 +579,7 @@ header {
 .top_header ul li img {
   width: 14px;
   transition: 0.3s;
+  filter: brightness(100) contrast(100);
 }
 
 .top_header ul li img:hover {
@@ -587,7 +588,7 @@ header {
 }
 
 .top_header ul li a {
-  color: #353444;
+  color: #fff;
   font-weight: 600;
 }
 
@@ -2317,7 +2318,7 @@ footer {
   height: auto;
   background-repeat: no-repeat;
   position: relative;
-  background: linear-gradient(96.87deg, #ee4f25c9 0%, #0e1b41e3 100%), url('../../assets/img/slide-img.webp');
+  background: linear-gradient(96.87deg, #ee4f25c9 0%, #0e1b41e3 100%);
   padding: 11rem 0 2rem 0;
 }
 
@@ -2612,7 +2613,7 @@ footer {
 }
 
 .benefit_sec_area {
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
 }
 
 /******** Benefits Section ************/
@@ -2917,9 +2918,9 @@ footer {
   border: none;
 }
 
-.navbar_collapse .float-right {
+/* .navbar_collapse .float-right {
   float: none !important;
-}
+} */
 
 .navbar_two {
   padding: 15px 0;
@@ -3158,6 +3159,11 @@ footer {
 .email-text {
   display: block;
 }
+.drop_email {
+  margin-top: -8rem;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+}
+
 .services_top_sec h1.contact_title {
   text-shadow: 1px 1px #000;
 }
@@ -3290,6 +3296,9 @@ footer {
     justify-content: center;
     align-items: center;
     width: 100%;
+  }
+  .drop_email {
+    margin-top: 2rem;
   }
 }
 
@@ -3561,7 +3570,7 @@ footer {
 }
 
 .service_article {
-  padding: 2rem 0;
+  padding: 5rem 0 3rem;
 }
 
 .privacy_page {
@@ -3595,7 +3604,6 @@ footer {
 
 /****** Mobile Footer Fixed ********/
 .mobile_footer {
-  display: block;
   position: fixed;
   padding: 0.4rem 0;
   background-color: #ECEFF1;
@@ -4924,7 +4932,7 @@ footer .logo {
   box-shadow: 2px 2px 4px 0px #c1c1c1;
   border: 1px solid #ee4f25;
   border-radius: 5px;
-  background-color: #9fff93cf;
+  background-color: #ee4f25;
   width: 180px;
   position: absolute;
   top: 60%;
@@ -4934,8 +4942,8 @@ footer .logo {
 }
 
 .timeline-article .content-box p {
-  color: #ee4f25;
-  font-weight: 600;
+  color: #fff;
+  font-weight: 500;
 }
 
 .timeline-article-top .content-box:before {
@@ -5006,6 +5014,12 @@ footer .logo {
 .serv_article_card h2 {
   font-size: 44px;
 }
+.apply_franchise_head {
+  margin-top: 2rem;
+} 
+.apply_franchise {
+  margin-top: 2rem;
+}
 
 .service_article .reason_start .feat_card {
   box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 1.5rem 2.2rem rgb(0 0 0 / 10%);
@@ -5059,7 +5073,7 @@ footer .logo {
     font-size: 12px;
   }
   .service_article {
-    padding-bottom: 0;
+    padding: 2rem 0 3rem;
   }
   .serv_article_card h2 {
     font-size: 2rem;
@@ -5091,6 +5105,9 @@ footer .logo {
   .top_header ul li img.email_svg {
     margin-top: 9px;
     width: 16px;
+  }
+  .mobile_footer {
+    display: block;
   }
 }
 
@@ -5214,6 +5231,13 @@ footer .logo {
   }
 }
 
+@media (max-width: 991px) and (min-width: 768px) {
+  .service_benefit ul {
+    flex-wrap: wrap;
+    width: 70%;
+  }
+}
+
 @media (max-width: 767px) {
   .banner-home__media .start {
     left: 100px;
@@ -5331,4 +5355,12 @@ footer .logo {
 
 .border-none {
   border: none !important;
+}
+.border-black {
+  border: 1px solid #000 !important;
+  transition: none;
+}
+.border-black:hover {
+  border: 1px solid #000 !important;
+  /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); */
 }

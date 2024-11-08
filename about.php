@@ -293,55 +293,14 @@
             </div>
           </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image004.webp" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image003.jpg" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image002.jpg" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image001.jpg" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </section>
+  <!-- Free Demo Section HTML -->
+  <?php include 'free-demo.php'; ?>
   </article>
-
+  
+  
   <!-- Blog Section HTML -->
   <?php include 'common/articles.php'; ?>
   <!-- Blog Section HTML -->

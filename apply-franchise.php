@@ -176,7 +176,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="float-right">
-                                        <div class="btn-box">
+                                        <div class="btn-box border-black">
                                             <button type="submit"
                                                 class="btn btn-block btn-primary"><span>Register</span></button>
                                         </div>
@@ -273,34 +273,9 @@
                 </div>
             </div>
         </div>
-        <section class="mt-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="lil-reinforcement d-flex my-5">
-                            <div class="free-demo my-0">
-                                <div class="w-100">
-                                    <div class="lil-reinforcement-title">
-                                        <h3 class="">Get a free demo.
-                                            <br> Let's Talk?
-                                        </h3>
-                                    </div>
-                                    <div class="mt-md-5 mt-xs-2">
-                                        <div class="btn-box">
-                                            <button type="submit"
-                                                class="btn btn-block btn-primary"><span>Register</span></button>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="d-flex w-100">
-                                    <img class="d-flex" src="assets/img/demo.png" alt="readysection">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <div class="mt-5">
+          <?php include 'free-demo.php'; ?>
+        </div>
     </article>
 
     <!-- about us banner -->
