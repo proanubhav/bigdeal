@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="logo justify-content-center mb-4">
-                    <a href="index">
+                    <a href="/">
                         <img src="assets/img/big-deal.webp" alt="startup india logo">
                     </a>
                 </div>

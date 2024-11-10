@@ -20,7 +20,7 @@
 
       <div class="mobile_logo">
         <div class="logo">
-          <a href="index">
+          <a href="/">
             <img src="assets/img/big-deal.webp" alt="startup india logo">
           </a>
         </div>
@@ -35,7 +35,7 @@
         <div class="row">
           <div class="col-12 col-md-12 col-lg-4">
             <div class="logo">
-              <a href="index">
+              <a href="/">
                 <img src="assets/img/big-deal.webp" alt="startup india logo">
               </a>
             </div>

@@ -32,7 +32,7 @@
   <meta itemprop="image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
   <link rel="canonical" href="https://www.startupclubindia.com/private-limited-company-registration">
 
-  <link rel="icon" href="assets/img/startup-club-india-logo.webp" sizes="16x16" type="image/png">
+  <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
