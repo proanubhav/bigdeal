@@ -136,7 +136,7 @@
         <div class="col-md-6">
           <div class="banner-home__media">
             <img src="assets/img/banner-start.svg" class="img-fluid start" alt="">
-            <img src="assets/img/big-deal-cover.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/big-deal-supermart.jpg" class="img-fluid" alt="">
           </div>
         </div>
       </div>
@@ -409,10 +409,10 @@
           <div class="ecomm_get_here_card">
             <h3>What We Provide You?</h3>
             <div class="get_here_point">
-              <p><img src="assets/img/check.svg" alt="check"> Full Technical Support</p>
-              <p><img src="assets/img/check.svg" alt="check"> Server Management</p>
-              <p><img src="assets/img/check.svg" alt="check"> Reliable Tech Partner</p>
-              <p><img src="assets/img/check.svg" alt="check"> Easy Executive Meetings</p>
+              <p><img src="assets/img/check.svg" alt="check"> No Royalty</p>
+              <p><img src="assets/img/check.svg" alt="check"> Affordable Franchise Fees</p>
+              <p><img src="assets/img/check.svg" alt="check"> High Level Support</p>
+              <p><img src="assets/img/check.svg" alt="check"> Staff Training</p>
             </div>
           </div>
         </div>
@@ -420,10 +420,10 @@
           <div class="ecomm_get_here_card">
             <h3>What Do Others Lack?</h3>
             <div class="get_here_point">
-              <p><img src="assets/img/criss-cross.svg" alt="close"> Personalized Support</p>
-              <p><img src="assets/img/criss-cross.svg" alt="close"> Flexible Business Model</p>
-              <p><img src="assets/img/criss-cross.svg" alt="close"> Local Community Engagement</p>
-              <p><img src="assets/img/criss-cross.svg" alt="close"> Comprehensive Training</p>
+              <p><img src="assets/img/criss-cross.svg" alt="close"> Royalty Fees</p>
+              <p><img src="assets/img/criss-cross.svg" alt="close"> Premium Franchise Fees</p>
+              <p><img src="assets/img/criss-cross.svg" alt="close"> Low Level Support</p>
+              <p><img src="assets/img/criss-cross.svg" alt="close"> No Staff Training</p>
             </div>
           </div>
         </div>

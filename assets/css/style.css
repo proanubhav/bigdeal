@@ -4711,12 +4711,6 @@ div.white_txt {
   font-size: 3rem;
 }
 
-@media screen and (min-width: 1400px) {
-  .banner-home__content .title {
-    font-size: 4rem;
-  }
-}
-
 .mb-20 {
   margin-bottom: 20px;
 }
