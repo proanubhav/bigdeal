@@ -2,10 +2,10 @@
   <div class="top_header">
     <div class="container">
       <ul>
-        <li><a href="https://www.instagram.com/gfresh_mart/" target="_blank" title="Instagram"><img
+        <li><a href="#" target="_blank" title="Instagram"><img
               src="assets/img/instagram.svg" alt=""></li>
         <li><a
-            href="https://api.whatsapp.com/send?phone=917701944497&text=Hello%2C%20I%20have%20some%20queries%20about%20G-Fresh%20Mart%20Franchise!"
+            href="#"
             target="_blank" title="WhatsApp"><img src="assets/img/whatsapp.svg" alt=""></li>
         <li><a href="mailto:connect@bigdealsupermart.com">
         <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
@@ -43,7 +43,7 @@
           <div class="col-12 col-md-12 col-lg-8 pr-0">
             <ul class="navbar-nav mr-auto navbar_two_nav float-right">
               <li class="nav-item">
-                <a class="nav-link" href="https://startupclubindia.com/">Home</a>
+                <a class="nav-link" href="/">Home</a>
               </li>
               <li class="dropdown mega-dropdown">
                 <a class="nav-link" href="about.php"> About </a>
@@ -54,9 +54,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link btn btn-nav" href="https://bigdealsupermart.com/wp-content/uploads/2022/02/G-Fresh-Mart-Franchise-Broucher-L.pdf" target="_blank">Download Brochure</a>
-              </li>
+              <!-- <li class="nav-item">
+                <a class="nav-link btn btn-nav" href="#" target="_blank">Download Brochure</a>
+              </li> -->
             </ul>
           </div>
         </div>

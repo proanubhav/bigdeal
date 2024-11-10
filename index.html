@@ -95,13 +95,76 @@
   </script>
 
   <!-- Header Section HTML -->
-  <?php include 'common/stylesheet.php'; ?>
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css" as="style">
   <!-- Header Section HTML -->
 </head>
 
 <body>
   <!-- Header Section HTML -->
-  <?php include 'common/header.php'; ?>
+  <header class="header">
+    <div class="top_header">
+      <div class="container">
+        <ul>
+          <li><a href="#" target="_blank" title="Instagram"><img src="assets/img/instagram.svg" alt=""></li>
+          <li><a href="#" target="_blank" title="WhatsApp"><img src="assets/img/whatsapp.svg" alt=""></li>
+          <li><a href="mailto:connect@bigdealsupermart.com">
+              <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
+              <span class="email-text">connect@bigdealsupermart.com<span>
+            </a></li>
+          <li><a href="tel:+91-1234567890">(+91) - 1234567890</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light navbar_two">
+
+        <div class="mobile_logo">
+          <div class="logo">
+            <a href="index">
+              <img src="assets/img/big-deal.webp" alt="startup india logo">
+            </a>
+          </div>
+        </div>
+        <button class="navbar-toggler navbar_toggle" type="button" data-toggle="collapse"
+          data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse navbar_collapse" id="navbarSupportedContent">
+          <div class="row">
+            <div class="col-12 col-md-12 col-lg-4">
+              <div class="logo">
+                <a href="index">
+                  <img src="assets/img/big-deal.webp" alt="startup india logo">
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-md-12 col-lg-8 pr-0">
+              <ul class="navbar-nav mr-auto navbar_two_nav float-right">
+                <li class="nav-item">
+                  <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="dropdown mega-dropdown">
+                  <a class="nav-link" href="about.php"> About </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.php"> Contact Us </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link btn btn-nav" href="#" target="_blank">Download Brochure</a>
+                </li> -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
   <!-- Header Section HTML -->
 
   <!-- Top Section HTML -->
@@ -110,11 +173,14 @@
       <div class="row align-items-center">
         <div class="col-md-6">
           <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40">
-            <p class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Big Deal <span>Supermarket</span></p>
-            <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Your Top Choice for a Successful Franchise in India</h1>
+            <p class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Big Deal <span>Supermarket</span>
+            </p>
+            <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Your Top Choice for a Successful Franchise in
+              India</h1>
 
             <div class="description font-la color-white mb-45 mb-sm-15 mb-md-30 mb-sm-25 mb-xs-20">
-              <p>Join the Bigdeal Supermarket Franchise in India and start a mini grocery store or mart with low supermarket franchise costs.
+              <p>Join the Bigdeal Supermarket Franchise in India and start a mini grocery store or mart with low
+                supermarket franchise costs.
               </p>
             </div>
 
@@ -156,28 +222,36 @@
             <div class="feat_card">
               <img src="assets/img/discount.svg" alt="Affordable Pricing">
               <h3>Low-Cost, High-Reward</h3>
-              <p>Big Deal Supermarket franchise presents a great opportunity for low-entry investment and high-return prospects. Given the low operating costs and effective management, you can realize high profits without incurring high risks, hence making it a worthwhile investment.</p>
+              <p>Big Deal Supermarket franchise presents a great opportunity for low-entry investment and high-return
+                prospects. Given the low operating costs and effective management, you can realize high profits without
+                incurring high risks, hence making it a worthwhile investment.</p>
             </div>
           </div>
           <div class="col-6 col-md-3">
             <div class="feat_card">
               <img src="assets/img/savings.svg" alt="Timely Delivered">
               <h3>Proven Success Formula</h3>
-              <p>Utilize our 10 years of experience in business that guarantees results. Every single aspect of our strategy, from stock control to ways of interacting with the audience, is aimed at achieving progressive development and eternal viability in the competitive market.</p>
+              <p>Utilize our 10 years of experience in business that guarantees results. Every single aspect of our
+                strategy, from stock control to ways of interacting with the audience, is aimed at achieving progressive
+                development and eternal viability in the competitive market.</p>
             </div>
           </div>
           <div class="col-6 col-md-3">
             <div class="feat_card">
               <img src="assets/img/code_review.svg" alt="Experienced Team">
               <h3>Trustworthy Collaboration</h3>
-              <p>Joining forces with Big Deal grocery store franchise assures association with a reliable brand, which is based on the principles of honesty and transparency. Our people will closely engage with your team and promote a flourishing business partnership that lasts.</p>
+              <p>Joining forces with Big Deal grocery store franchise assures association with a reliable brand, which
+                is based on the principles of honesty and transparency. Our people will closely engage with your team
+                and promote a flourishing business partnership that lasts.</p>
             </div>
           </div>
           <div class="col-6 col-md-3">
             <div class="feat_card">
               <img src="assets/img/breakfast.svg" alt="Trusted Partner">
               <h3>Rapid Market Expansion</h3>
-              <p>Take advantage of the increasing need for quality grocery services in India. With Big Deal you can efficiently grow your presence in the region, reach new audiences, develop strong customer bases, and defend your interests in the retail market.</p>
+              <p>Take advantage of the increasing need for quality grocery services in India. With Big Deal you can
+                efficiently grow your presence in the region, reach new audiences, develop strong customer bases, and
+                defend your interests in the retail market.</p>
             </div>
           </div>
         </div>
@@ -188,23 +262,21 @@
       <div class="feat_right_section1">
         <div class="row flex-nowrap overflow-auto">
           <div class="col-6 col-md-4">
-            <a href="https://hindustanbytes.com/g-fresh-mart-the-most-trusted-supermarket-franchise">
+            <a href="#">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/hindustanBytes.png" alt="Affordable Pricing">
               </div>
             </a>
           </div>
           <div class="col-9 col-md-4">
-            <a
-              href="https://i0.wp.com/bigdealsupermart.com/wp-content/uploads/2022/06/enterprenuer-hunt.png?fit=1024%2C199&ssl=1">
+            <a href="#">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/entreprenuerHunt.png" alt="Timely Delivered">
               </div>
             </a>
           </div>
           <div class="col-8 col-md-4">
-            <a
-              href="https://m.dailyhunt.in/news/india/english/josh+bharat-epaper-dh832812b9d1ff451aa43380d9b51fa20e/gfresh+mart+the+most+trusted+supermarket+franchise-newsid-dh832812b9d1ff451aa43380d9b51fa20e_35eee740e41811ecb7affd7a29584364">
+            <a href="#">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/DailyHunt.png" alt="Experienced Team">
               </div>
@@ -218,78 +290,114 @@
   <!-- Reasons to Start -->
 
   <!-- Quick Call to Action HTML -->
-  <?php include 'common/quick-cta.php'; ?>
+  <section class="quick_call">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-8 col-lg-8">
+          <h2>Unbreakable Support System</h2>
+          <p class="text-white">Big Deal will always be there for you. Our support staff is ready to deliver marketing,
+            operational and training help all the time. Everything and everybody you require to succeed will be on hand
+            at each level.</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-4">
+          <div class="btn-box">
+            <button class="btn btn-primary" data-target="#enquiryModal" data-toggle="modal">
+              <span>Free Consultation</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- Quick Call to Action HTML -->
 
   <!-- Services HTML -->
   <article class="service_article">
     <section class="services_sec">
       <div class="container">
-      <div class="row">
-  <div class="col-12 col-md-5 col-lg-6">
-    <div class="service_content sticky-left">
-      <h2>Why Work With Us?</h2>
-      <p>Choosing a Big Deal Supermart franchise in India is like hitting the jackpot! With our established brand recognition, you’ll be the go-to grocery store in no time. Our diverse product range means you can cater to every customer's craving, from snacks to soaps. Plus, our flexible business model lets you add your personal touch while still following our tried-and-true guidelines—no cookie-cutter stores here!</p>
-      <p>Say goodbye to outdated systems! Our innovative technology makes inventory management a breeze and helps customers enjoy online shopping without the hassle. You’ll also become the local celebrity through fun community events and promotions that keep shoppers coming back for more.</p>
-      <p>And don't worry! we've got your back with ongoing training and marketing support to keep your store buzzing. So, join Big Deal Supermart today, and let’s create a grocery adventure that’s profitable and entertaining!</p>              
-      <div class="btn-box">
-        <button class="btn btn-border" data-target="#enquiryModal" data-toggle="modal">
-          <span>Consult Now</span>
-        </button>
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-md-7 col-lg-6 mt-5 mobile-scroll">
-    <div class="row">
-      <div class="col-6 col-md-6 col-lg-6">
-        <div class="services_card card_margin">
-          <div class="bg-private_limited_company_registration service_img_sprit"></div>
-          <div class="serv_card_cont">
-            <h2><a href="trademark-registration" title="Trademark Registration">Brand Recognition</a></h2>
-            <p>You can use the fame of the Big Deal Supermart to help win the initial customers who are loyal to the brand.</p>
+        <div class="row">
+          <div class="col-12 col-md-5 col-lg-6">
+            <div class="service_content sticky-left">
+              <h2>Why Work With Us?</h2>
+              <p>Choosing a Big Deal Supermart franchise in India is like hitting the jackpot! With our established
+                brand recognition, you’ll be the go-to grocery store in no time. Our diverse product range means you can
+                cater to every customer's craving, from snacks to soaps. Plus, our flexible business model lets you add
+                your personal touch while still following our tried-and-true guidelines—no cookie-cutter stores here!
+              </p>
+              <p>Say goodbye to outdated systems! Our innovative technology makes inventory management a breeze and
+                helps customers enjoy online shopping without the hassle. You’ll also become the local celebrity through
+                fun community events and promotions that keep shoppers coming back for more.</p>
+              <p>And don't worry! we've got your back with ongoing training and marketing support to keep your store
+                buzzing. So, join Big Deal Supermart today, and let’s create a grocery adventure that’s profitable and
+                entertaining!</p>
+              <div class="btn-box">
+                <button class="btn btn-border" data-target="#enquiryModal" data-toggle="modal">
+                  <span>Consult Now</span>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-7 col-lg-6 mt-5 mobile-scroll">
+            <div class="row">
+              <div class="col-6 col-md-6 col-lg-6">
+                <div class="services_card card_margin">
+                  <div class="bg-private_limited_company_registration service_img_sprit"></div>
+                  <div class="serv_card_cont">
+                    <h2><a href="trademark-registration" title="Trademark Registration">Brand Recognition</a></h2>
+                    <p>You can use the fame of the Big Deal Supermart to help win the initial customers who are loyal to
+                      the brand.</p>
+                  </div>
+                </div>
+                <div class="services_card">
+                  <div class="bg-trademark_registration service_img_sprit"></div>
+                  <div class="serv_card_cont">
+                    <h2><a href="online-accounting-and-book-keeping-services" title="Online Accouting Services">Diverse
+                        Product Range</a></h2>
+                    <p>We provide variety in product range to every customer’s need to encourage their return.</p>
+                  </div>
+                </div>
+                <div class="services_card">
+                  <div class="bg-ngo_registration service_img_sprit"></div>
+                  <div class="serv_card_cont">
+                    <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Engaging
+                        Community Events</a></h2>
+                    <p>We conduct entertaining local activities as they help increase presence as well as customer
+                      loyalty in the region.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-6 col-md-6 col-lg-6">
+                <div class="services_card">
+                  <div class="bg-one_person_company service_img_sprit"></div>
+                  <div class="serv_card_cont">
+                    <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Speedy 45-day
+                        Openings</a></h2>
+                    <p>Opening a franchise can be done in less than 2 months which means the franchisee can start
+                      earning within the least time possible.</p>
+                  </div>
+                </div>
+                <div class="services_card">
+                  <div class="bg-one_person_company service_img_sprit"></div>
+                  <div class="serv_card_cont">
+                    <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Ongoing
+                        Training</a></h2>
+                    <p>Enjoy regular training programs for you and your staff allowing you to keep updated with what is
+                      happening in the industry.</p>
+                  </div>
+                </div>
+                <div class="services_card">
+                  <div class="bg-one_person_company service_img_sprit"></div>
+                  <div class="serv_card_cont">
+                    <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Customizable
+                        Business Model</a></h2>
+                    <p>Enjoy a customizable business model that allows you to personalize your store while following
+                      proven guidelines.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="services_card">
-          <div class="bg-trademark_registration service_img_sprit"></div>
-          <div class="serv_card_cont">
-            <h2><a href="online-accounting-and-book-keeping-services" title="Online Accouting Services">Diverse Product Range</a></h2>
-            <p>We provide variety in product range to every customer’s need to encourage their return.</p>
-          </div>
-        </div>
-        <div class="services_card">
-          <div class="bg-ngo_registration service_img_sprit"></div>
-          <div class="serv_card_cont">
-            <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Engaging Community Events</a></h2>
-            <p>We conduct entertaining local activities as they help increase presence as well as customer loyalty in the region.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-6 col-md-6 col-lg-6">
-        <div class="services_card">
-          <div class="bg-one_person_company service_img_sprit"></div>
-          <div class="serv_card_cont">
-            <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Speedy 45-day Openings</a></h2>
-            <p>Opening a franchise can be done in less than 2 months which means the franchisee can start earning within the least time possible.</p>
-          </div>
-        </div>
-        <div class="services_card">
-          <div class="bg-one_person_company service_img_sprit"></div>
-          <div class="serv_card_cont">
-            <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Ongoing Training</a></h2>
-            <p>Enjoy regular training programs for you and your staff allowing you to keep updated with what is happening in the industry.</p>                    
-          </div>
-        </div>
-        <div class="services_card">
-          <div class="bg-one_person_company service_img_sprit"></div>
-          <div class="serv_card_cont">
-            <h2><a href="appointment-of-directors-in-a-company" title="Appointment of Director">Customizable Business Model</a></h2>
-            <p>Enjoy a customizable business model that allows you to personalize your store while following proven guidelines.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 
         <div class="why_startups">
@@ -298,26 +406,54 @@
               <div class="subheading">
                 <h2>BigDeal Supermarket Franchise Model</h2>
               </div>
-              <p>At Big Deal Supermart, we are delighted to assist you in nurturing your ambitions of opening a successful supermarket. We aim to provide you with all the information and support necessary to start your hugely profitable grocery franchise business.</p>
-              <p>Different franchise opportunities exist to suit different needs and budgets. A warm neighbouring store or a large operation comprising several stores, whichever you prefer you will find it here.</p>
-              <p>We know that the world is full of surprises and there comes a time when you will need even the most basic of things. That is the most important reason why you should always have a good store around you. Picture having a place where you can buy everything from cooking essentials to grocery items, which are required daily. What’s more, we even have hot meals for you to take home.</p>
-              <p>In the Big Deal Supermart franchise, you enjoy all these services with great efficiency, meaning you have what you want when you want it. Because we focus on quality and customer satisfaction we have become the most preferred grocery outlet for the daily needs of our esteemed customers.</p>
-              <p>Get in touch with us today so that we can help you learn about our supermarket franchise business opportunities and help you take that first exciting step towards your entrepreneurial dream!</p>
+              <p>At Big Deal Supermart, we are delighted to assist you in nurturing your ambitions of opening a
+                successful supermarket. We aim to provide you with all the information and support necessary to start
+                your hugely profitable grocery franchise business.</p>
+              <p>Different franchise opportunities exist to suit different needs and budgets. A warm neighbouring store
+                or a large operation comprising several stores, whichever you prefer you will find it here.</p>
+              <p>We know that the world is full of surprises and there comes a time when you will need even the most
+                basic of things. That is the most important reason why you should always have a good store around you.
+                Picture having a place where you can buy everything from cooking essentials to grocery items, which are
+                required daily. What’s more, we even have hot meals for you to take home.</p>
+              <p>In the Big Deal Supermart franchise, you enjoy all these services with great efficiency, meaning you
+                have what you want when you want it. Because we focus on quality and customer satisfaction we have
+                become the most preferred grocery outlet for the daily needs of our esteemed customers.</p>
+              <p>Get in touch with us today so that we can help you learn about our supermarket franchise business
+                opportunities and help you take that first exciting step towards your entrepreneurial dream!</p>
               <h3>The Simple Steps to Franchise Ownership</h3>
-              <p>If you're considering making the right decision and buying a franchise, there are several things to pay attention to before signing the franchise agreement:</p>
-              <p>For starters, it is necessary to find the time to propose, schedule an appointment and brief it appropriately. This is an important step for the future relations with the franchisor.</p>
-              <p>In the next step, carry on a site survey to check if the location you have chosen for the franchise is acceptable. The location is a crucial factor to the business and therefore it is important for the location chosen to be appropriate.</p>
-              <p>After you have found a sight, there is a site approval process with the franchise. This is an important stage of operation of the franchise when it is necessary to confirm that all requirements and standards of ability to run the franchise are fulfilled.</p>
-              <p>After the verification is completed, you may move on by activating your area code and collecting your welcome kit which consists of essential tools to kick-start your operations.</p>
-              <p>To conclude, do not forget to attend the grand opening of your franchise as well.</p> 
+              <p>If you're considering making the right decision and buying a franchise, there are several things to pay
+                attention to before signing the franchise agreement:</p>
+              <p>For starters, it is necessary to find the time to propose, schedule an appointment and brief it
+                appropriately. This is an important step for the future relations with the franchisor.</p>
+              <p>In the next step, carry on a site survey to check if the location you have chosen for the franchise is
+                acceptable. The location is a crucial factor to the business and therefore it is important for the
+                location chosen to be appropriate.</p>
+              <p>After you have found a sight, there is a site approval process with the franchise. This is an important
+                stage of operation of the franchise when it is necessary to confirm that all requirements and standards
+                of ability to run the franchise are fulfilled.</p>
+              <p>After the verification is completed, you may move on by activating your area code and collecting your
+                welcome kit which consists of essential tools to kick-start your operations.</p>
+              <p>To conclude, do not forget to attend the grand opening of your franchise as well.</p>
               <p>With these steps, you are quite ready to enjoy the pleasures of being a franchise owner!</p>
 
               <h3>Holistic Profit with Big Deal Supermart</h3>
-              <p>In the Indian retail industry, ‘Big Deal Supermart’ has become one of the most recognizable names with its mission being to provide the best products at competitive prices. 2015 marked the beginning of a new franchise model that has grown exponentially within a short period owing to the dedication to quality and social responsibility. We boast of opening stores all over India in just a couple of years, with industry standards in supermarket opening histories.</p>
-              <p>We have a wide range of products, such as fresh fruits and vegetables, groceries, home and personal care items, nutritional products, etc. We offer the best products possible while trying our best to keep the prices low so that our franchisees can get good profits and improve the return on their investments.</p>
-              <p>The advantages of operating on the market as a franchisee of Big Deal Supermart include the existing brand name and the marketing support which allows you to operate efficiently. The profitability of the Big Deal Supermart franchise is high for an active person and is about 20%, which makes around ₹2,00,000 per month. Well-established logistic schemes and constant education in business processes put you in a position to make a prosperous business run.</p>
+              <p>In the Indian retail industry, ‘Big Deal Supermart’ has become one of the most recognizable names with
+                its mission being to provide the best products at competitive prices. 2015 marked the beginning of a new
+                franchise model that has grown exponentially within a short period owing to the dedication to quality
+                and social responsibility. We boast of opening stores all over India in just a couple of years, with
+                industry standards in supermarket opening histories.</p>
+              <p>We have a wide range of products, such as fresh fruits and vegetables, groceries, home and personal
+                care items, nutritional products, etc. We offer the best products possible while trying our best to keep
+                the prices low so that our franchisees can get good profits and improve the return on their investments.
+              </p>
+              <p>The advantages of operating on the market as a franchisee of Big Deal Supermart include the existing
+                brand name and the marketing support which allows you to operate efficiently. The profitability of the
+                Big Deal Supermart franchise is high for an active person and is about 20%, which makes around ₹2,00,000
+                per month. Well-established logistic schemes and constant education in business processes put you in a
+                position to make a prosperous business run.</p>
 
-              <p>Contact us now if you would like to explore more about evolving as a franchise for Big Deal Supermart and start working towards your financial freedom rapidly!
+              <p>Contact us now if you would like to explore more about evolving as a franchise for Big Deal Supermart
+                and start working towards your financial freedom rapidly!
               </p>
             </div>
           </div>
@@ -389,9 +525,17 @@
           <div class="col-lg-5 col-xl-4 offset-lg-1">
             <h2 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">About Us</h2>
             <p class="big wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">At <span
-                class="main-green">Big Deal Supermart</span>, we celebrate community, love, and aspirations. Since years back, when the fond memories of local markets as a child fueled the dream, the kitchens were filled with the noise of families coming together and neighbours becoming friends.</p>
-            <p class="big wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Whenever stepping in, one ceases to be a shopper and instead becomes a family member. Every fresh produce item, every essential grocery, and every household good is a reflection of our commitment to quality and affordability for every family. With every choice in our favour, you give chances to the farmers and artisans so that they can grow along with us.</p>
-            <p class="big wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Together, we will build a space where every person wins, and start a mini supermarket filled with emotion. Allow us to extend our heart, strength and success to this cause.</p>
+                class="main-green">Big Deal Supermart</span>, we celebrate community, love, and aspirations. Since years
+              back, when the fond memories of local markets as a child fueled the dream, the kitchens were filled with
+              the noise of families coming together and neighbours becoming friends.</p>
+            <p class="big wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Whenever stepping in, one
+              ceases to be a shopper and instead becomes a family member. Every fresh produce item, every essential
+              grocery, and every household good is a reflection of our commitment to quality and affordability for every
+              family. With every choice in our favour, you give chances to the farmers and artisans so that they can
+              grow along with us.</p>
+            <p class="big wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Together, we will build a
+              space where every person wins, and start a mini supermarket filled with emotion. Allow us to extend our
+              heart, strength and success to this cause.</p>
           </div>
         </div>
       </div>
@@ -432,32 +576,6 @@
   </section>
   <!-- Why Us Section HTML -->
 
-  <!-- Testimonial Section HTML -->
-  <!-- <section class="testimonial">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="subheading">
-            <h3><img src="assets/img/google-logo.png" alt=""> Reviews</h3>
-          </div>
-        </div>
-      </div>
-      <div id="carouselExampleControls1" class="carousel slide testi_carousel" data-ride="carousel"> -->
-        <!--? <php include 'common/testimonial.php'; ?> -->
-        <!-- <a class="carousel-control-prev" href="#carouselExampleControls1" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls1" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a> -->
-      <!-- </div>
-    </div>
-  </section> -->
-  <!-- Testimonial Section HTML -->
-
-
   <!-- FAQs Section HTML -->
   <section class="faqs">
     <div class="container">
@@ -484,7 +602,10 @@
 
               <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
-                The cost of investment in a franchise under BigDeal generally lies between ₹10 to ₹25 lakhs, based on the location and size of the outlet. This encompasses the franchise fees, equipment, stock, and also the running costs. Our team gives a detailed analysis for you to understand the breakdown of all the costs involved.
+                  The cost of investment in a franchise under BigDeal generally lies between ₹10 to ₹25 lakhs, based on
+                  the location and size of the outlet. This encompasses the franchise fees, equipment, stock, and also
+                  the running costs. Our team gives a detailed analysis for you to understand the breakdown of all the
+                  costs involved.
                 </div>
               </div>
             </div>
@@ -499,7 +620,10 @@
               </div>
               <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                 <div class="card-body">
-                For four weeks, we offer in-depth training focused on how to operate a store, manage the stock, interact with customers, and implement marketing tactics. Our continuing support helps you keep up with the current market trends and practices so that you prepare well for the running of your franchise, thus paving the way for the future success of the business.
+                  For four weeks, we offer in-depth training focused on how to operate a store, manage the stock,
+                  interact with customers, and implement marketing tactics. Our continuing support helps you keep up
+                  with the current market trends and practices so that you prepare well for the running of your
+                  franchise, thus paving the way for the future success of the business.
                 </div>
               </div>
             </div>
@@ -514,7 +638,10 @@
               </div>
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                 <div class="card-body">
-                There is no mandatory requirement for anyone to have worked in a retail environment before starting a franchise, although it is advantageous if they have. You will learn everything you need to efficiently operate a store in our comprehensive training program. Enthusiasm for service and readiness to be taught are important.
+                  There is no mandatory requirement for anyone to have worked in a retail environment before starting a
+                  franchise, although it is advantageous if they have. You will learn everything you need to efficiently
+                  operate a store in our comprehensive training program. Enthusiasm for service and readiness to be
+                  taught are important.
                 </div>
               </div>
             </div>
@@ -529,7 +656,11 @@
               </div>
               <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                 <div class="card-body">
-                Once the franchise has been opened, there is continuous support that is offered to the franchisee concerning the operations of the business, marketing and event management. Also included are updates concerning the business environment and trends quarterly, along with quarterly business reviews to provide you with all necessary tools to further enhance your profitability and achieve your business objectives.
+                  Once the franchise has been opened, there is continuous support that is offered to the franchisee
+                  concerning the operations of the business, marketing and event management. Also included are updates
+                  concerning the business environment and trends quarterly, along with quarterly business reviews to
+                  provide you with all necessary tools to further enhance your profitability and achieve your business
+                  objectives.
                 </div>
               </div>
             </div>
@@ -544,7 +675,10 @@
               </div>
               <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
                 <div class="card-body">
-                BigDeal aims to satisfy all customers by providing quality products. We have worked with more than a hundred suppliers who we trust and we regularly inspect their quality. We pay particular attention to young perishable goods and equity goods aiming at letting its franchisees offer the most affordable quality products to consumers.
+                  BigDeal aims to satisfy all customers by providing quality products. We have worked with more than a
+                  hundred suppliers who we trust and we regularly inspect their quality. We pay particular attention to
+                  young perishable goods and equity goods aiming at letting its franchisees offer the most affordable
+                  quality products to consumers.
                 </div>
               </div>
             </div>
@@ -559,7 +693,10 @@
               </div>
               <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                 <div class="card-body">
-                Most BigDeal franchises earn approximately 20% profit margins. The above-stated margins vary with the site, the size of the store, and how well the business is managed. Additionally, the structure of our business operations and constant help from our consultants serve to help enhance your returns and make profits when it comes to the retail markets.
+                  Most BigDeal franchises earn approximately 20% profit margins. The above-stated margins vary with the
+                  site, the size of the store, and how well the business is managed. Additionally, the structure of our
+                  business operations and constant help from our consultants serve to help enhance your returns and make
+                  profits when it comes to the retail markets.
                 </div>
               </div>
             </div>
@@ -574,7 +711,9 @@
               </div>
               <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
                 <div class="card-body">
-                Complete the application form on the BigDeal franchise website. After receiving and reviewing your application, we will arrange a meeting in order to get to know you and your objectives, perform a visit to the location and provide you with information on the further course of action.
+                  Complete the application form on the BigDeal franchise website. After receiving and reviewing your
+                  application, we will arrange a meeting in order to get to know you and your objectives, perform a
+                  visit to the location and provide you with information on the further course of action.
                 </div>
               </div>
             </div>
@@ -589,7 +728,9 @@
               </div>
               <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
                 <div class="card-body">
-                A Franchisee can expect an ROI of about 30% within the next 18-24 months of starting activities. This may change to regions, management efficiency, and community integrities but as we have proven strategies and support, you will earn much more than expectations.
+                  A Franchisee can expect an ROI of about 30% within the next 18-24 months of starting activities. This
+                  may change to regions, management efficiency, and community integrities but as we have proven
+                  strategies and support, you will earn much more than expectations.
                 </div>
               </div>
             </div>
@@ -604,7 +745,10 @@
               </div>
               <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
                 <div class="card-body">
-                BigDeal provides strong marketing assistance such as creating and implementing online marketing plans, running branding advertisements, and providing collateral. Franchisees are provided with marketing kits every 3 months consisting of marketing materials appropriate to the target market making sure the store has customers and retains them while creating brand equity.
+                  BigDeal provides strong marketing assistance such as creating and implementing online marketing plans,
+                  running branding advertisements, and providing collateral. Franchisees are provided with marketing
+                  kits every 3 months consisting of marketing materials appropriate to the target market making sure the
+                  store has customers and retains them while creating brand equity.
                 </div>
               </div>
             </div>
@@ -620,11 +764,14 @@
               </div>
               <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
                 <div class="card-body">
-                Although running a grocery franchise on a part-time basis is achievable, we do advocate full-time to run the franchise for maximum efficacy. Daily participation in the operations helps foster good customer relations and facilitates the running of the store, therefore increasing profitability and customer satisfaction.
+                  Although running a grocery franchise on a part-time basis is achievable, we do advocate full-time to
+                  run the franchise for maximum efficacy. Daily participation in the operations helps foster good
+                  customer relations and facilitates the running of the store, therefore increasing profitability and
+                  customer satisfaction.
                 </div>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>
@@ -639,20 +786,20 @@
         <h2>Wide variety of <span class="main-green">Popular</span> Brands</h2>
       </div>
       <div class="brand_list">
-      <ul class="first_list">
-        <li><img src="assets/img/2.webp" alt="check border"></li>
-        <li><img src="assets/img/7.webp" alt="check border"></li>
-        <li><img src="assets/img/6.webp" alt="check border"></li>
-        <li><img src="assets/img/5.webp" alt="check border"></li>
-        <li><img src="assets/img/4.webp" alt="check border"></li>
-        <li><img src="assets/img/3.webp" alt="check border"></li>
-        <li><img src="assets/img/1.webp" alt="check border"></li>
-        <li><img src="assets/img/Britannia_Industries.png" alt="check border"></li>
-        <li><img src="assets/img/Haldiram's_Logo.png" alt="check border"></li>
-        <li><img src="assets/img/Kwality_Walls_logo.png" alt="check border"></li>
-        <li><img src="assets/img/McCain-Logo.png" alt="check border"></li>
-      </ul>
-      </div>      
+        <ul class="first_list">
+          <li><img src="assets/img/2.webp" alt="check border"></li>
+          <li><img src="assets/img/7.webp" alt="check border"></li>
+          <li><img src="assets/img/6.webp" alt="check border"></li>
+          <li><img src="assets/img/5.webp" alt="check border"></li>
+          <li><img src="assets/img/4.webp" alt="check border"></li>
+          <li><img src="assets/img/3.webp" alt="check border"></li>
+          <li><img src="assets/img/1.webp" alt="check border"></li>
+          <li><img src="assets/img/Britannia_Industries.png" alt="check border"></li>
+          <li><img src="assets/img/Haldiram's_Logo.png" alt="check border"></li>
+          <li><img src="assets/img/Kwality_Walls_logo.png" alt="check border"></li>
+          <li><img src="assets/img/McCain-Logo.png" alt="check border"></li>
+        </ul>
+      </div>
     </div>
   </section>
   <!-- Quick Benefits HTML -->
@@ -679,7 +826,9 @@
                     </a>
                   </div>
                   <h2 class="text-center">Build your Beautiful and Secure Future with us Right Now!</h2>
-                  <p class="text-center text-white">Opt for a BigDeal Supermarket Franchise today and ensure your future self with financial security and the opportunity to build a thriving business. Cater to your community and seek everyone’s blessings!</p>
+                  <p class="text-center text-white">Opt for a BigDeal Supermarket Franchise today and ensure your future
+                    self with financial security and the opportunity to build a thriving business. Cater to your
+                    community and seek everyone’s blessings!</p>
                   <div class="btn-box">
                     <button type="submit" class="btn btn-primary">
                       <span>Purchase</span>
@@ -695,7 +844,55 @@
   </section>
 
   <!-- Footer HTML -->
-  <?php include 'common/footer.php'; ?>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="logo justify-content-center mb-4">
+            <a href="index">
+              <img src="assets/img/big-deal.webp" alt="startup india logo">
+            </a>
+          </div>
+          <div class="footer-link">
+            <ul class="nav-link">
+              <li class="nav-item">
+                <a class="nav-link" href="https://startupclubindia.com/">Home</a>
+              </li>
+              <li class="dropdown mega-dropdown">
+                <a class="nav-link" href="about.php"> About </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.php">Contact Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
+              </li>
+              <!-- <li class="nav-item">
+                            <a class="nav-link" href="" target="_blank">Download Brochure</a>
+                        </li> -->
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer_copyright">
+        <div class="row">
+          <div class="col-12 col-md-7">
+            <p class="copy_rights">Copyright &copy; 2020. Big Deal. All Rights Reserved.</p>
+          </div>
+          <div class="col-12 col-md-5">
+            <ul class="privacy_link">
+              <li><a href="#">Privacy</a></li>
+              <li><a href="#">Terms of Service</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
   <!-- Footer HTML -->
 
   <!-- Enquiry Modal -->
@@ -755,7 +952,40 @@
   <!-- Enquiry Modal -->
 
   <!-- Scripts -->
-  <?php include 'common/scripts.php'; ?>
+  <script src="assets/js/jquery.3.2.1.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/core.min.js"></script>
+  <script src="assets/js/script.js"></script>
+  <script src="assets/js/form-ajax.js" defer async></script>
+
+  <script>
+    $(window).scroll(function () {
+      var scroll = $(window).scrollTop();
+
+      if (scroll >= 100) {
+        $(".header").addClass("scrolledHeader");
+        $('.navbar-light.navbar_two .navbar-toggler-icon').css('background-image', 'url(assets/img/black-menu.svg)');
+      } else {
+        $(".header").removeClass("scrolledHeader");
+        $('.navbar-light.navbar_two .navbar-toggler-icon').css('background-image', 'url(assets/img/black-menu.svg)');
+      }
+    });
+
+    $(document).ready(function () {
+      $(".dropdown").hover(
+        function () {
+          $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+          $(this).toggleClass('open');
+        },
+        function () {
+          $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+          $(this).toggleClass('open');
+        }
+      );
+    });
+
+  </script>
   <!-- Scripts -->
 
 </body>
