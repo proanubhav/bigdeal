@@ -323,9 +323,9 @@ header {
 .navbar_two_nav li a.nav-link {
   color: #ee4f25 !important;
   padding: 15px 10px !important;
-  font-size: 15px !important;
-  text-transform: uppercase;
-  font-weight: 600;
+  font-size: 14px !important;
+  /* text-transform: uppercase; */
+  /* font-weight: 600; */
   white-space: nowrap;
 }
 
@@ -829,6 +829,19 @@ input:not(:placeholder-shown)+label.animate_label {
   border: 1px solid #fff;
 }
 
+.navbar_two_nav li a.nav-link.btn.btn-nav {
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 19px 16px 15px !important;
+  line-height: 1;
+  border: 1px solid #ee4f25;
+}
+.navbar_two_nav li a.nav-link.btn.btn-nav:hover {
+  background-color: #ee4f25;
+  color: #fff !important;  
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
 .btn-border {
   background: #000;
   opacity: 1;
@@ -1216,7 +1229,7 @@ input:not(:placeholder-shown)+label.animate_label {
   border: none;
   background-color: transparent;
   border-radius: 10px;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   padding: 0 1rem;
 }
 
@@ -1238,7 +1251,7 @@ input:not(:placeholder-shown)+label.animate_label {
   color: #ee4f25;
   font-weight: 600;
   font-size: 18px;
-  padding: 15px 0;
+  padding: 12px 0;
 }
 
 .btn-link.collapsed:after {
@@ -1609,13 +1622,13 @@ footer {
   top: 0;
 }
 
-.service_content h3 {
+.service_content h2 {
   font-family: 'Agrandir';
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
 }
 
-.service_content h3 strong {
+.service_content h2 strong {
   color: #0094de;
 }
 
@@ -1759,8 +1772,8 @@ footer {
   border-radius: 4px;
 }
 
-.subheading h3 {
-  font-size: 44px;
+.subheading h2, h2.wow {
+  font-size: 40px;
   color: #ee4f25;
   font-family: 'Agrandir';
 }
@@ -1825,7 +1838,7 @@ footer {
 
 /******* Quick Call to Action CSS *********/
 .quick_call {
-  background-color: #ee4f25;
+  background-color: #F1712C;
   padding: 3rem 0;
 }
 
@@ -1834,13 +1847,13 @@ footer {
   font-size: 1rem;
 }
 
-.quick_call h4 {
+.quick_call h2 {
   color: #fff;
   font-size: 36px;
   font-weight: 400;
 }
 
-.quick_call h4 strong {
+.quick_call h2 strong {
   color: #fff;
   background-image: linear-gradient(#2e79bd, #2e79bd);
   background-position: 0 2.1rem;
@@ -2996,7 +3009,7 @@ footer {
   overflow-y: scroll;
 }
 
-.quick_call h4 {
+.quick_call h2 {
   font-size: 36px;
   font-weight: 700;
 }
@@ -3306,6 +3319,63 @@ footer {
   }
   .benefit_sec_area {
     margin-top: 3rem;
+  }
+  .reason_start .feat_right_section {
+    overflow: auto;
+  }
+  body .reason_start .feat_right_section > .row {
+    flex-wrap: nowrap !important;
+  }
+  body .reason_start .feat_right_section > * > * {
+    max-width: 80% !important;
+    flex: 0 0 80% !important;
+  }
+  .feat_card img {
+    height: 50px;
+  }
+  .service_content {
+    padding: 0 !important;
+  }
+  .mobile-scroll {
+    overflow: auto;
+  }
+  .mobile-scroll .row {
+    flex-wrap: nowrap !important;
+  }
+  .mobile-scroll .row > * {
+    max-width: 90% !important;
+    flex: 0 0 90%;
+    flex-direction: column;
+  }
+  .card_margin {
+    margin-top: 0;
+  }
+  .services_card {
+    height: 325px;
+  }
+  .brand_list {
+    overflow: auto;    
+  }
+  .brand_list ul.first_list {
+    flex-wrap: nowrap !important;
+    justify-content: flex-start !important;
+    margin: 0 !important;
+  }
+  .quick_benefit ul li img {
+    width: auto;
+  }
+  .quick_benefit ul.first_list li:nth-child(4) img {
+    margin-top: 0;
+  }
+  .section-lg {
+    padding-bottom: 0 !important;    
+    padding-top: 0 !important;
+  }
+  .subheading h2, h2.wow, .quick_call h2, .service_content h2, .blue-bg h2 {
+    font-size: 24px;
+  }
+  .subheading h3, .why_startups h3 {
+    font-size: 16px;
   }
 }
 
@@ -4634,6 +4704,7 @@ div.white_txt {
   border-radius: 2px;
   padding: 10.5px 19px;
   background-color: #ce2d03;
+  font-size: 16px;
 }
 
 .banner-home__content .title {
@@ -4786,11 +4857,6 @@ footer .logo {
 
 .blue-bg .main-container .btn-primary {
   z-index: 999 !important;
-}
-
-.blue-bg h2 {
-  font-size: 4rem;
-  margin-bottom: 1.5rem;
 }
 
 .blue-bg p {
@@ -5086,7 +5152,7 @@ footer .logo {
     font-size: 12px;
   }
   .service_article {
-    padding: 2rem 0 3rem;
+    padding: 2rem 0 0;
   }
   .serv_article_card h2 {
     font-size: 2rem;
@@ -5122,6 +5188,9 @@ footer .logo {
   .mobile_footer {
     display: block;
   }   
+  .faqs {
+    padding: 0;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -5307,14 +5376,19 @@ footer .logo {
 }
 
 @media screen and (max-width: 767px) {
+  .landing_bg {
+    height: 450px;
+  }
   .blue-bg h2 {
-    font-size: 2.5rem;
+    font-size: 24px;
   }
 
   .wpb_wrapper {
-    padding: 0 2rem;
+    padding: 0;
   }
-
+  .why_startups {
+    margin: 3rem 0 0 0;
+  }
   .quick_benefit ul.second_list li {
     margin-bottom: 3rem;
   }
@@ -5355,6 +5429,9 @@ footer .logo {
   }
   .lil-reinforcement {
     margin-top: 0 !important;
+  }
+  .subheading p {
+    font-size: 13px;
   }
 }
 

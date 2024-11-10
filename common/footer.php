@@ -69,7 +69,13 @@
                             <a class="nav-link" href="contact">Contact Us</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="#">Apply Franchise</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://bigdealsupermart.com/wp-content/uploads/2022/02/G-Fresh-Mart-Franchise-Broucher-L.pdf" target="_blank">Download Brochure</a>
                         </li>
                     </ul>
                 </div>

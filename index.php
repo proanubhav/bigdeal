@@ -110,7 +110,7 @@
       <div class="row align-items-center">
         <div class="col-md-6">
           <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40">
-            <h6 class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Big Deal <span>Supermarket</span></h6>
+            <p class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Big Deal <span>Supermarket</span></p>
             <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Your Top Choice for a Successful Franchise in India</h1>
 
             <div class="description font-la color-white mb-45 mb-sm-15 mb-md-30 mb-sm-25 mb-xs-20">
@@ -148,7 +148,7 @@
   <section class="reason_start">
     <div class="container">
       <div class="subheading">
-        <h3>Reasons to <span class="main-green">consider us!</span></h3>
+        <h2>Reasons to <span class="main-green">consider us!</span></h2>
       </div>
       <div class="feat_right_section">
         <div class="row">
@@ -185,16 +185,16 @@
     </div>
     </div>
     <div class="container">
-      <div class="feat_right_section">
+      <div class="feat_right_section1">
         <div class="row flex-nowrap overflow-auto">
-          <div class="col-9 col-md-4">
+          <div class="col-6 col-md-4">
             <a href="https://hindustanbytes.com/g-fresh-mart-the-most-trusted-supermarket-franchise">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/hindustanBytes.png" alt="Affordable Pricing">
               </div>
             </a>
           </div>
-          <div class="col-10 col-md-4">
+          <div class="col-9 col-md-4">
             <a
               href="https://i0.wp.com/bigdealsupermart.com/wp-content/uploads/2022/06/enterprenuer-hunt.png?fit=1024%2C199&ssl=1">
               <div class="feat_card">
@@ -202,7 +202,7 @@
               </div>
             </a>
           </div>
-          <div class="col-10 col-md-4">
+          <div class="col-8 col-md-4">
             <a
               href="https://m.dailyhunt.in/news/india/english/josh+bharat-epaper-dh832812b9d1ff451aa43380d9b51fa20e/gfresh+mart+the+most+trusted+supermarket+franchise-newsid-dh832812b9d1ff451aa43380d9b51fa20e_35eee740e41811ecb7affd7a29584364">
               <div class="feat_card">
@@ -228,7 +228,7 @@
       <div class="row">
   <div class="col-12 col-md-5 col-lg-6">
     <div class="service_content sticky-left">
-      <h3>Why Work With Us?</h3>
+      <h2>Why Work With Us?</h2>
       <p>Choosing a Big Deal Supermart franchise in India is like hitting the jackpot! With our established brand recognition, you’ll be the go-to grocery store in no time. Our diverse product range means you can cater to every customer's craving, from snacks to soaps. Plus, our flexible business model lets you add your personal touch while still following our tried-and-true guidelines—no cookie-cutter stores here!</p>
       <p>Say goodbye to outdated systems! Our innovative technology makes inventory management a breeze and helps customers enjoy online shopping without the hassle. You’ll also become the local celebrity through fun community events and promotions that keep shoppers coming back for more.</p>
       <p>And don't worry! we've got your back with ongoing training and marketing support to keep your store buzzing. So, join Big Deal Supermart today, and let’s create a grocery adventure that’s profitable and entertaining!</p>              
@@ -239,7 +239,7 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-7 col-lg-6 mt-5">
+  <div class="col-12 col-md-7 col-lg-6 mt-5 mobile-scroll">
     <div class="row">
       <div class="col-6 col-md-6 col-lg-6">
         <div class="services_card card_margin">
@@ -296,7 +296,7 @@
           <div class="row">
             <div class="col-lg-12">
               <div class="subheading">
-                <h3>BigDeal Supermarket Franchise Model</h3>
+                <h2>BigDeal Supermarket Franchise Model</h2>
               </div>
               <p>At Big Deal Supermart, we are delighted to assist you in nurturing your ambitions of opening a successful supermarket. We aim to provide you with all the information and support necessary to start your hugely profitable grocery franchise business.</p>
               <p>Different franchise opportunities exist to suit different needs and budgets. A warm neighbouring store or a large operation comprising several stores, whichever you prefer you will find it here.</p>
@@ -465,7 +465,7 @@
         <div class="col-12">
           <div class="subheading">
             <!-- <p>FAQs</p> -->
-            <h3>Frequently Asked Questions</h3>
+            <h2>Frequently Asked Questions</h2>
           </div>
         </div>
       </div>
@@ -636,8 +636,9 @@
   <section class="quick_benefit">
     <div class="container">
       <div class="subheading">
-        <h3>Wide variety of <span class="main-green">Popular</span> Brands</h3>
+        <h2>Wide variety of <span class="main-green">Popular</span> Brands</h2>
       </div>
+      <div class="brand_list">
       <ul class="first_list">
         <li><img src="assets/img/2.webp" alt="check border"></li>
         <li><img src="assets/img/7.webp" alt="check border"></li>
@@ -646,13 +647,12 @@
         <li><img src="assets/img/4.webp" alt="check border"></li>
         <li><img src="assets/img/3.webp" alt="check border"></li>
         <li><img src="assets/img/1.webp" alt="check border"></li>
-      </ul>
-      <ul class="second_list">
         <li><img src="assets/img/Britannia_Industries.png" alt="check border"></li>
         <li><img src="assets/img/Haldiram's_Logo.png" alt="check border"></li>
         <li><img src="assets/img/Kwality_Walls_logo.png" alt="check border"></li>
         <li><img src="assets/img/McCain-Logo.png" alt="check border"></li>
       </ul>
+      </div>      
     </div>
   </section>
   <!-- Quick Benefits HTML -->
