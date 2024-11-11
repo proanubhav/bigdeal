@@ -229,11 +229,9 @@
           </div>
 
         </div> -->
-
-
       </div>
     </div>
-    <section class="ecomm_faq_sec our-team">
+    <!-- <section class="ecomm_faq_sec our-team">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-md-3">
@@ -289,7 +287,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- Free Demo Section HTML -->
   <?php include './common/free-demo.php'; ?>
   </article>
