@@ -60,12 +60,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="serv_article_card apply_franchise_head">
-                        <h2 class="text-center mb-3">Come build with us</h2>
-                        <p class="text-center mb-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-                            tenetur blanditiis
-                            corporis eos in quia, delectus eum. Natus labore inventore ad at sequi, minima expedita
-                            facere nemo
-                            consequatur debitis velit hic?</p>
+                        <h2 class="text-center mb-3">BIG PROFIT WITH BigDeal</h2>
+                        <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise! Our franchise model is built for a high-profit margin and strong back up to support you all along the way.</p>
                     </div>
                 </div>
             </div>
@@ -204,29 +200,29 @@
         <div class="reason_start why_us_section mt-5">
             <div class="container">
                 <div class="subheading">
-                    <h3 class="text-left">Why Us</h3>
+                    <h3 class="text-left">Why Partner with Us?</h3>
                 </div>
                 <div class="feat_right_section">
                     <div class="row">
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
                                 <img src="assets/img/discount.svg" alt="Affordable Pricing">
-                                <h3>Affordable Pricing</h3>
-                                <p>We are going to open your store in 45 days, so be ready for the big deals!</p>
+                                <h3>Maximum Profits</h3>
+                                <p>With proven BigDeal franchise model, maximize your profits.</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
                                 <img src="assets/img/savings.svg" alt="Timely Delivered">
-                                <h3>Best Margin</h3>
-                                <p>No one can present you this margin. We are going to give the best deals ever!</p>
+                                <h3>Renowned Brand</h3>
+                                <p>Kick-off easily backed by Bigdeal's existing customers.</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
                                 <img src="assets/img/code_review.svg" alt="Experienced Team">
-                                <h3>Best Software</h3>
-                                <p>Having the best software made us the superior ones among all.</p>
+                                <h3>Full Assistance</h3>
+                                <p>We're in support throughout.</p>
                             </div>
                         </div>
                     </div>
@@ -238,7 +234,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                   <div class="subheading">
-                      <h3 class="text-left">4 Step Procedure</h3>
+                      <h3 class="text-left">SIMPLE PROCEDURE</h3>
                   </div>
                     <section class="main-timeline-section mt-5">
                         <div class="timeline-start"></div>
@@ -250,7 +246,7 @@
                                 </div>
                                 <div class="meta-date"></div>
                                 <div class="content-box">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                    <p>Get in touch with us to obtain the preliminary information.</p>
                                 </div>
                             </div>
                             <div class="timeline-article timeline-article-bottom">
@@ -259,7 +255,7 @@
                                 </div>
                                 <div class="meta-date"></div>
                                 <div class="content-box">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                    <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
                                 </div>
                             </div>
                             <div class="timeline-article timeline-article-top">
@@ -268,7 +264,7 @@
                                 </div>
                                 <div class="meta-date"></div>
                                 <div class="content-box">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                    <p>Fill up and file the BigDeal franchise application form.</p>
                                 </div>
                             </div>
                             <div class="timeline-article timeline-article-bottom">
@@ -277,7 +273,25 @@
                                 </div>
                                 <div class="meta-date"></div>
                                 <div class="content-box">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                    <p>Give out documents and signatures for the agreement where required.</p>
+                                </div>
+                            </div>
+                            <div class="timeline-article timeline-article-top">
+                                <div class="content-date">
+                                    <span>5</span>
+                                </div>
+                                <div class="meta-date"></div>
+                                <div class="content-box">
+                                    <p>Select and conclude a profitable location with our help.</p>
+                                </div>
+                            </div>
+                            <div class="timeline-article timeline-article-bottom">
+                                <div class="content-date">
+                                    <span>6</span>
+                                </div>
+                                <div class="meta-date"></div>
+                                <div class="content-box">
+                                    <p>Attend training and installation before opening a new Bigdeal franchise!</p>
                                 </div>
                             </div>
                         </div>

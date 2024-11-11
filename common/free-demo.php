@@ -52,7 +52,7 @@
                             <div class="w-100">
                                 <div class="lil-reinforcement-title">
                                     <h2 class="">
-                                    <?php echo isset($headingText) ? $headingText : "Get Started Today with a Free Demo"; ?>    
+                                    <?php echo isset($headingText) ? $headingText : "Successful Franchise — Free demo away!"; ?>    
                                     </h2>
                                 </div>
                                 <div class="mt-md-5 mt-xs-2">

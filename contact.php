@@ -150,7 +150,7 @@
                     <h5>01.</h5>
                     <h4>Email us:</h4>
                     <p>Just shoot an email</p>
-                    <p><a href="tel:9468065626">+91-9468065626</a></p>
+                    <p><a href="mailto:info@startupclubindia.com">connect@bigdealsupermart.com</a></p>
                   </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-12 col-lg-6">
@@ -158,7 +158,7 @@
                     <h5>02.</h5>
                     <h4>Call us:</h4>
                     <p>Give us a missed call</p>
-                    <p><a href="mailto:info@startupclubindia.com">info@startupclubindia.com</a></p>
+                    <p><a href="tel:9468065626">(+91) - 1234567890</a></p>
                   </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-12 col-lg-6">

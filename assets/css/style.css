@@ -825,7 +825,7 @@ input:not(:placeholder-shown)+label.animate_label {
 
 .ecomm_get_here_card {
   border-radius: 8px;
-  box-shadow: 0 6px 45px 0 rgba(103, 151, 255, .11), 0 8px 65px 0 rgba(103, 151, 255, .11);
+  box-shadow: 0 6px 20px 0 rgba(103, 151, 255, .11), 0 8px 35px 0 rgba(103, 151, 255, .11);
   transition: .5s;
   overflow: hidden;
   margin-top: 0rem;
@@ -833,7 +833,7 @@ input:not(:placeholder-shown)+label.animate_label {
 }
 
 .ecomm_get_here_card:hover {
-  box-shadow: 0 10px 70px 0 rgba(103, 151, 255, .22), 0 15px 105px 0 rgba(103, 151, 255, .22);
+  box-shadow: 0 10px 30px 0 rgba(103, 151, 255, .22), 0 10px 35px 0 rgba(103, 151, 255, .22);
   transition: .5s
 }
 
@@ -1094,8 +1094,8 @@ input:not(:placeholder-shown)+label.animate_label {
   display: block;
   width: 100%;
   text-align: left;
-  color: #ee4f25;
-  font-weight: 600;
+  color: #000;
+  font-weight: normal;
   font-size: 18px;
   padding: 12px 0;
 }
@@ -1104,7 +1104,7 @@ input:not(:placeholder-shown)+label.animate_label {
   /* content: '\f105';
   font-family: "FontAwesome"; */
   float: right;
-  color: #ee4f25;
+  color: #000;
   margin-left: .255em;
   vertical-align: .255em;
   content: "";
@@ -1120,7 +1120,7 @@ input:not(:placeholder-shown)+label.animate_label {
   /* content: '\f107';
   font-family: "FontAwesome"; */
   float: right;
-  color: #ee4f25;
+  color: #000;
   margin-left: .255em;
   vertical-align: .255em;
   content: "";
@@ -1470,7 +1470,7 @@ footer {
 
 .service_content h2 {
   font-family: 'Agrandir';
-  font-size: 2.5rem;
+  font-size: 2.25rem;
   margin-bottom: 1.5rem;
 }
 
@@ -3030,7 +3030,8 @@ footer {
 .drop_email {
   margin-top: -8rem;
   border-radius: 16px;
-  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+  /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);   */
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1);
 }
 
 /* .services_top_sec h1.contact_title {
@@ -4566,7 +4567,7 @@ div.white_txt {
 }
 
 .banner-home__content .title {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 .mb-20 {
@@ -4869,6 +4870,8 @@ footer .logo {
 .timeline-article .content-box p {
   color: #fff;
   font-weight: 500;
+  margin-bottom: 0;
+  line-height: 1.25;
 }
 
 .timeline-article-top .content-box:before {
@@ -4886,7 +4889,7 @@ footer .logo {
 }
 
 .timeline-article-bottom .content-box {
-  top: -8%;
+  top: 10%;
 }
 
 .timeline-article-bottom .content-box:before {
@@ -4948,7 +4951,8 @@ footer .logo {
 .apply_franchise .card {
     border-radius: 16px;
     padding: 2rem;
-    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+    /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); */
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1);
 }
 .service_article .reason_start .feat_card {
   box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 1.5rem 2.2rem rgb(0 0 0 / 10%);
