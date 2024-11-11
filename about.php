@@ -63,7 +63,7 @@
       <div class="row align-items-center">
         <div class="col-lg-8 offset-lg-2">
           <div class="text-center mt-3">
-            <h1 class="about-title">We are changing the whole game.</h1>
+            <h1 class="about-title">Seize Profits and Build a Legacy with Us.</h1>
             <div class="theme-btn__wrapper d-flex justify-content-center mt-3 mb-1">
               <div class="btn-box">
                 <button href="blog.html" class="btn btn-primary">
@@ -187,13 +187,9 @@
         <div class="col-md-6">
           <div class="serv_article_card">
             <div class="intro_sec_area">
-              <h2>Easy way to start your business</h2>
-              <p>Startupclub India has taken initiative to assist startups providing pre incorporation compliance of all
-                applicable laws. Our vision is to provide excellent support to co-founders in respect of all the legal
-                compliances at affordable rates considering their business level & long term growth.</p>
-              <p>Co-founders need not to worry about compliance of applicable laws. We understand the liquidity issue of
-                new business with excellent business idea. We provide post incorporation legal compliance services with
-                the help of Complianceclubindia.com.</p>
+              <h2>The Smart Way to Start a Supermarket Franchise</h2>
+              <p>Establishing a supermarket chain benefits an investor at present times. BigDeal Supermarket franchise is a perfect place to begin and actualize one’s dreams. Big Deal Supermarket business franchisees enjoy a low risk and high return imitation of a working business model and thus it is understandable. We offer every tool and support that you need to establish and run your store successfully. We have elaborate coverage that includes real-time inventories and sales strategies, marketing and training so that you are already ready for business when you come to us.</p>
+              <p>Join Bigdeal Supermarket and be part of an industry-leading franchise that puts your success first.</p>
             </div>
           </div>
         </div>
@@ -204,16 +200,14 @@
                 <div class="benefit_area">
                   <h5>01.</h5>
                   <h4>Our Mission</h4>
-                  <p>To be the world's top organisation that provides wide range of legal services to startups
-                    considering their long term growth.</p>
+                  <p>To enable entrepreneurs with the ability to make profits out of an existing supermarket franchise business model which can accelerate growth and development.</p>
                 </div>
               </div>
               <div class="col-12">
                 <div class="benefit_area">
                   <h5>02.</h5>
                   <h4>Our Vision</h4>
-                  <p>To provide excellent support to co-founders in respect of all the legal compliances at affordable
-                    rates considering their business level & long term growth.</p>
+                  <p>Towards establishing the largest supermarket franchise network in India while focusing on quality, convenience, and long-term Supermarket franchise opportunities.</p>
                 </div>
               </div>
             </div>
@@ -244,7 +238,7 @@
       <div class="row">
         <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-md-3">
           <div class="subheading">
-            <h3>Our Leading, Strong And Creative Team</h3>
+            <h2>Our Leading, Strong And Creative Team</h2>
           </div>
         </div>
       </div>
@@ -297,7 +291,7 @@
     </div>
   </section>
   <!-- Free Demo Section HTML -->
-  <?php include 'free-demo.php'; ?>
+  <?php include './common/free-demo.php'; ?>
   </article>
   
   

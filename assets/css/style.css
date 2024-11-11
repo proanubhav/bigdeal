@@ -966,6 +966,11 @@ input:not(:placeholder-shown)+label.animate_label {
   font-family: 'Agrandir';
 }
 
+.launchSuperMarket {
+  width: 70%;
+  margin: 0 auto;
+}
+
 /******* Services Section ***********/
 
 /******* Feature Section CSS ***********/
@@ -2760,6 +2765,15 @@ footer {
   .btn-border span {
     font-size: 0.875rem;
   }  
+  .launchSuperMarket {
+    width: 90%;
+  }
+  .subheading h2, h2.wow, .quick_call h2, .service_content h2, .blue-bg h2, .blue-bg h2 {
+    font-size: 28px;
+  }
+  .subheading h3, .why_startups h3 {
+    font-size: 18px;
+  }
 }
 
 
@@ -3217,6 +3231,9 @@ footer {
   }
   .subheading h3, .why_startups h3 {
     font-size: 16px;
+  }
+  .launchSuperMarket {
+    width: 100%;
   }
 }
 
@@ -4906,9 +4923,9 @@ footer .logo {
   align-items: center;
 }
 
-.free-demo h3 {
+.free-demo h2 {
   line-height: 120%;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 700;
 }
 
@@ -4920,7 +4937,7 @@ footer .logo {
 
 /* free demo */
 .serv_article_card h2 {
-  font-size: 44px;
+  font-size: 40px;
 }
 .apply_franchise_head {
   margin-top: 2rem;
@@ -5038,10 +5055,17 @@ footer .logo {
     bottom: -260px;
   }
 }
-
-@media (max-width: 991px) {
+@media (max-width: 1299px) and (min-width: 992px) {
   .banner-home__content .title {
     font-size: 32px;
+  }
+  .banner-home__content .btn {
+    padding: 15px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .banner-home__content .title {
+    font-size: 24px;
     line-height: 1.25;
     margin-bottom: 0 !important;
   }
@@ -5055,7 +5079,7 @@ footer .logo {
     margin-bottom: 0.5rem;
   }
 
-  .free-demo h3 {
+  .free-demo h2 {
     font-size: 28px;
   }
   .franchise_img {
@@ -5198,10 +5222,6 @@ footer .logo {
 
   .wpb_content_element .logo img {
     display: block;
-  }
-
-  .blue-bg h2 {
-    font-size: 3rem;
   }
 
   .quick_benefit ul li {

@@ -76,9 +76,9 @@
             <p>You can incorporate your private company in 3 days with Startupclubindia.com. Minimum 2 Shareholders & 2 directors are required to register a Private Company.</p>
             <section class="service_benefit">
               <ul>
-                <li><img src="assets/img/check.svg" alt="check mark"> No Subscription</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Life-time Access</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> EMI Options Available</li>
+                <li><img src="assets/img/check.svg" alt="check mark"> Franchise Inquiry Today</li>
+                <li><img src="assets/img/check.svg" alt="check mark"> Own Your Future</li>
+                <li><img src="assets/img/check.svg" alt="check mark"> Profit with BigDeal</li>
               </ul>
             </section>
           </div>
@@ -231,7 +231,9 @@
       </div>
     </div>
   </article>
-  <?php include 'free-demo.php'; ?>
+  <?php
+  $headingText = "Successful Franchise — Free demo away!";
+  include './common/free-demo.php'; ?>
   <!-- Blog Section HTML -->
   <?php include 'common/articles.php'; ?>
   <!-- Blog Section HTML -->

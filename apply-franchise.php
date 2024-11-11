@@ -287,7 +287,7 @@
             </div>
         </div>
         <div class="mt-5">
-          <?php include 'free-demo.php'; ?>
+          <?php include './common/free-demo.php'; ?>
         </div>
     </article>
 
