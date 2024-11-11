@@ -52,6 +52,9 @@
                 <a class="nav-link" href="contact.php"> Contact Us </a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
               </li>
               <!-- <li class="nav-item">
