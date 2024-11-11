@@ -1511,49 +1511,57 @@ footer {
 .bg-llp_registration {
   width: 255px;
   height: 100px;
-  background: url('../img/import-export.jpg');
+  background: url('../img/card_img/card_img3.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-msme_registration {
   width: 255px;
   height: 100px;
-  background: url('../img/roc-filing.jpg');
+  background: url('../img/card_img/card_img_training.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-ngo_registration {
   width: 255px;
   height: 100px;
-  background: url('../img/accounting.jpg');
+  background: url('../img/card_img/card_img_comm_events.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-one_person_company {
   width: 255px;
   height: 100px;
-  background: url('../img/appoint-director.jpg');
+  background: url('../img/card_img/card_img__days.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-private_limited_company_registration {
   width: 255px;
   height: 100px;
-  background: url('../img/private-limited-company.jpg');
+  background: url('../img/card_img/card_img_branding.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-public_limited_company_registration {
   width: 255px;
   height: 100px;
   background: url('../img/public-limited-company.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-trademark_registration {
   width: 254px;
   height: 100px;
-  background: url('../img/trademark-registration.jpg');
+  background: url('../img/card_img/card_img_product_range.jpg');
+  background-size: 100% 100%;
 }
 
 .bg-gst_registration {
   width: 254px;
   height: 100px;
   background: url('../img/gst-registration.jpg');
+  background-size: 100% 100%;
 }
 
 /******* Service CSS *********/
