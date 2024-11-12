@@ -206,7 +206,7 @@
                     <div class="row">
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
-                                <img src="assets/img/max_profit.svg" alt="Affordable Pricing">
+                                <img src="assets/img/Maximum_Profits.svg" alt="Affordable Pricing">
                                 <h3>Maximum Profits</h3>
                                 <p>With proven BigDeal franchise model, maximize your profits.</p>
                             </div>
