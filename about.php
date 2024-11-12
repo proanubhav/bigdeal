@@ -71,8 +71,8 @@
                 </button>
               </div>
               <div class="btn-box ml-4">
-              <button href="about.html" class="btn btn-border border-none" style="background-color: #ee4f25;">
-                <span>Read More</span>
+              <button href="https://www.bigdealsupermart.com/blog/" class="btn btn-border border-none" style="background-color: #ee4f25;">
+                <span>Read Our Blog</span>
               </button>
               </div>
             </div>

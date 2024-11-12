@@ -163,7 +163,7 @@ header {
 
 .navbar_two_nav li a.nav-link {
   color: #ee4f25 !important;
-  padding: 15px 10px !important;
+  padding: 12px 10px !important;
   font-size: 14px !important;
   /* text-transform: uppercase; */
   /* font-weight: 600; */
@@ -324,7 +324,7 @@ header {
 }
 
 .logo img {
-  width: 150px;
+  width: 130px;
 }
 
 
@@ -430,7 +430,8 @@ header {
 
 .top_header ul li a {
   color: #fff;
-  font-weight: 600;
+  font-weight: 500;
+  font-size: 13px;
 }
 
 .description p {
@@ -999,7 +1000,8 @@ input:not(:placeholder-shown)+label.animate_label {
 }
 
 .feat_card {
-  padding: 30px 10px !important;
+  padding: 20px !important;
+  border-radius: 20px;
   text-align: center;
 }
 
@@ -2704,7 +2706,7 @@ footer {
 @media (min-width: 1024px) and (max-width: 1365px) {
 
   .navbar_two_nav li a.nav-link {
-    padding: 15px 10px !important;
+    padding: 12px 10px !important;
   }
 
   .hidden-lg {
@@ -2814,7 +2816,7 @@ footer {
 } */
 
 .navbar_two {
-  padding: 15px 0;
+  padding: 10px 0;
 }
 
 /****** Top Section *******/
@@ -3021,15 +3023,12 @@ footer {
   align-items: center;
   padding-left: 8px;
   color: #fff;
-  /* background: #ee4f25; */
   background: linear-gradient(90deg, #ee4f25 0%, #e91e63 100%);
-  h2 {
+  h3 {
     margin-bottom: 0;
     font-weight: 500;
     font-size: 14px;
-    a {
-      color: #fff !important;
-    }
+    color: #fff !important;
   }
 }
 
@@ -3872,6 +3871,7 @@ footer {
 }
 .wpb_wrapper h2 {
   font-size: 40px;
+  margin-bottom: 1rem;
 }
 .vc_row {
   position: relative;
@@ -4835,6 +4835,7 @@ footer .logo {
   margin: auto;
   height: 300px;
   min-width: 700px;
+  padding: 0 1.5rem;
 }
 
 .main-timeline-section .timeline-start,
@@ -4904,7 +4905,7 @@ footer .logo {
 }
 
 .timeline-article .content-box {
-  box-shadow: 2px 2px 4px 0px #c1c1c1;
+  box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 0.5rem 1.2rem rgb(0 0 0 / 10%);
   border: 1px solid #fff;
   border-radius: 5px;
   background-color: #fff;
@@ -4917,7 +4918,7 @@ footer .logo {
 }
 
 .timeline-article .content-box p {
-  color: #000;
+  color: #55536e;
   font-weight: 500;
   margin-bottom: 0;
   line-height: 1.25;
@@ -4996,6 +4997,7 @@ footer .logo {
 }
 .apply_franchise_head {
   margin-top: 2rem;
+  padding: 0 6rem;
 } 
 .apply_franchise {
   margin-top: 2rem;
@@ -5003,6 +5005,7 @@ footer .logo {
 .apply_franchise .card {
     border-radius: 16px;
     padding: 2rem;
+    border: none;
     /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); */
     box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1);
 }

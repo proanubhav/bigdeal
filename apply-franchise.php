@@ -60,7 +60,7 @@
       <div class="row">
         <div class="col-12">
           <div class="serv_article_card apply_franchise_head">
-            <h2 class="text-center mb-3">Big Profit with BigDeal</h2>
+            <h2 class="text-center mb-3">Big Profit with <span class="main-green">BigDeal</span></h2>
             <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise!
               Our franchise model is built for a high-profit margin and strong back up to support you all along the way.
             </p>
@@ -201,7 +201,7 @@
     <div class="reason_start why_us_section mt-5">
       <div class="container">
         <div class="subheading">
-          <h3 class="text-left">Why Partner with us?</h3>
+          <h3 class="text-left">Why Partner <span class="main-green">with us?</span></h3>
         </div>
         <div class="feat_right_section">
           <div class="row">
@@ -235,7 +235,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="subheading">
-            <h3 class="text-left">Simple Procedure</h3>
+            <h3 class="text-left">Simple <span class="main-green">Procedure</span></h3>
           </div>
           <div class="timeline-wrapper">
             <section class="main-timeline-section mt-5">
