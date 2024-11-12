@@ -161,7 +161,7 @@
                     <p><a href="tel:9468065626">(+91) - 1234567890</a></p>
                   </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-12 col-lg-6">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
                   <div class="benefit_area">
                     <h5>03.</h5>
                     <h4>Visit us:</h4>
@@ -174,54 +174,54 @@
             <div class="col-12 col-md-7">
               <div class="card drop_email">
                 <div class="card-body">
-                <h2>Drop an Email</h2>
-            <form method="POST" action="./ajax/contact.php" id="desktop-contact-form">
-              <div class="row">
-                <div class="col-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="name" id="exampleInputName1" aria-describedby="emailHelp" placeholder="NAME">
-                    <label class="animate_label" for="exampleInputName1">NAME</label>
-                    <div>
-                      <span class="prettyprint" id="name_error"></span>
+                <h3>Team will <span class="main-green">call you back!</h3>
+                  <form method="POST" action="./ajax/contact.php" id="desktop-contact-form">
+                    <div class="row">
+                      <div class="col-12">
+                        <div class="form-group">
+                          <input type="text" class="form-control" name="name" id="exampleInputName1" aria-describedby="emailHelp" placeholder="NAME">
+                          <label class="animate_label" for="exampleInputName1">NAME</label>
+                          <div>
+                            <span class="prettyprint" id="name_error"></span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <div class="form-group">
+                          <input type="text" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
+                          <label class="animate_label" for="exampleInputEmail1">EMAIL ADDRESS</label>
+                          <div>
+                            <span class="prettyprint" id="email_error"></span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <div class="form-group">
+                          <input type="text" class="form-control" name="contact" id="exampleInputNumber1" aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
+                          <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
+                          <div>
+                            <span class="prettyprint" id="contact_error"></span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-12">
+                        <div class="form-group">
+                          <input type="text" class="form-control" name="message" id="exampleInputComment1" aria-describedby="emailHelp" placeholder="MESSAGE">
+                          <label class="animate_label" for="exampleInputComment1">COMMENT</label>
+                        </div>
+                      </div>
+                      <div>
+                        <span class="prettyprint" id="thank_you_msg_desktop"></span>
+                      </div>
+                      <div class="col-12 col-md-4">
+                      <div class="btn-box border-black">
+                        <button type="submit" class="btn btn-border">
+                          <span>Register</span>
+                        </button>
+                      </div>
+                      </div>
                     </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
-                    <label class="animate_label" for="exampleInputEmail1">EMAIL ADDRESS</label>
-                    <div>
-                      <span class="prettyprint" id="email_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="contact" id="exampleInputNumber1" aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
-                    <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
-                    <div>
-                      <span class="prettyprint" id="contact_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="message" id="exampleInputComment1" aria-describedby="emailHelp" placeholder="MESSAGE">
-                    <label class="animate_label" for="exampleInputComment1">COMMENT</label>
-                  </div>
-                </div>
-                <div>
-                  <span class="prettyprint" id="thank_you_msg_desktop"></span>
-                </div>
-                <div class="col-12 col-md-4">
-                <div class="btn-box border-black">
-                  <button type="submit" class="btn btn-border">
-                    <span>Register</span>
-                  </button>
-                </div>
-                </div>
-              </div>
-            </form>
+                  </form>
                 </div>
               </div>            
             </div>

@@ -40,7 +40,6 @@
                 <div class="col-12 col-md-5">
                     <ul class="privacy_link">
                     <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                        <li><a href="#">Terms of Service</a></li>
                     </ul>
                 </div>
             </div>
