@@ -187,7 +187,7 @@
         <div class="col-md-6">
           <div class="serv_article_card">
             <div class="intro_sec_area">
-              <h2>The Smart Way to Start a Supermarket Franchise</h2>
+              <h2>The Smart Way to Start a <span class="main-green">Supermarket Franchise</span></h2>
               <p>Establishing a supermarket chain benefits an investor at present times. BigDeal Supermarket franchise is a perfect place to begin and actualize one’s dreams. Big Deal Supermarket business franchisees enjoy a low risk and high return imitation of a working business model and thus it is understandable. We offer every tool and support that you need to establish and run your store successfully. We have elaborate coverage that includes real-time inventories and sales strategies, marketing and training so that you are already ready for business when you come to us.</p>
               <p>Join Bigdeal Supermarket and be part of an industry-leading franchise that puts your success first.</p>
             </div>

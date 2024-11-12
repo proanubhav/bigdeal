@@ -3093,6 +3093,7 @@ footer {
   color: #fff !important;
 }
 
+
 /******* Service Page Section ***********/
 
 
@@ -3653,7 +3654,7 @@ footer {
 }
 
 .image-group-1 .image-group-item-6 {
-  bottom: -12%;
+  bottom: -25%;
   right: 1%;
 }
 
@@ -4767,11 +4768,6 @@ footer .logo {
   background-color: rgba(67, 180, 20, 0.1);
 }
 
-.banner-about .about-title {
-  font-size: 4rem;
-  margin-top: 3rem;
-}
-
 .our-team img {
   width: 100%;
 }
@@ -5016,7 +5012,10 @@ footer .logo {
 .drop_email .card-body {
     padding: 3rem !important;
 }
-
+.banner-about .about-title {
+  font-size: 4rem;
+  margin-top: 3rem;
+}
 /* home banner check start */
 
 /* @media (max-width: 1199px) {
@@ -5053,7 +5052,7 @@ footer .logo {
   }
 
   .banner-about .about-title {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     margin-top: 1rem;
   }
   .btn span {
@@ -5063,7 +5062,7 @@ footer .logo {
     padding: 2rem 0 0;
   }
   .serv_article_card h2 {
-    font-size: 2rem;
+    font-size: 24px;
   }
   footer {
     padding-top: 0;
@@ -5109,6 +5108,12 @@ footer .logo {
     font-size: 28px;
     color: #000;
   }
+  .benefit_area h5 {
+    font-size: 32px;
+  }
+  .benefit_area h4 {
+    font-size: 16px;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -5151,6 +5156,12 @@ footer .logo {
   .franchise_img {
     display: none;
   }
+  .section-lg {
+    padding: 40px 0;
+  }  
+  .banner-about .about-title {
+    font-size: 2rem;
+  }
 }
 
 @media (max-width: 380px) {
@@ -5185,6 +5196,9 @@ footer .logo {
     height: auto !important;
     padding: 10px 20px !important;
   }  
+  .banner-about .about-title {
+    font-size: 32px;
+  }
 }
 
 @media (max-width: 575px) {
