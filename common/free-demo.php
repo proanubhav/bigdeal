@@ -49,7 +49,7 @@
                 <div class="col-12">
                     <div class="lil-reinforcement d-flex my-5">
                         <div class="free-demo my-0">
-                            <div class="w-100">
+                            <div class="w-50">
                                 <div class="lil-reinforcement-title">
                                     <h2 class="">
                                     <?php echo isset($headingText) ? $headingText : "Successful Franchise — Free demo away!"; ?>    
@@ -62,8 +62,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="d-flex w-100">
-                                <img class="d-flex" src="assets/img/happy_news.svg" alt="readysection">
+                            <div class="d-flex">
+                                <img src="assets/img/happy_news.svg" alt="readysection">
                             </div>
                         </div>
                     </div>

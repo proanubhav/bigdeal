@@ -560,8 +560,8 @@ span.main-green {
   font-size: 12px;
   width: 100.1%;
   background: #FFFFFF 0% 0% no-repeat padding-box;
-  border: 2px solid #2e79bd;
-  border-radius: 8px;
+  border: 2px solid #737373;
+  border-radius: 0;
   font-weight: 400;
   padding: 8px 12px 8px 12px;
   height: 50px;
@@ -3065,8 +3065,9 @@ footer {
   display: block;
 }
 .drop_email {
-  margin-top: -8rem;
-  border-radius: 16px;
+  margin-top: -10rem;
+  border: none;
+  border-radius: 25px;
   /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);   */
   box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1);
 }
@@ -3546,7 +3547,7 @@ footer {
 }
 
 .service_article {
-  padding: 5rem 0 3rem;
+  padding: 3rem 0 3rem;
 }
 
 .privacy_page {
@@ -4907,7 +4908,7 @@ footer .logo {
 .timeline-article .content-box {
   box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 0.5rem 1.2rem rgb(0 0 0 / 10%);
   border: 1px solid #fff;
-  border-radius: 5px;
+  border-radius: 10 px;
   background-color: #fff;
   width: 180px;
   position: absolute;
@@ -4965,7 +4966,7 @@ footer .logo {
   display: flex;
   align-items: center;
   box-shadow: 0px 30px 60px 0px rgb(164 172 179 / 20%);
-  border-radius: 12px;
+  border-radius: 20px;
 }
 
 .free-demo {
@@ -4987,7 +4988,7 @@ footer .logo {
 
 .free-demo img {
   width: 100%;
-  max-height: 250px;
+  max-height: 300px;
   padding-top: 1rem;
 }
 
@@ -4997,17 +4998,17 @@ footer .logo {
 }
 .apply_franchise_head {
   margin-top: 2rem;
-  padding: 0 6rem;
+  padding: 0 10rem;
 } 
 .apply_franchise {
   margin-top: 2rem;
 }
 .apply_franchise .card {
     border-radius: 16px;
-    padding: 2rem;
+    padding: 0;
     border: none;
     /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); */
-    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1); */
 }
 .service_article .reason_start .feat_card {
   box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 1.5rem 2.2rem rgb(0 0 0 / 10%);
@@ -5018,6 +5019,7 @@ footer .logo {
 
 .drop_email .card-body {
     padding: 3rem !important;
+    border: none;
 }
 
 /* home banner check start */
@@ -5359,6 +5361,9 @@ footer .logo {
   }
   .subheading p {
     font-size: 13px;
+  }
+  .apply_franchise_head {
+    padding: 0;
   }
 }
 

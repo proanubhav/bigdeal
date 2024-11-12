@@ -72,12 +72,12 @@
     <div class="apply_franchise">
       <div class="container">
         <div class="row">
-          <div class="col-12 col-lg-5 franchise_img">
+          <div class="col-12 col-lg-6 franchise_img">
             <div class="image d-flex justify-content-center align-items-center h-100">
               <img style="width: 95%" src="./assets/img/frenchise.svg" />
             </div>
           </div>
-          <div class="col-12 col-lg-7">
+          <div class="col-12 col-lg-6">
             <div class="card">
               <div class="card-body py-4">
                 <div class="row">
