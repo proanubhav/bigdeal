@@ -206,21 +206,21 @@
                     <div class="row">
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
-                                <img src="assets/img/discount.svg" alt="Affordable Pricing">
+                                <img src="assets/img/max_profit.svg" alt="Affordable Pricing">
                                 <h3>Maximum Profits</h3>
                                 <p>With proven BigDeal franchise model, maximize your profits.</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
-                                <img src="assets/img/savings.svg" alt="Timely Delivered">
+                                <img src="assets/img/Renowned_Brand.svg" alt="Timely Delivered">
                                 <h3>Renowned Brand</h3>
                                 <p>Kick-off easily backed by Bigdeal's existing customers.</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-4 mb-sm-3">
                             <div class="feat_card">
-                                <img src="assets/img/code_review.svg" alt="Experienced Team">
+                                <img src="assets/img/full_assistance.svg" alt="Experienced Team">
                                 <h3>Full Assistance</h3>
                                 <p>We're in support throughout.</p>
                             </div>

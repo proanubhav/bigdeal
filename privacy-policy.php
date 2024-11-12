@@ -62,13 +62,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Privacy Policy</h2>
+                    <h1>Privacy Policy</h1>
                     <p>Welcome to [Your Company/Website Name]! Your privacy is important to us. This Privacy Policy
                         explains how we collect, use, and protect the personal information you provide to us through our
                         website, services, or interactions with our company. By using our website or services, you
                         consent to the terms outlined in this policy.</p>
 
-                    <h3>1. Information We Collect</h3>
+                    <h2>1. Information We Collect</h2>
                     <p>We may collect the following types of information:</p>
                     <ul>
                         <li><strong>Personal Information:</strong> Information that can be used to identify you, such as
@@ -80,7 +80,7 @@
                             is used. You can manage cookie preferences through your browser settings.</li>
                     </ul>
 
-                    <h3>2. How We Use Your Information</h3>
+                    <h2>2. How We Use Your Information</h2>
                     <p>We may use your information for the following purposes:</p>
                     <ul>
                         <li><strong>To Provide and Improve Services:</strong> To operate, maintain, and improve our
@@ -93,27 +93,27 @@
                             obligations, or to protect our rights.</li>
                     </ul>
 
-                    <h3>3. Information Sharing and Disclosure</h3>
+                    <h2>3. Information Sharing and Disclosure</h2>
                     <p>We do not sell, trade, or otherwise transfer your personal information to outside parties except
                         as described in this Privacy Policy or with your consent. We may share information with trusted
                         partners who assist us in operating our website, conducting our business, or serving our users,
                         so long as those parties agree to keep this information confidential.</p>
 
-                    <h3>4. Data Security</h3>
+                    <h2>4. Data Security</h2>
                     <p>We implement various security measures to maintain the safety of your personal information.
                         However, no data transmission over the internet or electronic storage method is 100% secure, so
                         we cannot guarantee absolute security.</p>
 
-                    <h3>5. Your Rights and Choices</h3>
+                    <h2>5. Your Rights and Choices</h2>
                     <p>You have the right to access, update, or delete your personal information. You may also have the
                         right to object to or restrict certain processing activities. To exercise these rights, please
                         contact us at [Your Contact Information].</p>
 
-                    <h3>6. Changes to This Privacy Policy</h3>
+                    <h2>6. Changes to This Privacy Policy</h2>
                     <p>We may update this Privacy Policy periodically to reflect changes in our practices or legal
                         requirements. We encourage you to review this policy regularly for updates.</p>
 
-                    <h3>7. Contact Us</h3>
+                    <h2>7. Contact Us</h2>
                     <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
                     <p>Email: <a href="mailto:contact@yourcompany.com">contact@yourcompany.com</a></p>
                     <p>Phone: [Your Company Phone Number]</p>

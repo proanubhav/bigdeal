@@ -63,7 +63,7 @@ body {
 }
 
 p {
-  font-size: 14px;
+  font-size: 13px;
   line-height: 26px;
   color: #55536e;
   font-family: 'Agrandir';
@@ -1045,7 +1045,7 @@ input:not(:placeholder-shown)+label.animate_label {
 
 .feat_card p {
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 13px;
   padding-left: 0rem;
 }
 
@@ -1486,7 +1486,7 @@ footer {
 }
 
 .service_content p {
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 400;
 }
 
@@ -2249,11 +2249,12 @@ footer {
 .privacy-policy {
   padding: 10rem 0 3rem;
 }
-.privacy-policy h2 {
+.privacy-policy h1 {
   font-size: 36px;
 }
-.privacy-policy h3 {
+.privacy-policy h2 {
   font-size: 28px;
+  color: #000;
 }
 
 /******* Privacy Policy End ********/
@@ -2489,7 +2490,7 @@ footer {
 }
 
 .benefit_area p {
-  font-size: 14px;
+  font-size: 13px;
   margin: 0;
 }
 
@@ -5077,11 +5078,12 @@ footer .logo {
   .privacy-policy {
     padding: 6rem 0 2rem;
   }
-  .privacy-policy h2 {
+  .privacy-policy h1 {
     font-size: 36px;
   }
-  .privacy-policy h3 {
+  .privacy-policy h2 {
     font-size: 28px;
+    color: #000;
   }
 }
 
