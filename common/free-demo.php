@@ -63,7 +63,7 @@
                                 </div>
                             </div>
                             <div class="d-flex w-100">
-                                <img class="d-flex" src="assets/img/demo.png" alt="readysection">
+                                <img class="d-flex" src="assets/img/free-demo.svg" alt="readysection">
                             </div>
                         </div>
                     </div>
