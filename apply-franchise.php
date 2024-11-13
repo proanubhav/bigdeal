@@ -60,7 +60,7 @@
       <div class="row">
         <div class="col-12">
           <div class="serv_article_card apply_franchise_head">
-            <h2 class="text-center mb-3">Big Profit with <span class="main-green">BigDeal</span></h2>
+            <h1 class="text-center mb-3">Big Profit with BigDeal</h1>
             <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise!
               Our franchise model is built for a high-profit margin and strong back up to support you all along the way.
             </p>
@@ -201,28 +201,28 @@
     <div class="reason_start why_us_section mt-5">
       <div class="container">
         <div class="subheading">
-          <h3 class="text-left">Why Partner <span class="main-green">with us?</span></h3>
+          <h2 class="text-left">Why Partner <span class="main-green">with us?</span></h2>
         </div>
         <div class="feat_right_section">
           <div class="row">
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
                 <img src="assets/img/Maximum_Profits.svg" alt="Affordable Pricing">
-                <h3>Maximum Profits</h3>
+                <h2>Maximum Profits</h2>
                 <p>With proven BigDeal franchise model, maximize your profits.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
                 <img src="assets/img/Renowned_Brand.svg" alt="Timely Delivered">
-                <h3>Renowned Brand</h3>
+                <h2>Renowned Brand</h2>
                 <p>Kick-off easily backed by Bigdeal's existing customers.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
                 <img src="assets/img/full_assistance.svg" alt="Experienced Team">
-                <h3>Full Assistance</h3>
+                <h2>Full Assistance</h2>
                 <p>We're in support throughout.</p>
               </div>
             </div>
@@ -235,7 +235,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="subheading">
-            <h3 class="text-left">Simple <span class="main-green">Procedure</span></h3>
+            <h2 class="text-left">Simple <span class="main-green">Procedure</span></h2>
           </div>
           <div class="timeline-wrapper">
             <section class="main-timeline-section mt-5">

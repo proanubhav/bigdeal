@@ -3161,7 +3161,7 @@ footer {
 
 
   .hidden-xs {
-    display: none;
+    display: none !important;
   }
 
   .padd_left_zero {
@@ -3213,7 +3213,7 @@ footer {
       flex-direction: column-reverse !important;
   }
   .benefit_sec_area {
-    margin-top: 3rem;
+    margin-top: 1rem;
   }
   .reason_start .feat_right_section {
     overflow: auto;
@@ -4831,7 +4831,7 @@ footer .logo {
   width: 100%;
   margin: auto;
   height: 300px;
-  min-width: 700px;
+  min-width: 800px;
   padding: 0 1.5rem;
 }
 
@@ -5119,6 +5119,15 @@ footer .logo {
   .benefit_area h4 {
     font-size: 16px;
   }
+  .w-sm-100 {
+    width: 100% !important;
+  }
+  .mt-xs-2 {
+    margin-top: 2rem !important;
+  }
+  .top_header {
+    display: none !important;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -5166,6 +5175,9 @@ footer .logo {
   }  
   .banner-about .about-title {
     font-size: 2rem;
+  }
+  .service_article {
+    padding-bottom: 0 !important;
   }
 }
 
