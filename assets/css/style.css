@@ -528,24 +528,6 @@ span.main-green {
   height: 600px;
 }
 
-.slideOne {
-  background: linear-gradient(96.87deg, #ee4f251f 0%, #0e1b4130 100%), url('../../assets/img/slide-1.jpg');
-  background-size: cover;
-  width: 100%;
-}
-
-.slideTwo {
-  background: linear-gradient(96.87deg, #ee4f251f 0%, #0e1b4130 100%), url(../../assets/img/slide-2.jpg);
-  background-size: cover;
-  width: 100%;
-}
-
-.slideThree {
-  background: linear-gradient(96.87deg, #ee4f251f 0%, #0e1b4130 100%), url('../../assets/img/slide-3.jpg');
-  background-size: cover;
-  width: 100%;
-}
-
 /******* Top Section CSS **********/
 
 /******* Forms CSS **********/
@@ -801,23 +783,6 @@ input:not(:placeholder-shown)+label.animate_label {
 
 /******* Forms CSS **********/
 
-
-/******* Call to Action Section ***********/
-.cta_first {
-  padding: 60px 0;
-  background: linear-gradient(rgb(96 125 139 / 10%) 100%, rgb(96 125 139 / 10%)100%), url(../img/map-background.webp);
-}
-
-.cta_content {
-  text-align: center;
-}
-
-.cta_content p {
-  margin-bottom: 30px;
-  font-size: 18px;
-}
-
-/******* Call to Action Section ***********/
 
 /******* Why Us Section CSS ***********/
 .ecomm_faq_sec {
@@ -1500,70 +1465,6 @@ footer {
 
 .service_content .btn-box {
   margin-top: 1rem;
-}
-
-
-.bg-company_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/public-limited-company.jpg');
-  margin-bottom: 0.4rem;
-}
-
-.bg-llp_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img3.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-msme_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img_training.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-ngo_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img_comm_events.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-one_person_company {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img__days.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-private_limited_company_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img_branding.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-public_limited_company_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/public-limited-company.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-trademark_registration {
-  width: 254px;
-  height: 100px;
-  background: url('../img/card_img/card_img_product_range.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-gst_registration {
-  width: 254px;
-  height: 100px;
-  background: url('../img/gst-registration.jpg');
-  background-size: 100% 100%;
 }
 
 /******* Service CSS *********/
@@ -3040,8 +2941,7 @@ footer {
   margin-bottom: 2rem;
 }
 
-.blog_sec,
-.cta_first {
+.blog_sec {
   padding: 2rem 0;
 }
 
@@ -3518,9 +3418,6 @@ footer {
 /***** Blog Section ********/
 
 /**** CTA Section *********/
-.cta_first {
-  padding: 2rem 0;
-}
 
 .section_heading {
   padding: 0;

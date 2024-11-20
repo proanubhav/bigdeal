@@ -17,11 +17,10 @@
   </div>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light bg-light navbar_two">
-
       <div class="mobile_logo">
         <div class="logo">
           <a href="/">
-            <img src="assets/img/big-deal.webp" alt="startup india logo">
+            <img src="assets/img/bigdeal-supermart-logo.webp" alt="Bigdeal Supermart Franchise logo">
           </a>
         </div>
       </div>
@@ -36,14 +35,14 @@
           <div class="col-12 col-md-12 col-lg-4">
             <div class="logo">
               <a href="/">
-                <img src="assets/img/big-deal.webp" alt="startup india logo">
+                <img src="assets/img/bigdeal-supermart-logo.webp" alt="Bigdeal Supermart Franchise logo">
               </a>
             </div>
           </div>
           <div class="col-12 col-md-12 col-lg-8 pr-0">
             <ul class="navbar-nav mr-auto navbar_two_nav float-right">
               <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://www.bigdealsupermart.com/">Home</a>
               </li>
               <li class="dropdown mega-dropdown">
                 <a class="nav-link" href="about.php"> About </a>

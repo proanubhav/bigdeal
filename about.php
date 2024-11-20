@@ -7,35 +7,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Private Limited Company Registration | Online Company Formation</title>
+  <title>About | BigDeal Supermarket Franchise | Know More About Us </title>
   <meta name="description"
-    content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
   <meta name="keywords"
-    content="Company Registration, Register a company, Company formation, how to register a company, company registration in india, pvt ltd company,  online company registration. Private limited company registration, registrar of companies india, register company name">
+    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Startup Club India">
+  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Private Limited Company Registration | Online Company Formation">
-  <meta property="og:url" content="https://www.startupclubindia.com/private-limited-company-registration">
+  <meta property="og:title" content="BigDeal Supermarket Franchise | Know More About Us ">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/about.php">
   <meta property="og:description"
-    content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta property="og:image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-  <meta property="og:image:alt" content="company registration">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+  <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+  <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:domain" content="www.startupclubindia.com">
+  <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="Private Limited Company Registration | Online Company Formation">
-  <meta name="twitter:url" content="https://www.startupclubindia.com/private-limited-company-registration">
+  <meta name="twitter:title" content="BigDeal Supermarket Franchise | Know More About Us ">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/about.php">
   <meta name="twitter:description"
-    content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta name="twitter:image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-  <meta itemprop="name" content="Private Limited Company Registration | Online Company Formation">
-  <meta itemprop="url" content="https://www.startupclubindia.com/private-limited-company-registration">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+  <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+  <meta itemprop="name" content="BigDeal Supermarket Franchise | Know More About Us ">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/about.php">
   <meta itemprop="description"
-    content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta itemprop="image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-  <link rel="canonical" href="https://www.startupclubindia.com/private-limited-company-registration">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+  <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/about.php">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
@@ -126,7 +126,7 @@
           </div>
           <div class="service_sidebar mobile_sidebar hidden-md hidden-lg">
             <div class="sidebar_card">
-              <h5>Why Startup Club India?</h5>
+              <h5>Why Bigdeal Supermart Franchise?</h5>
               <ol>
                 <li><img src="assets/img/check.svg" alt="check mark"> 4.8 star rating on Google</li>
                 <li><img src="assets/img/check.svg" alt="check mark"> More than 1000+ clients served</li>
@@ -255,7 +255,7 @@
         <div class="col-xs-12 col-sm-6 col-md-3">
           <div class="ecomm_get_here_card">
             <div class="image">
-              <img src="assets/img/image002.jpg" alt="img" />
+              <img src="assets/img/image001.jpg" alt="img" />
             </div>
             <div class="team-desc">
               <h5>Ashok Kumar</h5>
@@ -266,7 +266,7 @@
         <div class="col-xs-12 col-sm-6 col-md-3">
           <div class="ecomm_get_here_card">
             <div class="image">
-              <img src="assets/img/image003.jpg" alt="img" />
+              <img src="assets/img/image001.jpg" alt="img" />
             </div>
             <div class="team-desc">
               <h5>Ashok Kumar</h5>
@@ -277,7 +277,7 @@
         <div class="col-xs-12 col-sm-6 col-md-3">
           <div class="ecomm_get_here_card">
             <div class="image">
-              <img src="assets/img/image004.webp" alt="img" />
+              <img src="assets/img/image001.webp" alt="img" />
             </div>
             <div class="team-desc">
               <h5>Ashok Kumar</h5>
@@ -296,10 +296,6 @@
   <!-- Blog Section HTML -->
   <?php include 'common/articles.php'; ?>
   <!-- Blog Section HTML -->
-
-  <!-- Call To Action Section HTML -->
-  <?php include 'common/call-to-action.php'; ?>
-  <!-- Call To Action Section HTML -->
 
   <!-- Footer HTML -->
   <?php include 'common/footer.php'; ?>
