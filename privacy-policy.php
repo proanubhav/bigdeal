@@ -16,7 +16,7 @@
     <meta property="og:site_name" content="Bigdeal Supermart Franchise">
     <meta property="og:locale" content="en_US">
     <meta property="og:title" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
-    <meta property="og:url" content="https://www.bigdealsupermart.com/privacy-policy.php">
+    <meta property="og:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta property="og:description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
     <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
@@ -26,16 +26,16 @@
     <meta name="twitter:domain" content="www.bigdealsupermart.com">
     <!-- <meta name="twitter:site" content="@om_sai_group"> -->
     <meta name="twitter:title" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
-    <meta name="twitter:url" content="https://www.bigdealsupermart.com/privacy-policy.php">
+    <meta name="twitter:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta name="twitter:description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
     <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
     <meta itemprop="name" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
-    <meta itemprop="url" content="https://www.bigdealsupermart.com/privacy-policy.php">
+    <meta itemprop="url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta itemprop="description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
     <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-    <link rel="canonical" href="https://www.bigdealsupermart.com/privacy-policy.php">
+    <link rel="canonical" href="https://www.bigdealsupermart.com/privacy-policy">
 
     <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
     <meta name="robots" content="index, follow">

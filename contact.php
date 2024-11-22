@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
-  <meta property="og:url" content="https://www.bigdealsupermart.com/contact.php">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/contact">
   <meta property="og:description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
@@ -23,14 +23,14 @@
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
   <meta name="twitter:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
-  <meta name="twitter:url" content="https://www.bigdealsupermart.com/contact.php">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/contact">
   <meta name="twitter:description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta itemprop="name" content="BigDeal Supermarket Franchise | Contact Us for Profits">
-  <meta itemprop="url" content="https://www.bigdealsupermart.com/contact.php">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/contact">
   <meta itemprop="description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <link rel="canonical" href="https://www.bigdealsupermart.com/contact.php">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/contact">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
@@ -91,7 +91,7 @@
                 <li><img src="assets/img/check.svg" alt="check mark"> 5+ years of Excellence</li>
               </ol>
             </div>
-            <form method="POST" action="./ajax/contact.php" id="contact-form">
+            <form method="POST" action="./ajax/contact" id="contact-form">
               <div class="row">
                 <div class="col-12">
                   <h4>Enquire Now</h4>
@@ -174,7 +174,7 @@
               <div class="card drop_email">
                 <div class="card-body">
                 <h3>Team will <span class="main-green">call you back!</h3>
-                  <form method="POST" action="./ajax/contact.php" id="desktop-contact-form">
+                  <form method="POST" action="./ajax/contact" id="desktop-contact-form">
                     <div class="row">
                       <div class="col-12">
                         <div class="form-group">

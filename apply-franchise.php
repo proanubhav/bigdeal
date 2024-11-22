@@ -16,7 +16,7 @@
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
-  <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise.php">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta property="og:description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
@@ -26,16 +26,16 @@
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
   <meta name="twitter:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
-  <meta name="twitter:url" content="https://www.bigdealsupermart.com/apply-franchise.php">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta name="twitter:description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta itemprop="name" content="Apply for BigDeal Supermart Franchise in India | High Growth">
-  <meta itemprop="url" content="https://www.bigdealsupermart.com/apply-franchise.php">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta itemprop="description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <link rel="canonical" href="https://www.bigdealsupermart.com/apply-franchise.php">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/apply-franchise">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
@@ -82,7 +82,7 @@
               <div class="card-body py-4">
                 <div class="row">
                   <div class="col-12">
-                    <form method="POST" action="./ajax/contact.php" id="desktop-contact-form">
+                    <form method="POST" action="./ajax/contact" id="desktop-contact-form">
                       <div class="row">
                         <div class="col-12 col-md-6">
                           <div class="form-group">
