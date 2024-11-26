@@ -1,12 +1,17 @@
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMBW4X6S" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 <header class="header">
   <div class="top_header">
     <div class="container">
       <ul>
-        <li><a href="#" target="_blank" title="Instagram"><img
+        <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img
               src="assets/img/instagram.svg" alt=""></li>
-        <li><a
-            href="#"
-            target="_blank" title="WhatsApp"><img src="assets/img/whatsapp.svg" alt=""></li>
+        <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Instagram"><img
+              src="assets/img/instagram.svg" alt=""></li>
+        <li><a href="https://www.linkedin.com/company/bigdealsupermart/" target="_blank" title="Instagram"><img
+              src="assets/img/instagram.svg" alt=""></li>
         <li><a href="mailto:connect@bigdealsupermart.com">
         <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
           <span class="email-text">connect@bigdealsupermart.com<span>
