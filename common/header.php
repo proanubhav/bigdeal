@@ -9,9 +9,9 @@
         <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img
               src="assets/img/instagram.svg" alt=""></li>
         <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Instagram"><img
-              src="assets/img/instagram.svg" alt=""></li>
-        <li><a href="https://www.linkedin.com/company/bigdealsupermart/" target="_blank" title="Instagram"><img
-              src="assets/img/instagram.svg" alt=""></li>
+              src="assets/img/facebook-white.svg" alt=""></li>
+        <!-- <li><a href="https://www.linkedin.com/company/bigdealsupermart/" target="_blank" title="Instagram"><img
+              src="assets/img/instagram.svg" alt=""></li> -->
         <li><a href="mailto:connect@bigdealsupermart.com">
         <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
           <span class="email-text">connect@bigdealsupermart.com<span>

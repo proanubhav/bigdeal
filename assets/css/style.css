@@ -3551,13 +3551,13 @@ footer {
 }
 
 .image-group-1 .image-group-item-6 {
-  bottom: -25%;
+  bottom: -55%;
   right: 1%;
 }
 
 .image-group-1 .image-group-item-1 {
-  top: 23%;
-  left: 33%;
+  top: 0;
+  left: 15%;
   z-index: 1;
 }
 
@@ -3582,11 +3582,11 @@ footer {
 }
 
 .image-group-1 {
-  padding-bottom: 88.6%;
+  padding-bottom: 50%;
 }
 
 .section-lg {
-  padding: 170px 0;
+  padding: 120px 0 70px 0;
 }
 
 .image-group {
@@ -3605,7 +3605,7 @@ footer {
 
   .about-us .image-group img {
     width: auto;
-    height: 400px;
+    height: 500px;
   }
 }
 
@@ -4510,6 +4510,7 @@ div.white_txt {
 
 .banner-home__content .title {
   font-size: 3rem;
+  padding-right: 2rem;
 }
 
 .mb-20 {
@@ -5320,4 +5321,8 @@ footer .logo {
 .border-black:hover {
   border: 1px solid #000 !important;
   /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); */
+}
+.bigdeal-store {
+  position: relative;
+  top: 1rem;
 }
