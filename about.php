@@ -66,14 +66,14 @@
             <h1 class="about-title">Seize Profits and Build a Legacy with Us.</h1>
             <div class="theme-btn__wrapper d-flex justify-content-center mt-3 mb-1">
               <div class="btn-box">
-                <button href="blog.html" class="btn btn-primary">
-                  <span>Find Consultant</span>
-                </button>
+                <a href="apply-franchise" class="btn btn-primary">
+                  <span>Become a Partner</span>
+                </a>
               </div>
               <div class="btn-box ml-4">
-              <button href="https://www.bigdealsupermart.com/blog/" class="btn btn-border border-none" style="background-color: #ee4f25;">
+              <a href="https://www.bigdealsupermart.com/blog/" class="btn btn-border border-none" style="background-color: #ee4f25;">
                 <span>Read Our Blog</span>
-              </button>
+              </a>
               </div>
             </div>
           </div>

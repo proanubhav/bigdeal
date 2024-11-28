@@ -57,8 +57,8 @@
                                 </div>
                                 <div class="mt-md-5 mt-xs-2">
                                     <div class="btn-box border-black mt-sm-4">
-                                        <button type="submit"
-                                            class="btn btn-block btn-primary"><span>Register</span></button>
+                                        <a href="apply-franchise" type="submit"
+                                            class="btn btn-block btn-primary"><span>Yes! I want Demo Today</span></a>
                                     </div>
                                 </div>
                             </div>

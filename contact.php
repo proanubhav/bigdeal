@@ -75,60 +75,12 @@
             <h1 class="contact_title">Contact Us</h1>
             <section class="service_benefit">
               <ul>
-                <li><img src="assets/img/check.svg" alt="check mark"> Franchise Inquiry Today</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Own Your Future</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Profit with BigDeal</li>
+                <li><img src="assets/img/check.webp" alt="check mark"> Franchise Inquiry Today</li>
+                <li><img src="assets/img/check.webp" alt="check mark"> Own Your Future</li>
+                <li><img src="assets/img/check.webp" alt="check mark"> Profit with BigDeal</li>
               </ul>
             </section>
           </div>
-          <!-- <div class="service_sidebar mobile_sidebar hidden-md hidden-lg">
-            <div class="sidebar_card">
-              <h5>Why Bigdeal Supermart Franchise?</h5>
-              <ol>
-                <li><img src="assets/img/check.svg" alt="check mark"> 4.8 star rating on Google</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> More than 1000+ clients served</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Dedicated team assigned</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> 5+ years of Excellence</li>
-              </ol>
-            </div>
-            <form method="POST" action="./ajax/contact" id="contact-form">
-              <div class="row">
-                <div class="col-12">
-                  <h4>Enquire Now</h4>
-                </div>
-                <div class="col-12 col-md-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="NAME">
-                    <div>
-                      <span class="prettyprint" id="name_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-6">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
-                    <div>
-                      <span class="prettyprint" id="email_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-6">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="contact" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
-                    <div>
-                      <span class="prettyprint" id="contact_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  <span class="prettyprint" id="thank_you_msg"></span>
-                </div>
-                <div class="col-12 col-md-12">
-                  <button type="submit" class="btn btn-block btn-secondary">Register</button>
-                </div>
-              </div>
-            </form>
-          </div> -->
         </div>
       </div>
     </div>
@@ -157,7 +109,7 @@
                     <h5>02.</h5>
                     <h4>Call us:</h4>
                     <p>Give us a missed call</p>
-                    <p><a href="tel:9468065626">(+91) - 1234567890</a></p>
+                    <p><a href="tel:9891750328">(+91) - 9891750328</a></p>
                   </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-12">
@@ -212,10 +164,10 @@
                       <div>
                         <span class="prettyprint" id="thank_you_msg_desktop"></span>
                       </div>
-                      <div class="col-12 col-md-4">
+                      <div class="col-12 col-md-8">
                       <div class="btn-box border-black">
                         <button type="submit" class="btn btn-border">
-                          <span>Register</span>
+                          <span>Request Callback</span>
                         </button>
                       </div>
                       </div>

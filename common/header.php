@@ -16,7 +16,7 @@
         <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
           <span class="email-text">connect@bigdealsupermart.com<span>
         </a></li>
-        <li><a href="tel:+91-1234567890">(+91) - 1234567890</a></li>
+        <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>
       </ul>
     </div>
   </div>

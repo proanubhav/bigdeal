@@ -184,7 +184,7 @@
                         <div class="col-12">
                           <div class="float-right">
                             <div class="btn-box border-black">
-                              <button type="submit" class="btn btn-block btn-primary"><span>Register</span></button>
+                              <button type="submit" class="btn btn-block btn-primary"><span>Request Callback</span></button>
                             </div>
                           </div>
                         </div>
