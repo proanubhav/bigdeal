@@ -12,7 +12,7 @@
                 <li><img src="assets/img/check.svg" alt="check mark"> 5+ years of Excellence</li>
               </ol>
             </div>
-            <form method="POST" action="./ajax/contact.php" id="sidebar-form">
+            <form method="POST" action="./ajax/contact" id="sidebar-form">
               <div class="row">
                 <div class="col-12">
                   <h4>Enquire Now</h4>

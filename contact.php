@@ -7,30 +7,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Private Limited Company Registration | Online Company Formation</title>
-  <meta name="description" content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta name="keywords" content="Company Registration, Register a company, Company formation, how to register a company, company registration in india, pvt ltd company,  online company registration. Private limited company registration, registrar of companies india, register company name">
+  <title>Contact | BigDeal Supermarket Franchise | Contact Us for Profits</title>
+  <meta name="description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+  <meta name="keywords" content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Startup Club India">
+  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Private Limited Company Registration | Online Company Formation">
-  <meta property="og:url" content="https://www.startupclubindia.com/private-limited-company-registration">
-  <meta property="og:description" content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta property="og:image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-  <meta property="og:image:alt" content="company registration">
+  <meta property="og:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/contact">
+  <meta property="og:description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+  <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+  <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:domain" content="www.startupclubindia.com">
+  <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="Private Limited Company Registration | Online Company Formation">
-  <meta name="twitter:url" content="https://www.startupclubindia.com/private-limited-company-registration">
-  <meta name="twitter:description" content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta name="twitter:image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-  <meta itemprop="name" content="Private Limited Company Registration | Online Company Formation">
-  <meta itemprop="url" content="https://www.startupclubindia.com/private-limited-company-registration">
-  <meta itemprop="description" content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-  <meta itemprop="image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-  <link rel="canonical" href="https://www.startupclubindia.com/private-limited-company-registration">
+  <meta name="twitter:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/contact">
+  <meta name="twitter:description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+  <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+  <meta itemprop="name" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/contact">
+  <meta itemprop="description" content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+  <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/contact">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
@@ -73,63 +73,14 @@
               </ol>
             </nav> -->
             <h1 class="contact_title">Contact Us</h1>
-            <p>You can incorporate your private company in 3 days with Startupclubindia.com. Minimum 2 Shareholders & 2 directors are required to register a Private Company.</p>
             <section class="service_benefit">
               <ul>
-                <li><img src="assets/img/check.svg" alt="check mark"> Franchise Inquiry Today</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Own Your Future</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Profit with BigDeal</li>
+                <li><img src="assets/img/check.webp" alt="check mark"> Franchise Inquiry Today</li>
+                <li><img src="assets/img/check.webp" alt="check mark"> Own Your Future</li>
+                <li><img src="assets/img/check.webp" alt="check mark"> Profit with BigDeal</li>
               </ul>
             </section>
           </div>
-          <!-- <div class="service_sidebar mobile_sidebar hidden-md hidden-lg">
-            <div class="sidebar_card">
-              <h5>Why Startup Club India?</h5>
-              <ol>
-                <li><img src="assets/img/check.svg" alt="check mark"> 4.8 star rating on Google</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> More than 1000+ clients served</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Dedicated team assigned</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> 5+ years of Excellence</li>
-              </ol>
-            </div>
-            <form method="POST" action="./ajax/contact.php" id="contact-form">
-              <div class="row">
-                <div class="col-12">
-                  <h4>Enquire Now</h4>
-                </div>
-                <div class="col-12 col-md-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="NAME">
-                    <div>
-                      <span class="prettyprint" id="name_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-6">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
-                    <div>
-                      <span class="prettyprint" id="email_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-6">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="contact" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
-                    <div>
-                      <span class="prettyprint" id="contact_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  <span class="prettyprint" id="thank_you_msg"></span>
-                </div>
-                <div class="col-12 col-md-12">
-                  <button type="submit" class="btn btn-block btn-secondary">Register</button>
-                </div>
-              </div>
-            </form>
-          </div> -->
         </div>
       </div>
     </div>
@@ -150,7 +101,7 @@
                     <h5>01.</h5>
                     <h4>Email us:</h4>
                     <p>Just shoot an email</p>
-                    <p><a href="mailto:info@startupclubindia.com">connect@bigdealsupermart.com</a></p>
+                    <p><a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a></p>
                   </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-12 col-lg-6">
@@ -158,14 +109,14 @@
                     <h5>02.</h5>
                     <h4>Call us:</h4>
                     <p>Give us a missed call</p>
-                    <p><a href="tel:9468065626">(+91) - 1234567890</a></p>
+                    <p><a href="tel:9891750328">(+91) - 9891750328</a></p>
                   </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-12">
                   <div class="benefit_area">
                     <h5>03.</h5>
                     <h4>Visit us:</h4>
-                    <p><a href="https://www.google.com/maps/dir/28.5069712,77.320955/startup+club+india/@20.5038258,67.1356667,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae14598469e773:0xc4cb4a97ac6ce32a!2m2!1d77.6176304!2d12.9358167" target="_blank">B-94, Freedom Fighter Enclave, Neb sarai, Ignou Main Road, New Delhi -110068</a></p>
+                    <p><a href="" target="_blank">B-94, Freedom Fighter Enclave, Neb sarai, Ignou Main Road, New Delhi -110068</a></p>
                   </div>
                 </div>
               </div>
@@ -175,7 +126,7 @@
               <div class="card drop_email">
                 <div class="card-body">
                 <h3>Team will <span class="main-green">call you back!</h3>
-                  <form method="POST" action="./ajax/contact.php" id="desktop-contact-form">
+                  <form method="POST" action="./ajax/contact" id="desktop-contact-form">
                     <div class="row">
                       <div class="col-12">
                         <div class="form-group">
@@ -213,10 +164,10 @@
                       <div>
                         <span class="prettyprint" id="thank_you_msg_desktop"></span>
                       </div>
-                      <div class="col-12 col-md-4">
+                      <div class="col-12 col-md-8">
                       <div class="btn-box border-black">
                         <button type="submit" class="btn btn-border">
-                          <span>Register</span>
+                          <span>Request Callback</span>
                         </button>
                       </div>
                       </div>
@@ -237,10 +188,6 @@
   <!-- Blog Section HTML -->
   <?php include 'common/articles.php'; ?>
   <!-- Blog Section HTML -->
-
-  <!-- Call To Action Section HTML -->
-  <?php include 'common/call-to-action.php'; ?>
-  <!-- Call To Action Section HTML -->
 
   <!-- Footer HTML -->
   <?php include 'common/footer.php'; ?>

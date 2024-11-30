@@ -63,7 +63,7 @@ body {
 }
 
 p {
-  font-size: 13px;
+  font-size: 14px;
   line-height: 26px;
   color: #55536e;
   font-family: 'Agrandir';
@@ -528,24 +528,6 @@ span.main-green {
   height: 600px;
 }
 
-.slideOne {
-  background: linear-gradient(96.87deg, #ee4f251f 0%, #0e1b4130 100%), url('../../assets/img/slide-1.jpg');
-  background-size: cover;
-  width: 100%;
-}
-
-.slideTwo {
-  background: linear-gradient(96.87deg, #ee4f251f 0%, #0e1b4130 100%), url(../../assets/img/slide-2.jpg);
-  background-size: cover;
-  width: 100%;
-}
-
-.slideThree {
-  background: linear-gradient(96.87deg, #ee4f251f 0%, #0e1b4130 100%), url('../../assets/img/slide-3.jpg');
-  background-size: cover;
-  width: 100%;
-}
-
 /******* Top Section CSS **********/
 
 /******* Forms CSS **********/
@@ -631,6 +613,7 @@ input:not(:placeholder-shown)+label.animate_label {
   font-size: 14px;
   font-weight: 600;
   border: 1px solid #fff;
+  line-height: 2.25;
   /* min-width: 240px; */
 }
 
@@ -698,6 +681,7 @@ input:not(:placeholder-shown)+label.animate_label {
   font-weight: 600;
   border: 1px solid #000;
   z-index: 1;
+  line-height: 4;
 }
 
 .btn-border span {
@@ -737,7 +721,7 @@ input:not(:placeholder-shown)+label.animate_label {
 } */
 
 
-.btn-primary.active.focus,
+/* .btn-primary.active.focus,
 .btn-primary.active:focus,
 .btn-primary.active:hover,
 .btn-primary:active.focus,
@@ -758,7 +742,7 @@ input:not(:placeholder-shown)+label.animate_label {
   -webkit-box-shadow: none;
   box-shadow: none;
   outline: none;
-}
+} */
 
 
 .btn-secondary {
@@ -801,23 +785,6 @@ input:not(:placeholder-shown)+label.animate_label {
 
 /******* Forms CSS **********/
 
-
-/******* Call to Action Section ***********/
-.cta_first {
-  padding: 60px 0;
-  background: linear-gradient(rgb(96 125 139 / 10%) 100%, rgb(96 125 139 / 10%)100%), url(../img/map-background.webp);
-}
-
-.cta_content {
-  text-align: center;
-}
-
-.cta_content p {
-  margin-bottom: 30px;
-  font-size: 18px;
-}
-
-/******* Call to Action Section ***********/
 
 /******* Why Us Section CSS ***********/
 .ecomm_faq_sec {
@@ -1502,70 +1469,6 @@ footer {
   margin-top: 1rem;
 }
 
-
-.bg-company_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/public-limited-company.jpg');
-  margin-bottom: 0.4rem;
-}
-
-.bg-llp_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img3.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-msme_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img_training.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-ngo_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img_comm_events.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-one_person_company {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img__days.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-private_limited_company_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/card_img/card_img_branding.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-public_limited_company_registration {
-  width: 255px;
-  height: 100px;
-  background: url('../img/public-limited-company.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-trademark_registration {
-  width: 254px;
-  height: 100px;
-  background: url('../img/card_img/card_img_product_range.jpg');
-  background-size: 100% 100%;
-}
-
-.bg-gst_registration {
-  width: 254px;
-  height: 100px;
-  background: url('../img/gst-registration.jpg');
-  background-size: 100% 100%;
-}
-
 /******* Service CSS *********/
 
 /****** Why Startups ********/
@@ -2242,6 +2145,9 @@ footer {
 .service_benefit ul li img {
   width: 18px;
   margin-right: 0.3rem;
+  filter: brightness(5);
+  position: relative;
+  top: -1px;
 }
 
 /******* Service Top Section ***********/
@@ -3040,8 +2946,7 @@ footer {
   margin-bottom: 2rem;
 }
 
-.blog_sec,
-.cta_first {
+.blog_sec {
   padding: 2rem 0;
 }
 
@@ -3518,9 +3423,6 @@ footer {
 /***** Blog Section ********/
 
 /**** CTA Section *********/
-.cta_first {
-  padding: 2rem 0;
-}
 
 .section_heading {
   padding: 0;
@@ -3654,13 +3556,13 @@ footer {
 }
 
 .image-group-1 .image-group-item-6 {
-  bottom: -25%;
+  bottom: -55%;
   right: 1%;
 }
 
 .image-group-1 .image-group-item-1 {
-  top: 23%;
-  left: 33%;
+  top: 0;
+  left: 15%;
   z-index: 1;
 }
 
@@ -3685,11 +3587,11 @@ footer {
 }
 
 .image-group-1 {
-  padding-bottom: 88.6%;
+  padding-bottom: 50%;
 }
 
 .section-lg {
-  padding: 170px 0;
+  padding: 120px 0 70px 0;
 }
 
 .image-group {
@@ -3708,7 +3610,7 @@ footer {
 
   .about-us .image-group img {
     width: auto;
-    height: 400px;
+    height: 500px;
   }
 }
 
@@ -4613,6 +4515,7 @@ div.white_txt {
 
 .banner-home__content .title {
   font-size: 3rem;
+  padding-right: 2rem;
 }
 
 .mb-20 {
@@ -5423,4 +5326,8 @@ footer .logo {
 .border-black:hover {
   border: 1px solid #000 !important;
   /* box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); */
+}
+.bigdeal-store {
+  position: relative;
+  top: 1rem;
 }

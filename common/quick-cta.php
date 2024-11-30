@@ -7,9 +7,9 @@
             </div>
             <div class="col-6 col-md-4 col-lg-4">
                 <div class="btn-box">
-                    <button class="btn btn-primary" data-target="#enquiryModal" data-toggle="modal">
+                    <a href="apply-franchise" class="btn btn-primary">
                         <span>Free Consultation</span>
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>

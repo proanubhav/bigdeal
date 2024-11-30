@@ -7,35 +7,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Private Limited Company Registration | Online Company Formation</title>
+    <title>Privacy Policy | India’s leading Supermart franchise for growth opportunities</title>
     <meta name="description"
-        content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
+        content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
     <meta name="keywords"
-        content="Company Registration, Register a company, Company formation, how to register a company, company registration in india, pvt ltd company,  online company registration. Private limited company registration, registrar of companies india, register company name">
+        content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
-    <meta property="og:site_name" content="Startup Club India">
+    <meta property="og:site_name" content="Bigdeal Supermart Franchise">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="Private Limited Company Registration | Online Company Formation">
-    <meta property="og:url" content="https://www.startupclubindia.com/private-limited-company-registration">
+    <meta property="og:title" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta property="og:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta property="og:description"
-        content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-    <meta property="og:image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-    <meta property="og:image:alt" content="company registration">
+        content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+    <meta property="og:image:alt" content="Supermarket Franchise">
     <meta property="og:type" content="service">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:domain" content="www.startupclubindia.com">
+    <meta name="twitter:domain" content="www.bigdealsupermart.com">
     <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-    <meta name="twitter:title" content="Private Limited Company Registration | Online Company Formation">
-    <meta name="twitter:url" content="https://www.startupclubindia.com/private-limited-company-registration">
+    <meta name="twitter:title" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta name="twitter:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta name="twitter:description"
-        content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-    <meta name="twitter:image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-    <meta itemprop="name" content="Private Limited Company Registration | Online Company Formation">
-    <meta itemprop="url" content="https://www.startupclubindia.com/private-limited-company-registration">
+        content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+    <meta itemprop="name" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta itemprop="url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta itemprop="description"
-        content="Startup Club India help you to register a company within 5 days. Learn more about Process to register a company | Documents required | Company name search.">
-    <meta itemprop="image" content="https://www.startupclubindia.com/assets/img/company-registration.jpg">
-    <link rel="canonical" href="https://www.startupclubindia.com/private-limited-company-registration">
+        content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
+    <link rel="canonical" href="https://www.bigdealsupermart.com/privacy-policy">
 
     <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
     <meta name="robots" content="index, follow">
@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1>Privacy Policy</h1>
-                    <p>Welcome to [Your Company/Website Name]! Your privacy is important to us. This Privacy Policy
+                    <p>Welcome to Bigdeal Supermart! Your privacy is important to us. This Privacy Policy
                         explains how we collect, use, and protect the personal information you provide to us through our
                         website, services, or interactions with our company. By using our website or services, you
                         consent to the terms outlined in this policy.</p>
@@ -107,7 +107,7 @@
                     <h2>5. Your Rights and Choices</h2>
                     <p>You have the right to access, update, or delete your personal information. You may also have the
                         right to object to or restrict certain processing activities. To exercise these rights, please
-                        contact us at [Your Contact Information].</p>
+                        contact us at connect@bigdealsupermart.com.</p>
 
                     <h2>6. Changes to This Privacy Policy</h2>
                     <p>We may update this Privacy Policy periodically to reflect changes in our practices or legal
@@ -115,9 +115,9 @@
 
                     <h2>7. Contact Us</h2>
                     <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
-                    <p>Email: <a href="mailto:contact@yourcompany.com">contact@yourcompany.com</a></p>
-                    <p>Phone: [Your Company Phone Number]</p>
-                    <p>Address: [Your Company Address]</p>
+                    <p>Email: <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a></p>
+                    <!-- <p>Phone: [Your Company Phone Number]</p>
+                    <p>Address: [Your Company Address]</p> -->
                 </div>
             </div>
         </div>
