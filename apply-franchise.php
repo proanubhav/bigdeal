@@ -86,7 +86,7 @@
                       <div class="row">
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="first-name" id="first-name"
+                            <input type="text" class="form-control" name="firstname" id="firstname"
                               aria-describedby="emailHelp" placeholder="First Name">
                             <label class="animate_label" for="exampleInputName1">FIRST NAME</label>
                             <div>
@@ -96,7 +96,7 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="last-name" id="last-name"
+                            <input type="text" class="form-control" name="lastname" id="lastname"
                               aria-describedby="emailHelp" placeholder="Last Name">
                             <label class="animate_label" for="exampleInputEmail1">LAST NAME</label>
                             <div>
@@ -123,7 +123,7 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="contact" id="exampleInputNumber1"
+                            <input type="text" class="form-control" name="pincode" id="pincode"
                               aria-describedby="emailHelp" placeholder="Pin Code">
                             <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
                             <div>
@@ -133,8 +133,7 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <select class="form-control" name="contact" id="exampleInputNumber1"
-                              aria-describedby="emailHelp">
+                            <select class="form-control" name="area" id="area" aria-describedby="emailHelp">
                               <option selected disabled>Please Select</option>
                               <option>Upto 500 Sqft</option>
                               <option>Upto 1000 Sqft</option>
@@ -149,8 +148,7 @@
                         </div>
                         <div class="col-12 col-md-12">
                           <div class="form-group">
-                            <select class="form-control" name="contact" id="exampleInputNumber1"
-                              aria-describedby="emailHelp">
+                            <select class="form-control" name="propType" id="propType" aria-describedby="emailHelp">
                               <option selected disabled>Please Select</option>
                               <option>Owned</option>
                               <option>Rented</option>
@@ -163,8 +161,7 @@
                         </div>
                         <div class="col-12 col-md-12">
                           <div class="form-group">
-                            <select class="form-control" name="contact" id="exampleInputNumber1"
-                              aria-describedby="emailHelp">
+                            <select class="form-control" name="plan" id="plan" aria-describedby="emailHelp">
                               <option selected disabled>Please Select</option>
                               <option>This Month</option>
                               <option>Next Month</option>
@@ -611,6 +608,42 @@
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>
   <!-- Scripts -->
+  <script>
+    const form = document.getElementById('desktop-contact-form');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault(); // Prevent default form submission behavior
+
+      const formData = new FormData(form); // Collect form data
+      const data = Object.fromEntries(formData.entries()); // Convert to an object
+
+      console.log('Form data:', JSON.stringify(data)); // Debugging: Log form data
+
+      try {
+        // Make the POST request to your Apps Script Web App URL
+        const response = await fetch('https://script.google.com/macros/s/AKfycbw04eWVon2SFi5Jxs84jHccw5C2aEGNdCIFk0Igs8Xh6XOFG-ByWmy1_HsohH-IDXwrSw/exec', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data), // Send form data as JSON
+        });
+
+        const result = await response.json(); // Parse the JSON response
+
+        // Handle response status
+        if (result.status === 'success') {
+          alert('Form submitted successfully!');
+          form.reset(); // Optionally reset the form
+        } else {
+          alert(`Failed to submit the form: ${result.message}`);
+        }
+      } catch (error) {
+        // Handle errors
+        console.error('Error:', error);
+        alert('An error occurred while submitting the form. Please try again.');
+      }
+    });
+
+  </script>
 </body>
 
 </html>
