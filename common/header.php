@@ -50,16 +50,16 @@
                 <a class="nav-link" href="https://www.bigdealsupermart.com/">Home</a>
               </li>
               <li class="dropdown mega-dropdown">
-                <a class="nav-link" href="about"> About </a>
+                <a class="nav-link" href="about.php"> About </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact"> Contact Us </a>
+                <a class="nav-link" href="contact.php"> Contact Us </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="apply-franchise">Apply Franchise</a>
+                <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link btn btn-nav" href="#" target="_blank">Download Brochure</a>

@@ -5331,3 +5331,8 @@ footer .logo {
   position: relative;
   top: 1rem;
 }
+#thank_you_msg_desktop {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ee4f25;
+}

@@ -82,19 +82,20 @@
               <div class="card-body py-4">
                 <div class="row">
                   <div class="col-12">
-                    <form method="POST" action="./ajax/contact" id="desktop-contact-form">
+                  <!-- action="./ajax/contact.php" -->
+                    <form id="desktopContactForm" action="./ajax/contact.php" method="POST">
                       <div class="row">
-                        <div class="col-12 col-md-6">
+                        <div class="col-12">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="firstname" id="firstname"
-                              aria-describedby="emailHelp" placeholder="First Name">
-                            <label class="animate_label" for="exampleInputName1">FIRST NAME</label>
+                            <input type="text" class="form-control" name="name" id="name" aria-describedby="emailHelp"
+                              placeholder="Full Name">
+                            <label class="animate_label" for="exampleInputName1">FULL NAME</label>
                             <div>
                               <span class="prettyprint" id="name_error"></span>
                             </div>
                           </div>
                         </div>
-                        <div class="col-12 col-md-6">
+                        <!-- <div class="col-12 col-md-6">
                           <div class="form-group">
                             <input type="text" class="form-control" name="lastname" id="lastname"
                               aria-describedby="emailHelp" placeholder="Last Name">
@@ -103,11 +104,12 @@
                               <span class="prettyprint" id="email_error"></span>
                             </div>
                           </div>
-                        </div>
+                        </div> -->
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="contact" id="exampleInputNumber1"
-                              aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
+                            <input type="text" class="form-control" pattern="^(?!(\d)\1{9})[6,7,8,9]\d{9}$"
+                              name="contact" id="exampleInputNumber1" aria-describedby="emailHelp"
+                              placeholder="CONTACT NUMBER">
                             <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
                             <div>
                               <span class="prettyprint" id="contact_error"></span>
@@ -116,7 +118,8 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="email" id="email" aria-describedby="emailHelp"
+                            <input type="email" class="form-control" name="email" id="email"
+                              aria-describedby="emailHelp" pattern="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$"
                               placeholder="Email">
                             <label class="animate_label" for="exampleInputComment1">EMAIL</label>
                           </div>
@@ -149,9 +152,9 @@
                         <div class="col-12 col-md-12">
                           <div class="form-group">
                             <select class="form-control" name="propType" id="propType" aria-describedby="emailHelp">
-                              <option selected disabled>Please Select</option>
-                              <option>Owned</option>
-                              <option>Rented</option>
+                              <option value="" selected disabled>Please Select</option>
+                              <option value="Owned">Owned</option>
+                              <option value="Rented">Rented</option>
                             </select>
                             <label class="animate_label" for="exampleInputEmail1">Property Type</label>
                             <div>
@@ -162,10 +165,10 @@
                         <div class="col-12 col-md-12">
                           <div class="form-group">
                             <select class="form-control" name="plan" id="plan" aria-describedby="emailHelp">
-                              <option selected disabled>Please Select</option>
-                              <option>This Month</option>
-                              <option>Next Month</option>
-                              <option>After 2 Months</option>
+                              <option value="" selected disabled>Please Select</option>
+                              <option value="This Month">This Month</option>
+                              <option value="Next Month">Next Month</option>
+                              <option value="After 2 Months">After 2 Months</option>
                             </select>
                             <label class="animate_label" for="exampleInputEmail1">When you are planning to
                               open your
@@ -175,13 +178,14 @@
                             </div>
                           </div>
                         </div>
-                        <div>
+                        <div class="ml-3 mb-3">
                           <span class="prettyprint" id="thank_you_msg_desktop"></span>
                         </div>
                         <div class="col-12">
                           <div class="float-right">
                             <div class="btn-box border-black">
-                              <button type="submit" class="btn btn-block btn-primary"><span>Request Callback</span></button>
+                              <button type="submit" class="btn btn-block btn-primary" id="submitBtn"><span>Request
+                                  Callback</span></button>
                             </div>
                           </div>
                         </div>
@@ -321,37 +325,40 @@
   <?php include 'common/scripts.php'; ?>
   <!-- Scripts -->
   <script>
-    const form = document.getElementById('desktop-contact-form');
-
+    const form = document.getElementById('desktopContactForm');
     form.addEventListener('submit', async (e) => {
-      e.preventDefault(); // Prevent default form submission behavior
-
-      const formData = new FormData(form); // Collect form data
-      const data = Object.fromEntries(formData.entries()); // Convert to an object
-
-      console.log('Form data:', JSON.stringify(data)); // Debugging: Log form data
+      e.preventDefault();
+      document.getElementById("submitBtn").disabled = true;
+      document.getElementById("submitBtn").querySelector("span").innerText = "Requesting...";    
+      const formData = new FormData(form);
+      const data = Object.fromEntries(formData.entries());
 
       try {
-        // Make the POST request to your Apps Script Web App URL
-        const response = await fetch('https://script.google.com/macros/s/AKfycbw04eWVon2SFi5Jxs84jHccw5C2aEGNdCIFk0Igs8Xh6XOFG-ByWmy1_HsohH-IDXwrSw/exec', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbxxZ5rBA1n6FZ8N7vNaCieVFmSwZouZ-2XHsbS_V24NCPYPZs5e1V3CFGdwct4mr_GE8A/exec', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(data), // Send form data as JSON
+          headers: {
+            'Content-Type': 'text/plain',
+          },
+          body: JSON.stringify(data), 
         });
 
-        const result = await response.json(); // Parse the JSON response
+        const result = await response.json();
 
-        // Handle response status
-        if (result.status === 'success') {
-          alert('Form submitted successfully!');
-          form.reset(); // Optionally reset the form
+        if (result.result === 'success') {
+          alert(`Form submitted successfully!`);
+          document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Contact with us"
+          form.reset();
+          document.getElementById("submitBtn").disabled = false;
+          document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
         } else {
-          alert(`Failed to submit the form: ${result.message}`);
+          alert(`Form submission failed: ${result.message || 'Unknown error'}`);
         }
       } catch (error) {
-        // Handle errors
         console.error('Error:', error);
-        alert('An error occurred while submitting the form. Please try again.');
+        document.getElementById("submitBtn").disabled = false;
+        document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
+        document.getElementById("contact_error").innerHTML = error
+        alert('An error occurred while submitting the form.');
       }
     });
 
