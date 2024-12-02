@@ -585,6 +585,7 @@ span.main-green {
 
 .form-group input:focus+label.animate_label,
 .form-group select:focus+label.animate_label,
+.form-group select:not(:empty) + .animate_label,
 .form-group input:visited+label.animate_label,
 .form-group input:active+label.animate_label,
 .form-group input:invalid+label.animate_label,

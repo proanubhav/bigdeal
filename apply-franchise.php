@@ -79,7 +79,7 @@
                 <div class="row">
                   <div class="col-12">
                   <!-- action="./ajax/contact.php" -->
-                    <form id="desktopContactForm" action="./ajax/contact.php" method="POST">
+                  <form id="desktopContactForm" action="./ajax/contact.php" method="POST">
                       <div class="row">
                         <div class="col-12">
                           <div class="form-group">
@@ -134,10 +134,10 @@
                           <div class="form-group">
                             <select class="form-control" name="area" id="area" aria-describedby="emailHelp">
                               <option selected disabled>Please Select</option>
-                              <option>Upto 500 Sqft</option>
-                              <option>Upto 1000 Sqft</option>
-                              <option>Upto 2000 Sqft</option>
-                              <option>Upto 5000 Sqft</option>
+                              <option value="Upto 500 Sqft">Upto 500 Sqft</option>
+                              <option value="Upto 1000 Sqft">Upto 1000 Sqft</option>
+                              <option value="Upto 2000 Sqft">Upto 2000 Sqft</option>
+                              <option value="Upto 5000 Sqft">Upto 5000 Sqft</option>
                             </select>
                             <label class="animate_label" for="exampleInputEmail1">Area in sqtf.</label>
                             <div>
@@ -333,8 +333,8 @@
         const result = await response.json();
 
         if (result.result === 'success') {
-          alert(`Form submitted successfully!`);
-          document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Contact with us"
+          // alert(`Form submitted successfully!`);
+          document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Connecting with us"
           form.reset();
           document.getElementById("submitBtn").disabled = false;
           document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
