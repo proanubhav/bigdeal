@@ -51,7 +51,7 @@
 </head>
 
 <body>
-  <article class="service_article mt-5">
+  <article class="service_article pt-0">
     <div class="container">
       <div class="row">
         <div class="col-12">
