@@ -156,7 +156,7 @@
                         </div> -->
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" pattern="^(?!(\d)\1{9})[6,7,8,9]\d{9}$"
+                            <input type="text" class="form-control" pattern="^[6-9]\d{9}$" maxlength="10"
                               name="contact" id="exampleInputNumber1" aria-describedby="emailHelp"
                               placeholder="CONTACT NUMBER">
                             <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
@@ -168,14 +168,14 @@
                         <div class="col-12 col-md-6">
                           <div class="form-group">
                             <input type="email" class="form-control" name="email" id="email"
-                              aria-describedby="emailHelp" pattern="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$"
+                              aria-describedby="emailHelp"
                               placeholder="Email">
                             <label class="animate_label" for="exampleInputComment1">EMAIL</label>
                           </div>
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="pincode" id="pincode"
+                            <input type="text" class="form-control" name="pincode" id="pincode" pattern="0-9*" maxlength="6"
                               aria-describedby="emailHelp" placeholder="Pin Code">
                             <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
                             <div>
