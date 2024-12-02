@@ -66,7 +66,7 @@
             <h1 class="about-title">Seize Profits and Build a Legacy with Us.</h1>
             <div class="theme-btn__wrapper d-flex justify-content-center mt-3 mb-1">
               <div class="btn-box">
-                <a href="apply-franchise" class="btn btn-primary">
+                <a href="start-your-franchise" class="btn btn-primary">
                   <span>Become a Partner</span>
                 </a>
               </div>

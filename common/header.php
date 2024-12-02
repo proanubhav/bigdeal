@@ -59,7 +59,7 @@
                 <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="apply-franchise.php">Apply Franchise</a>
+                <a class="nav-link" href="start-your-franchise">Apply Franchise</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link btn btn-nav" href="#" target="_blank">Download Brochure</a>

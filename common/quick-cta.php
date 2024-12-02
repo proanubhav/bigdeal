@@ -7,7 +7,7 @@
             </div>
             <div class="col-6 col-md-4 col-lg-4">
                 <div class="btn-box">
-                    <a href="apply-franchise" class="btn btn-primary">
+                    <a href="start-your-franchise" class="btn btn-primary">
                         <span>Free Consultation</span>
                     </a>
                 </div>
