@@ -144,20 +144,10 @@
                             </div>
                           </div>
                         </div>
-                        <!-- <div class="col-12 col-md-6">
-                          <div class="form-group">
-                            <input type="text" class="form-control" name="lastname" id="lastname"
-                              aria-describedby="emailHelp" placeholder="Last Name">
-                            <label class="animate_label" for="exampleInputEmail1">LAST NAME</label>
-                            <div>
-                              <span class="prettyprint" id="email_error"></span>
-                            </div>
-                          </div>
-                        </div> -->
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="contact" id="exampleInputNumber1" aria-describedby="emailHelp"
-                              placeholder="CONTACT NUMBER">
+                            <input type="text" class="form-control" name="contact" id="contact"
+                              aria-describedby="emailHelp" maxlength="10" placeholder="CONTACT NUMBER">
                             <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
                             <div>
                               <span class="prettyprint" id="contact_error"></span>
@@ -167,32 +157,35 @@
                         <div class="col-12 col-md-6">
                           <div class="form-group">
                             <input type="email" class="form-control" name="email" id="email"
-                              aria-describedby="emailHelp"
-                              placeholder="Email">
+                              aria-describedby="emailHelp" placeholder="Email">
                             <label class="animate_label" for="exampleInputComment1">EMAIL</label>
-                          </div>
-                        </div>
-                        <div class="col-12 col-md-6">
-                          <div class="form-group">
-                            <input type="text" class="form-control" name="pincode" id="pincode" aria-describedby="emailHelp" placeholder="Pin Code">
-                            <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="email_error"></span>
                             </div>
                           </div>
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <select class="form-control" name="area" id="area" aria-describedby="emailHelp">
-                              <option selected disabled>Please Select</option>
-                              <option value="Upto 500 Sqft">Upto 500 Sqft</option>
-                              <option value="Upto 1000 Sqft">Upto 1000 Sqft</option>
-                              <option value="Upto 2000 Sqft">Upto 2000 Sqft</option>
-                              <option value="Upto 5000 Sqft">Upto 5000 Sqft</option>
-                            </select>
-                            <label class="animate_label" for="exampleInputEmail1">Area in sqtf.</label>
+                            <input type="text" class="form-control" name="pincode" id="pincode" maxlength="6"
+                              aria-describedby="emailHelp" placeholder="Pin Code">
+                            <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="pincode_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                          <div class="form-group">
+                            <div class="select-wrapper">
+                              <select class="form-control" name="area" id="area" aria-describedby="emailHelp">
+                                <option value="" disabled selected>Please Select</option>
+                                <option value="Upto 500 Sqft">Upto 500 Sqft</option>
+                                <option value="Upto 1000 Sqft">Upto 1000 Sqft</option>
+                                <option value="Upto 2000 Sqft">Upto 2000 Sqft</option>
+                                <option value="Upto 5000 Sqft">Upto 5000 Sqft</option>
+                              </select>
+                              <label class="animate_label" for="area">Area in sqft.</label>
+                              <span class="prettyprint" id="area_error"></span>
                             </div>
                           </div>
                         </div>
@@ -205,7 +198,7 @@
                             </select>
                             <label class="animate_label" for="exampleInputEmail1">Property Type</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="propType_error"></span>
                             </div>
                           </div>
                         </div>
@@ -221,7 +214,7 @@
                               open your
                               store?</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="plan_error"></span>
                             </div>
                           </div>
                         </div>
@@ -264,45 +257,7 @@
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>
   <!-- Scripts -->
-  <script>
-    const form = document.getElementById('desktopContactForm');
-    form.addEventListener('submit', async (e) => {
-      e.preventDefault();
-      document.getElementById("submitBtn").disabled = true;
-      document.getElementById("submitBtn").querySelector("span").innerText = "Requesting...";
-      const formData = new FormData(form);
-      const data = Object.fromEntries(formData.entries());
-
-      try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbzcCl12vQI8Ql5mRCMx4LIW7ETCnQna1KigiWHqyAdYv9OX_HYAIfhREtkPLjCzxyfujg/exec', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'text/plain',
-          },
-          body: JSON.stringify(data),
-        });
-
-        const result = await response.json();
-
-        if (result.result === 'success') {
-          // alert(`Form submitted successfully!`);
-          document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Connecting with us"
-          form.reset();
-          document.getElementById("submitBtn").disabled = false;
-          document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
-        } else {
-          alert(`Form submission failed: ${result.message || 'Unknown error'}`);
-        }
-      } catch (error) {
-        console.error('Error:', error);
-        document.getElementById("submitBtn").disabled = false;
-        document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
-        document.getElementById("contact_error").innerHTML = error
-        alert('An error occurred while submitting the form.');
-      }
-    });
-
-  </script>
+  <script src="assets/js/sheetform.js"></script>
 </body>
 
 </html>
