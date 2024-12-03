@@ -5338,3 +5338,10 @@ footer .logo {
   font-weight: 700;
   color: #ee4f25;
 }
+
+.thankyou {
+  padding: 11rem 0 2rem 0;
+}
+.thank_image img {
+  width: 300px;
+}
