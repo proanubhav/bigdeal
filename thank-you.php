@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Contact | BigDeal Supermarket Franchise | Contact Us for Profits</title>
+  <title>Thank you | BigDeal Supermarket Franchise</title>
   <meta name="description"
     content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
   <meta name="keywords"
@@ -15,7 +15,7 @@
 
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta property="og:title" content="Thank you | BigDeal Supermarket Franchise">
   <meta property="og:url" content="https://www.bigdealsupermart.com/contact">
   <meta property="og:description"
     content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
@@ -25,12 +25,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta name="twitter:title" content="Thank you | BigDeal Supermarket Franchise">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/contact">
   <meta name="twitter:description"
     content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta itemprop="name" content="Thank you | BigDeal Supermarket Franchise">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/contact">
   <meta itemprop="description"
     content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
@@ -65,10 +65,7 @@
             <h1 class="thankTitle">THANK YOU!</h1>
             <div class="main-content">
               <i class="fa fa-check main-content__checkmark" id="checkmark"></i>
-              <p>Thanks a bunch for filling that out. It
-                means a lot
-                to us, just like you do! We really appreciate you giving us a moment of your time today. Thanks for
-                being you.</p>
+              <p>Thank you! Our team will contact you soon to discuss your franchise opportunity!</p>
             </div>
           </div>
         </div>
