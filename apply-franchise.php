@@ -79,7 +79,7 @@
                 <div class="row">
                   <div class="col-12">
                     <!-- action="./ajax/contact.php" -->
-                    <form id="desktopContactForm" action="./ajax/contact.php" method="POST">
+                    <form id="desktopContactForm">
                       <div class="row">
                         <div class="col-12">
                           <div class="form-group">

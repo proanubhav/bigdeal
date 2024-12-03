@@ -82,7 +82,7 @@
               <div class="card-body py-4">
                 <div class="row">
                   <div class="col-12">
-                    <form id="desktopContactForm" action="./ajax/contact.php" method="POST">
+                    <form id="desktopContactForm">
                       <div class="row">
                         <div class="col-12">
                           <div class="form-group">
