@@ -90,6 +90,7 @@ h3 {
   color: red;
   padding-bottom: 5px;
   font-size: 12px;
+  display: block;
 }
 
 ::-webkit-input-placeholder {

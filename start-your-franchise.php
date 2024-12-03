@@ -96,7 +96,7 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="contact" id="exampleInputNumber1" aria-describedby="emailHelp"
+                            <input type="text" class="form-control" name="contact" id="contact" aria-describedby="emailHelp"
                               placeholder="CONTACT NUMBER">
                             <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
                             <div>
@@ -110,6 +110,9 @@
                               aria-describedby="emailHelp"
                               placeholder="Email">
                             <label class="animate_label" for="exampleInputComment1">EMAIL</label>
+                            <div>
+                              <span class="prettyprint" id="email_error"></span>
+                            </div>
                           </div>
                         </div>
                         <div class="col-12 col-md-6">
@@ -118,7 +121,7 @@
                               aria-describedby="emailHelp" placeholder="Pin Code">
                             <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="pincode_error"></span>
                             </div>
                           </div>
                         </div>
@@ -133,7 +136,7 @@
                                 <option value="Upto 5000 Sqft">Upto 5000 Sqft</option>
                               </select>
                               <label class="animate_label" for="area">Area in sqft.</label>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="area_error"></span>
                             </div>
                           </div>
                         </div>
@@ -146,7 +149,7 @@
                             </select>
                             <label class="animate_label" for="exampleInputEmail1">Property Type</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="propType_error"></span>
                             </div>
                           </div>
                         </div>
@@ -162,7 +165,7 @@
                               open your
                               store?</label>
                             <div>
-                              <span class="prettyprint" id="contact_error"></span>
+                              <span class="prettyprint" id="plan_error"></span>
                             </div>
                           </div>
                         </div>
@@ -315,42 +318,103 @@
   <script>
     const form = document.getElementById('desktopContactForm');
     form.addEventListener('submit', async (e) => {
-      e.preventDefault();
-      document.getElementById("submitBtn").disabled = true;
-      document.getElementById("submitBtn").querySelector("span").innerText = "Requesting...";
-      const formData = new FormData(form);
-      const data = Object.fromEntries(formData.entries());
+        e.preventDefault();
 
-      try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbzcCl12vQI8Ql5mRCMx4LIW7ETCnQna1KigiWHqyAdYv9OX_HYAIfhREtkPLjCzxyfujg/exec', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'text/plain',
-          },
-          body: JSON.stringify(data),
-        });
+        // Clear previous errors
+        document.querySelectorAll('.prettyprint').forEach(el => el.innerText = '');
 
-        const result = await response.json();
+        // Validate form
+        let isValid = true;
 
-        if (result.result === 'success') {
-          // alert(`Form submitted successfully!`);
-          document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Connecting with us"
-          form.reset();
-          document.getElementById("submitBtn").disabled = false;
-          document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
-        } else {
-          alert(`Form submission failed: ${result.message || 'Unknown error'}`);
+        const name = document.getElementById('name').value.trim();
+        const contact = document.getElementById('contact').value.trim();
+        const email = document.getElementById('email').value.trim();
+        const pincode = document.getElementById('pincode').value.trim();
+        const area = document.getElementById('area').value;
+        const propType = document.getElementById('propType').value;
+        const plan = document.getElementById('plan').value;
+
+        // Name validation
+        if (!name) {
+            document.getElementById('name_error').innerText = 'Name is required.';
+            isValid = false;
         }
-      } catch (error) {
-        console.error('Error:', error);
-        document.getElementById("submitBtn").disabled = false;
-        document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
-        document.getElementById("contact_error").innerHTML = error
-        alert('An error occurred while submitting the form.');
-      }
-    });
 
-  </script>
+        // Contact validation (numeric and 10 digits)
+        if (!contact || !/^\d{10}$/.test(contact)) {
+            document.getElementById('contact_error').innerText = 'Please enter a valid 10-digit number.';
+            isValid = false;
+        }
+
+        // Email validation
+        if (!email || !/^\S+@\S+\.\S+$/.test(email)) {
+            document.getElementById('email_error').innerText += 'Please enter a valid email address.';
+            isValid = false;
+        }
+
+        // Pincode validation (numeric and 6 digits)
+        if (!pincode || !/^\d{6}$/.test(pincode)) {
+            document.getElementById('pincode_error').innerText += 'Please enter a valid 6-digit pin code.';
+            isValid = false;
+        }
+
+        // Area validation
+        if (!area) {
+            document.getElementById('area_error').innerText += 'Please select an area.';
+            isValid = false;
+        }
+
+        // Property type validation
+        if (!propType) {
+            document.getElementById('propType_error').innerText += 'Please select a property type.';
+            isValid = false;
+        }
+
+        // Plan validation
+        if (!plan) {
+            document.getElementById('plan_error').innerText += 'Please select a plan.';
+            isValid = false;
+        }
+
+        if (!isValid) {
+            return; // Stop submission if the form is invalid
+        }
+
+        // Disable the button and update its text
+        document.getElementById("submitBtn").disabled = true;
+        document.getElementById("submitBtn").querySelector("span").innerText = "Requesting...";
+
+        const formData = new FormData(form);
+        const data = Object.fromEntries(formData.entries());
+
+        try {
+            const response = await fetch('https://script.google.com/macros/s/AKfycbzcCl12vQI8Ql5mRCMx4LIW7ETCnQna1KigiWHqyAdYv9OX_HYAIfhREtkPLjCzxyfujg/exec', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'text/plain',
+                },
+                body: JSON.stringify(data),
+            });
+
+            const result = await response.json();
+
+            if (result.result === 'success') {
+                document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Connecting with us";
+                form.reset();
+            } else {
+                alert(`Form submission failed: ${result.message || 'Unknown error'}`);
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            alert('An error occurred while submitting the form.');
+        } finally {
+            // Re-enable the button
+            document.getElementById("submitBtn").disabled = false;
+            document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
+        }
+    });
+</script>
+
 </body>
 
 </html>
