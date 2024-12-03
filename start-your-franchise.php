@@ -322,7 +322,7 @@
       const data = Object.fromEntries(formData.entries());
 
       try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbxxZ5rBA1n6FZ8N7vNaCieVFmSwZouZ-2XHsbS_V24NCPYPZs5e1V3CFGdwct4mr_GE8A/exec', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbzcCl12vQI8Ql5mRCMx4LIW7ETCnQna1KigiWHqyAdYv9OX_HYAIfhREtkPLjCzxyfujg/exec', {
           method: 'POST',
           headers: {
             'Content-Type': 'text/plain',
