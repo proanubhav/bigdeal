@@ -132,7 +132,7 @@
                 <div class="card drop_email">
                   <div class="card-body">
                     <h3>Team will <span class="main-green">call you back!</h3>
-                    <form id="desktopContactForm" action="./ajax/contact.php" method="POST">
+                    <form id="desktopContactForm">
                       <div class="row">
                         <div class="col-12">
                           <div class="form-group">
