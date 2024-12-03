@@ -93,5 +93,7 @@ const form = document.getElementById('desktopContactForm');
             // Re-enable the button
             document.getElementById("submitBtn").disabled = false;
             document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
+            const redirectURL = `${window.location.protocol}//${window.location.host}/bigdeal/thankyou.php`;
+            window.location.href = redirectURL;
         }
     });
