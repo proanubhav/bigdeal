@@ -103,8 +103,7 @@
                         </div> -->
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" pattern="^[6-9]\d{9}$" maxlength="10"
-                              name="contact" id="exampleInputNumber1" min="10" max="10" aria-describedby="emailHelp"
+                            <input type="text" class="form-control" name="contact" id="exampleInputNumber1" aria-describedby="emailHelp"
                               placeholder="CONTACT NUMBER">
                             <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
                             <div>
@@ -122,7 +121,7 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="pincode" id="pincode" pattern="0-9*" maxlength="6"
+                            <input type="text" class="form-control" name="pincode" id="pincode" 
                               aria-describedby="emailHelp" placeholder="Pin Code">
                             <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
                             <div>
