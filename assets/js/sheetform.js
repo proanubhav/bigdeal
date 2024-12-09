@@ -70,7 +70,7 @@ const form = document.getElementById('desktopContactForm');
         const data = Object.fromEntries(formData.entries());
 
         try {
-            const response = await fetch('https://script.google.com/macros/s/AKfycbzcCl12vQI8Ql5mRCMx4LIW7ETCnQna1KigiWHqyAdYv9OX_HYAIfhREtkPLjCzxyfujg/exec', {
+            const response = await fetch('https://script.google.com/macros/s/AKfycbzg0oPz0qilEHjn85z54u2aljOHakHScsVeLYGf4wVeZONmr-y-xpoydeRsfm4emSJzSg/exec', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'text/plain',
