@@ -8,7 +8,7 @@
       <ul>
         <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img
               src="assets/img/instagram.svg" alt=""></li>
-        <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Instagram"><img
+        <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Facebook"><img
               src="assets/img/facebook-white.svg" alt=""></li>
         <!-- <li><a href="https://www.linkedin.com/company/bigdealsupermart/" target="_blank" title="Instagram"><img
               src="assets/img/instagram.svg" alt=""></li> -->
