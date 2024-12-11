@@ -279,21 +279,21 @@
       <div class="feat_right_section1">
         <div class="row flex-nowrap">
           <div class="col-6 col-md-4">
-            <a href="#">
+            <a href="javascript:void(0)">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/hindustanBytes.png" alt="Affordable Pricing">
               </div>
             </a>
           </div>
           <div class="col-9 col-md-4">
-            <a href="#">
+            <a href="javascript:void(0)">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/entreprenuerHunt.png" alt="Timely Delivered">
               </div>
             </a>
           </div>
           <div class="col-8 col-md-4">
-            <a href="#">
+            <a href="javascript:void(0)">
               <div class="feat_card">
                 <img class="mb-0" src="assets/img/DailyHunt.png" alt="Experienced Team">
               </div>
@@ -319,7 +319,7 @@
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <div class="btn-box">
-            <a class="btn btn-primary" href="">
+            <a class="btn btn-primary" href="start-your-franchise">
               <span>Own a Franchise</span>
             </a>
           </div>
@@ -970,10 +970,10 @@
   <!-- Enquiry Modal -->
 
   <!-- Scripts -->
-  <!-- <script src="assets/js/jquery.3.2.1.min.js"></script> -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/jquery.3.2.1.min.js"></script>
+  <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
   <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
   <script src="assets/js/core.min.js"></script>
   <script src="assets/js/script.js"></script>
   <script src="assets/js/form-ajax.js" defer async></script>
@@ -1025,19 +1025,33 @@
     });
   });
 });
-document.addEventListener("DOMContentLoaded", () => {
-  const toggler = document.querySelector(".navbar-toggler");
-  const navbar = document.querySelector("#navbarSupportedContent");
+// document.addEventListener("DOMContentLoaded", () => {
+//   const toggler = document.querySelector(".navbar-toggler");
+//   const navbar = document.querySelector("#navbarSupportedContent");
 
-  toggler.addEventListener("click", () => {
-    navbar.classList.toggle("show");
-    toggler.setAttribute(
-      "aria-expanded",
-      navbar.classList.contains("show") ? "true" : "false"
-    );
+//   toggler.addEventListener("click", () => {
+//     navbar.classList.toggle("show");
+//     toggler.setAttribute(
+//       "aria-expanded",
+//       navbar.classList.contains("show") ? "true" : "false"
+//     );
+//   });
+// });
+document.addEventListener('DOMContentLoaded', () => {
+  const toggler = document.querySelector('.navbar-toggler');
+  const collapseElement = document.getElementById('navbarSupportedContent');
+
+  toggler.addEventListener('click', (event) => {
+    event.stopPropagation(); // Prevent event from bubbling up
+    collapseElement.classList.toggle('show');
+  });
+
+  document.addEventListener('click', (event) => {
+    if (!collapseElement.contains(event.target) && collapseElement.classList.contains('show')) {
+      collapseElement.classList.remove('show'); // Close menu if clicking outside
+    }
   });
 });
-
   </script>
   <!-- Scripts -->
 

@@ -90,7 +90,9 @@ h3 {
   color: #2e79bc;
   padding-bottom: 5px;
   font-size: 12px;
+  line-height: 1.5;
   display: block;
+  margin-top: 5px;
 }
 
 ::-webkit-input-placeholder {
@@ -213,7 +215,7 @@ header {
   transition: 0.3s ease-in-out;
 }
 
-.navbar_two_nav li a.nav-link:hover {
+.navbar_two_nav li a.nav-link:hover, .nav-link li a.nav-link:hover, .privacy_link li a:hover {
   color: #2e79bd !important;
 }
 
@@ -608,7 +610,7 @@ input:not(:placeholder-shown)+label.animate_label {
   opacity: 1;
   height: 66px;
   padding: 15px 54px;
-  color: #000;
+  color: #000 !important;
   border-radius: 0px;
   text-align: center;
   text-transform: uppercase;
@@ -616,6 +618,7 @@ input:not(:placeholder-shown)+label.animate_label {
   font-weight: 600;
   border: 1px solid #fff;
   line-height: 2.25;
+  min-height: 53.5px;
   /* min-width: 240px; */
 }
 
@@ -632,10 +635,14 @@ input:not(:placeholder-shown)+label.animate_label {
   border-radius: 50%;
   z-index: 1;
   background: #000;
+  transition: all 0.5s ease;
 }
 
-.btn-primary:hover:before {
-  top: -40%;
+.btn-primary:hover:before, .btn-primary:hover:active, .btn-primary:hover:focus {
+  top: -12%;
+  color: #000 !important;
+  border: 1px solid #fff !important;
+  background-color: #fff !important;
 }
 
 .btn-primary span {
@@ -645,15 +652,8 @@ input:not(:placeholder-shown)+label.animate_label {
 }
 
 .btn-primary:hover span {
-  color: #fff;
+  /* color: #fff; */
   z-index: 1;
-}
-.btn-primary:focus,
-.btn-primary:hover,
-.btn-primary:active {
-  background-color: #fff !important;
-  color: #000 !important;
-  border: 1px solid #fff !important;
 }
 
 .navbar_two_nav li a.nav-link.btn.btn-nav {
@@ -675,15 +675,18 @@ input:not(:placeholder-shown)+label.animate_label {
   height: 66px;
   padding: 15px 54px;
   padding: 0 30px;
-  color: #fff;
+  color: #fff !important;
   border-radius: 0px;
   text-align: center;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
-  border: 1px solid #000;
   z-index: 1;
   line-height: 2.25;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 53.5px;
 }
 
 .btn-border span {
@@ -719,7 +722,7 @@ input:not(:placeholder-shown)+label.animate_label {
 /* .btn-border:hover, .btn-border:active {
   background-color: #2e79bd !important;
   color: #2e79bd !important;
-  border: 1px solid #2e79bd;
+  border: 1px solid #000 !important;
 } */
 
 
@@ -5092,6 +5095,9 @@ footer .logo {
   }
   .service_article {
     padding-bottom: 0 !important;
+  }
+  .navbar_collapse .float-right {
+    float: none !important;
   }
 }
 
