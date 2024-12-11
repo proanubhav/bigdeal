@@ -3192,6 +3192,9 @@ footer {
   .launchSuperMarket {
     width: 100%;
   }
+  .btn-border {
+    line-height: 2.35;
+  }
 }
 
 .quick_benefit ul li {
