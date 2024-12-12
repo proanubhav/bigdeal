@@ -79,7 +79,7 @@
   <!-- Footer HTML -->
 
   <!-- Floating Mobile Footer -->
-  <?php include 'common/mobile-footer.php'; ?>
+  
   <!-- Floating Mobile Footer -->
 
   <!-- Scripts -->

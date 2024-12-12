@@ -56,7 +56,7 @@
   <!-- Header Section HTML -->
 
   <!-- Service Top Section -->
-  <section class="services_top">
+  <section class="services_top manage_space">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-8 col-lg-9">
@@ -251,7 +251,7 @@
   <!-- Footer HTML -->
 
   <!-- Floating Mobile Footer -->
-  <?php include 'common/mobile-footer.php'; ?>
+  
   <!-- Floating Mobile Footer -->
 
   <!-- Scripts -->

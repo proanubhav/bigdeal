@@ -1,7 +1,7 @@
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMBW4X6S" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMBW4X6S" height="0" width="0"
+    style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <header class="header">
   <div class="top_header">
     <div class="container">
@@ -13,9 +13,9 @@
         <!-- <li><a href="https://www.linkedin.com/company/bigdealsupermart/" target="_blank" title="Instagram"><img
               src="assets/img/instagram.svg" alt=""></li> -->
         <li><a href="mailto:connect@bigdealsupermart.com">
-        <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
-          <span class="email-text">connect@bigdealsupermart.com<span>
-        </a></li>
+            <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
+            <span class="email-text">connect@bigdealsupermart.com<span>
+          </a></li>
         <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>
       </ul>
     </div>
@@ -30,8 +30,8 @@
         </div>
       </div>
       <button class="navbar-toggler" type="button" aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon"></span>
-</button>
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
 
       <div class="collapse navbar-collapse navbar_collapse" id="navbarSupportedContent">
@@ -70,6 +70,20 @@
     </nav>
   </div>
   <script>
-  
+    document.addEventListener('DOMContentLoaded', () => {
+      const toggler = document.querySelector('.navbar-toggler');
+      const collapseElement = document.getElementById('navbarSupportedContent');
+
+      toggler.addEventListener('click', (event) => {
+        event.stopPropagation(); // Prevent event from bubbling up
+        collapseElement.classList.toggle('show');
+      });
+
+      document.addEventListener('click', (event) => {
+        if (!collapseElement.contains(event.target) && collapseElement.classList.contains('show')) {
+          collapseElement.classList.remove('show'); // Close menu if clicking outside
+        }
+      });
+    });
   </script>
 </header>

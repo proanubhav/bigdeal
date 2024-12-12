@@ -440,8 +440,6 @@
 		// WOW
 		if ($html.hasClass("wow-animation") && plugins.wow.length && !isNoviBuilder && isDesktop) {
 			new WOW().init();
-		}
-
-
+		}		
 	});
 }());

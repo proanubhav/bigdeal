@@ -96,8 +96,8 @@
                         </div>
                         <div class="col-12 col-md-6">
                           <div class="form-group">
-                            <input type="text" class="form-control" name="contact" id="contact" aria-describedby="emailHelp" maxlength="10"
-                              placeholder="CONTACT NUMBER">
+                            <input type="text" class="form-control" name="contact" id="contact"
+                              aria-describedby="emailHelp" maxlength="10" placeholder="CONTACT NUMBER">
                             <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
                             <div>
                               <span class="prettyprint" id="contact_error"></span>
@@ -107,8 +107,7 @@
                         <div class="col-12 col-md-6">
                           <div class="form-group">
                             <input type="email" class="form-control" name="email" id="email"
-                              aria-describedby="emailHelp"
-                              placeholder="Email">
+                              aria-describedby="emailHelp" placeholder="Email">
                             <label class="animate_label" for="exampleInputComment1">EMAIL</label>
                             <div>
                               <span class="prettyprint" id="email_error"></span>
@@ -224,76 +223,7 @@
     </div>
     </div>
     <div class="container mt-5">
-      <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-          <div class="subheading">
-            <h2 class="text-left">Simple <span class="main-green">Procedure</span></h2>
-          </div>
-          <div class="timeline-wrapper">
-            <section class="main-timeline-section mt-5">
-              <div class="timeline-start"></div>
-              <div class="conference-center-line"></div>
-              <div class="conference-timeline-content">
-                <div class="timeline-article timeline-article-top">
-                  <div class="content-date">
-                    <span>1</span>
-                  </div>
-                  <div class="meta-date"></div>
-                  <div class="content-box">
-                    <p>Get in touch with us to obtain the preliminary information.</p>
-                  </div>
-                </div>
-                <div class="timeline-article timeline-article-bottom">
-                  <div class="content-date">
-                    <span>2</span>
-                  </div>
-                  <div class="meta-date"></div>
-                  <div class="content-box">
-                    <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
-                  </div>
-                </div>
-                <div class="timeline-article timeline-article-top">
-                  <div class="content-date">
-                    <span>3</span>
-                  </div>
-                  <div class="meta-date"></div>
-                  <div class="content-box">
-                    <p>Fill up and file the BigDeal franchise application form.</p>
-                  </div>
-                </div>
-                <div class="timeline-article timeline-article-bottom">
-                  <div class="content-date">
-                    <span>4</span>
-                  </div>
-                  <div class="meta-date"></div>
-                  <div class="content-box">
-                    <p>Give out documents and signatures for the agreement where required.</p>
-                  </div>
-                </div>
-                <div class="timeline-article timeline-article-top">
-                  <div class="content-date">
-                    <span>5</span>
-                  </div>
-                  <div class="meta-date"></div>
-                  <div class="content-box">
-                    <p>Select and conclude a profitable location with our help.</p>
-                  </div>
-                </div>
-                <div class="timeline-article timeline-article-bottom">
-                  <div class="content-date">
-                    <span>6</span>
-                  </div>
-                  <div class="meta-date"></div>
-                  <div class="content-box">
-                    <p>Attend training and installation before opening a new Bigdeal franchise!</p>
-                  </div>
-                </div>
-              </div>
-              <div class="timeline-end"></div>
-            </section>
-          </div>
-        </div>
-      </div>
+      <?php include './common/simple-procedure.php'; ?>
     </div>
     <div class="mt-5">
       <?php include './common/free-demo.php'; ?>
@@ -309,16 +239,16 @@
   <!-- Footer HTML -->
 
   <!-- Floating Mobile Footer -->
-  <?php include 'common/mobile-footer.php'; ?>
+
   <!-- Floating Mobile Footer -->
 
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>
   <!-- Scripts -->
   <script>
-    
-</script>
-<script src="assets/js/sheetform.js"></script>
+
+  </script>
+  <script src="assets/js/sheetform.js"></script>
 </body>
 
 </html>

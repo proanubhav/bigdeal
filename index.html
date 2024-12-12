@@ -217,7 +217,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 px-0">
           <div class="banner-home__media">
             <img src="assets/img/banner-start.svg" class="img-fluid start" alt="">
             <img src="assets/img/bigdeal-store-white.webp" class="bigdeal-store img-fluid" alt="">
@@ -544,11 +544,11 @@
             <p class="big wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Together, we will build a
               space where every person wins, and start a mini supermarket filled with emotion. Allow us to extend our
               heart, strength and success to this cause.</p>
-              <div class="btn-box">
-                <a href="start-your-franchise" class="btn btn-border">
-                  <span>Launch Franchise Today</span>
-                </a>
-              </div>
+            <div class="btn-box">
+              <a href="start-your-franchise" class="btn btn-border">
+                <span>Launch Franchise Today</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -588,7 +588,78 @@
     </div>
   </section>
   <!-- Why Us Section HTML -->
-
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="subheading">
+          <h2 class="text-left">Simple <span class="main-green">Procedure</span></h2>
+        </div>
+        <div class="timeline-wrapper">
+          <section class="main-timeline-section mt-5">
+            <div class="timeline-start"></div>
+            <div class="conference-center-line"></div>
+            <div class="conference-timeline-content">
+              <div class="timeline-article timeline-article-top">
+                <div class="content-date">
+                  <span>1</span>
+                </div>
+                <div class="meta-date"></div>
+                <div class="content-box">
+                  <p>Get in touch with us to obtain the preliminary information.</p>
+                </div>
+              </div>
+              <div class="timeline-article timeline-article-bottom">
+                <div class="content-date">
+                  <span>2</span>
+                </div>
+                <div class="meta-date"></div>
+                <div class="content-box">
+                  <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
+                </div>
+              </div>
+              <div class="timeline-article timeline-article-top">
+                <div class="content-date">
+                  <span>3</span>
+                </div>
+                <div class="meta-date"></div>
+                <div class="content-box">
+                  <p>Fill up and file the BigDeal franchise application form.</p>
+                </div>
+              </div>
+              <div class="timeline-article timeline-article-bottom">
+                <div class="content-date">
+                  <span>4</span>
+                </div>
+                <div class="meta-date"></div>
+                <div class="content-box">
+                  <p>Give out documents and signatures for the agreement where required.</p>
+                </div>
+              </div>
+              <div class="timeline-article timeline-article-top">
+                <div class="content-date">
+                  <span>5</span>
+                </div>
+                <div class="meta-date"></div>
+                <div class="content-box">
+                  <p>Select and conclude a profitable location with our help.</p>
+                </div>
+              </div>
+              <div class="timeline-article timeline-article-bottom">
+                <div class="content-date">
+                  <span>6</span>
+                </div>
+                <div class="meta-date"></div>
+                <div class="content-box">
+                  <p>Attend training and installation before opening a new Bigdeal franchise!</p>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-end"></div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
   <!-- FAQs Section HTML -->
   <section class="faqs">
     <div class="container">
@@ -1005,53 +1076,53 @@
     });
 
     document.addEventListener("DOMContentLoaded", () => {
-  const accordionButtons = document.querySelectorAll("#accordion .btn-link");
+      const accordionButtons = document.querySelectorAll("#accordion .btn-link");
 
-  accordionButtons.forEach((button) => {
-    button.addEventListener("click", (event) => {
-      const target = document.querySelector(button.getAttribute("data-target"));
+      accordionButtons.forEach((button) => {
+        button.addEventListener("click", (event) => {
+          const target = document.querySelector(button.getAttribute("data-target"));
 
-      if (target.classList.contains("show")) {
-        // Prevent the default collapse behavior
-        event.preventDefault();
+          if (target.classList.contains("show")) {
+            // Prevent the default collapse behavior
+            event.preventDefault();
 
-        // Manually close the open accordion
-        setTimeout(() => {
-          target.classList.remove("show");
-        button.classList.add("collapsed");
-        button.setAttribute("aria-expanded", "false");
-        }, 100);
+            // Manually close the open accordion
+            setTimeout(() => {
+              target.classList.remove("show");
+              button.classList.add("collapsed");
+              button.setAttribute("aria-expanded", "false");
+            }, 100);
+          }
+        });
+      });
+    });
+    // document.addEventListener("DOMContentLoaded", () => {
+    //   const toggler = document.querySelector(".navbar-toggler");
+    //   const navbar = document.querySelector("#navbarSupportedContent");
+
+    //   toggler.addEventListener("click", () => {
+    //     navbar.classList.toggle("show");
+    //     toggler.setAttribute(
+    //       "aria-expanded",
+    //       navbar.classList.contains("show") ? "true" : "false"
+    //     );
+    //   });
+    // });
+    document.addEventListener('DOMContentLoaded', () => {
+    const toggler = document.querySelector('.navbar-toggler');
+    const collapseElement = document.getElementById('navbarSupportedContent');
+
+    toggler.addEventListener('click', (event) => {
+      event.stopPropagation(); // Prevent event from bubbling up
+      collapseElement.classList.toggle('show');
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!collapseElement.contains(event.target) && collapseElement.classList.contains('show')) {
+        collapseElement.classList.remove('show'); // Close menu if clicking outside
       }
     });
   });
-});
-// document.addEventListener("DOMContentLoaded", () => {
-//   const toggler = document.querySelector(".navbar-toggler");
-//   const navbar = document.querySelector("#navbarSupportedContent");
-
-//   toggler.addEventListener("click", () => {
-//     navbar.classList.toggle("show");
-//     toggler.setAttribute(
-//       "aria-expanded",
-//       navbar.classList.contains("show") ? "true" : "false"
-//     );
-//   });
-// });
-document.addEventListener('DOMContentLoaded', () => {
-  const toggler = document.querySelector('.navbar-toggler');
-  const collapseElement = document.getElementById('navbarSupportedContent');
-
-  toggler.addEventListener('click', (event) => {
-    event.stopPropagation(); // Prevent event from bubbling up
-    collapseElement.classList.toggle('show');
-  });
-
-  document.addEventListener('click', (event) => {
-    if (!collapseElement.contains(event.target) && collapseElement.classList.contains('show')) {
-      collapseElement.classList.remove('show'); // Close menu if clicking outside
-    }
-  });
-});
   </script>
   <!-- Scripts -->
 

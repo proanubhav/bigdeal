@@ -3127,10 +3127,14 @@ footer {
       flex-direction: column-reverse !important;
   }
   .benefit_sec_area {
-    margin-top: 1rem;
+    margin: 1rem;
   }
   .reason_start .feat_right_section {
     overflow: auto;
+    padding-bottom: 2rem;
+  }
+  .reason_start {
+    padding-bottom: 0 !important;
   }
   body .reason_start .feat_right_section > .row {
     flex-wrap: nowrap !important;
@@ -3163,7 +3167,7 @@ footer {
     margin-top: 0;
   }
   .services_card {
-    height: 325px;
+    height: 170px;
   }
   .brand_list {
     overflow: auto;    
@@ -4931,7 +4935,7 @@ footer .logo {
 }
 
 .drop_email .card-body {
-    padding: 3rem !important;
+    padding: 1.5rem 1rem !important;
     border: none;
 }
 .banner-about .about-title {
@@ -4967,6 +4971,7 @@ footer .logo {
 
   .banner-home__media:after {
     left: -4rem;
+    display: none;
   }
 
   .img-fluid.start {
@@ -5000,6 +5005,9 @@ footer .logo {
   .services_top {
     padding: 8rem 0 2rem 0;
   }
+  .services_top.manage_space {
+    padding: 5.5rem 0 2rem 0;
+  }
   .service_benefit ul {
     flex-wrap: wrap;
     column-gap: 16px;
@@ -5019,6 +5027,7 @@ footer .logo {
   }   
   .faqs {
     padding: 0;
+    margin-top: 1rem;
   }
   .privacy-policy {
     padding: 6rem 0 2rem;
