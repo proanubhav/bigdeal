@@ -604,8 +604,11 @@ input:not(:placeholder-shown)+label.animate_label {
   overflow: hidden;
   width: fit-content;
 }
+.btn-box:has(.btn-border) {
+  border: 1px solid #000;
+}
 
-.btn-primary {
+.btn.btn-primary {
   background: #fff 0% 0% no-repeat padding-box;
   opacity: 1;
   height: 66px;
@@ -4766,7 +4769,7 @@ footer .logo {
 }
 
 .main-timeline-section .timeline-end {
-  right: 0px;
+  right: -24px;
 }
 
 .main-timeline-section .conference-center-line {
