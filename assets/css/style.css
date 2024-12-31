@@ -662,8 +662,8 @@ input:not(:placeholder-shown)+label.animate_label {
 
 .navbar_two_nav li a.nav-link.btn.btn-nav {
   border: 1px solid;
-  border-radius: 30px;
-  padding: 19px 16px 15px !important;
+  border-radius: 0px;
+  padding: 15px 10px !important;
   line-height: 1;
   border: 1px solid #ee4f25;
 }
@@ -2621,7 +2621,7 @@ footer {
 @media (min-width: 1024px) and (max-width: 1365px) {
 
   .navbar_two_nav li a.nav-link {
-    padding: 12px 10px !important;
+    padding: 10px !important;
   }
 
   .hidden-lg {
