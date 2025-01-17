@@ -4544,6 +4544,9 @@ div.white_txt {
 .color-white {
   color: #FFF !important;
 }
+.color-orange {
+  color: #ee4f25 !important;
+}
 
 .d-inline-block {
   display: inline-block !important;
@@ -4942,7 +4945,7 @@ footer .logo {
     border: none;
 }
 .banner-about .about-title {
-  font-size: 4rem;
+  font-size: 2.5rem;
   margin-top: 3rem;
 }
 /* home banner check start */
@@ -5371,4 +5374,173 @@ footer .logo {
 }
 .thank_image img {
   width: 300px;
+}
+
+input#inputVal::-webkit-inner-spin-button,
+  input#inputVal::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0;
+  }
+
+  /* Hide arrows in Firefox */
+  input#inputVal[type="number"] {
+    -moz-appearance: textfield !important;
+    border-radius: 4px 0 0 4px !important;
+    border-color: #ee4f25;
+    /* background-color: transparent; */
+    font-size: 25px;
+    text-align: right;
+    color: #ee4f25;
+  }
+  input#customRange2:focus {
+    box-shadow: none !important;
+  }
+.btn.btn-incri {
+  width: 63px !important;
+    border-left: none;
+    font-size: 20px;
+    border-color: #ee4f25;
+    color: #ee4f25;
+}  
+
+
+/* custom radio button css */
+
+.radio-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 10px 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.radio-list li {
+  display: inline-block;
+}
+
+.radio-list input[type="radio"][id^="cb"] {
+  display: none;
+}
+
+.radio-list label {
+  border: 1px solid #fff;
+  padding: 10px;
+  display: block;
+  position: relative;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.radio-list label:before {
+  background-color: white;
+  color: white;
+  content: " ";
+  display: block;
+  border-radius: 50%;
+  border: 1px solid #ee4f25;
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  line-height: 28px;
+  transition-duration: 0.4s;
+  transform: scale(0);
+}
+
+.radio-list label img {
+  height: 100px;
+  width: 100px;
+  transition-duration: 0.2s;
+  transform-origin: 50% 50%;
+}
+
+.radio-list input[type="radio"]:checked + label {
+  border-color: #ee4f25;
+}
+
+.radio-list input[type="radio"]:checked + label:before {
+  content: "✓";
+  background-color: #ee4f25;
+  transform: scale(1);
+}
+
+.radio-list input[type="radio"]:checked + label img {
+  transform: scale(0.9);
+  box-shadow: 0 0 5px #ee4f25;
+  z-index: -1;
+}
+
+/* custom radio button css end */
+
+.radio-list-simple {
+  list-style-type: none;
+  text-align: left;
+  padding: 0 10px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.radio-list-simple li label {
+  margin-left: 10px;
+}
+.radio-list.radio-list-simple input[type="radio"] + label {
+  border-color: #ced4da;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: 500;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.radio-list.radio-list-simple input[type="radio"]:checked + label {
+  border-color: #ee4f25;   
+  background-color: #ee4f25; 
+  color: #fff;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.radio-list.radio-list-simple label:before {
+    /* left: 40%;     */
+    top: -10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border: 1px solid #fff;
+}
+
+.banner-calc .right-sec {
+    background-color: #fff;
+    padding: 2rem;    
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.banner-calc .right-sec p {
+  padding: .75rem;
+}
+.right_bottom_border {
+  border-color: transparent;
+  border-right: 6px solid #007bff;
+  border-bottom: 6px solid #007bff;
+  border-bottom-right-radius: 59px;
+}
+#totalValue {
+  font-size: 40px;
+  float: right;
+  color: #ee4f25;
+}
+
+input[type='range']{ accent-color: #ee4f25; }
+input[type="range"]::-webkit-slider-thumb {
+  transform: scale(1);
+  background-color: #fff;
+  border: 2px solid #ee4f25;
+  box-shadow: 0 0 0 2px var(#ee4f25);
+  border-radius: 50%;
+}
+.plan-bgt-btn {
+  position: absolute;
+  left: 10%;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.plan-bgt-btn:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }

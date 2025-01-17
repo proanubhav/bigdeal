@@ -58,6 +58,9 @@
                 <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="calculator">Calculate Investment</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="start-your-franchise">Apply Franchise</a>
               </li>
               <li class="nav-item">
