@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>About | BigDeal Supermarket Franchise | Know More About Us </title>
+  <title>Calculator | BigDeal Supermarket Franchise | Know More About Us </title>
   <meta name="description"
     content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
   <meta name="keywords"
@@ -62,42 +62,49 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-12">
-          <div class="text-left mt-3 pb-4 ml-4">
-            <h2 class="about-title">Budget Planning.</h2>
-            <p>Get start to plan your Budget</p>
+          <div class="text-left pb-3">
+            <h2 class="about-title">Calculate Your Franchise Startup Costs</h2>
+            <p>Calculate the total investment needed to start your franchise, including fees, setup costs, and working capital, with our easy-to-use Franchise Opening Cost Calculator.</p>
           </div>
         </div>
         <div class="col-lg-6 mx auto">
-          <div class="text-center right_bottom_border1 mt-3 mb-3">
+          <div class="text-center right_bottom_border1">
 
-            <div class="row w-100 m-0">
-              <div class="col-md-12">
+            <div class="w-100 m-0">
                 <div class="search-bar">
                   <form class="form_group" role="form">
-                    <p class="text-left ml-4 mb-0">Choose your Franchise</p>
                     <ul class="radio-list">
                       <li>
                         <input type="radio" name="test" id="cb1" data-min="500" data-max="1500" checked
                           onchange="updateRangeFromRadio(this)" />
-                        <label for="cb1"><img src="./assets/img/minimart.jpg" alt="Minimart" /></label>
+                        <label for="cb1">
+                          <img src="./assets/img/mart-1.png" alt="Minimart" />
+                          <p>Mini Mart</p>
+                        </label>
                       </li>
                       <li>
                         <input type="radio" name="test" id="cb2" data-min="1500" data-max="4000"
                           onchange="updateRangeFromRadio(this)" />
-                        <label for="cb2"><img src="./assets/img/supermart.jpg" alt="Supermart" /></label>
+                        <label for="cb2">
+                          <img src="./assets/img/mart-2.png" alt="Supermart" />
+                          <p>Super Mart</p>
+                        </label>
                       </li>
                       <li>
                         <input type="radio" name="test" id="cb3" data-min="4000" data-max="10000"
                           onchange="updateRangeFromRadio(this)" />
-                        <label for="cb3"><img src="./assets/img/hypermart.jpg" alt="Hypermart" /></label>
+                        <label for="cb3">
+                          <img src="./assets/img/mart-3.png" alt="Hypermart" />
+                          <p>Hyper Mart</p>
+                        </label>
                       </li>
                     </ul>
 
                     <div class="form-group mx-3 px-1">
                       <div class="d-block text-left text-end">
-                        <label for="customRange2" class="form-label mt-3">Sqft</label>
                         <input type="number" id="inputVal" class="form-control ms-3 col-4 float-right" step="10"
-                          value="500" oninput="syncRangeValue(this)" />
+                        value="500" oninput="syncRangeValue(this)" />
+                        <label for="customRange2" class="form-label mt-3 float-right sqft-label">sqft</label>
                         <input type="range" id="customRange2" class="form-control form-range" step="10" value="500"
                           oninput="syncInputValue(this)" />
                       </div>
@@ -108,21 +115,23 @@
                         <input type="radio" name="cbplan" id="cbplan1" value="1000" onchange="updatePlanFromRadio(this)"
                           checked />
                         <label for="cbplan1">
-                          Basic Plan (1000 ₹/Sqft)
+                          Basic Plan
+                          <span>1000 ₹/Sqft</span>
                         </label>
                       </li>
                       <li>
                         <input type="radio" name="cbplan" id="cbplan2" value="1200"
                           onchange="updatePlanFromRadio(this)" />
                         <label for="cbplan2">
-                          Optimized Plan (1200 ₹/Sqft)
+                          Optimized Plan
+                          <span>1200 ₹/Sqft</span>
                         </label>
                       </li>
                       <li>
                         <input type="radio" name="cbplan" id="cbplan3" value="1500"
                           onchange="updatePlanFromRadio(this)" />
                         <label for="cbplan3">
-                          Premium Plan (1500 ₹/Sqft)
+                          Premium Plan <span>1500 ₹/Sqft</span>
                         </label>
                       </li>
                     </ul>
@@ -131,7 +140,6 @@
                       style="display: block; color: red; width: 100%;"></span>
                   </form>
                 </div>
-              </div>
             </div>
             <div class="theme-btn__wrapper d-flex justify-content-end mt-3 mb-1 mr-4">
               
@@ -140,33 +148,32 @@
         </div>
         <div class="col-lg-5 offset-lg-1">
           <div class="right-sec">
-            <p>Approx. Cost: <span id="totalValue">0 ₹</span></p>
-            <table class="table border-strip">
-              <tbody>
-                <tr>
-                  <th scope="row">Franchise Fee (18% GST included): </th>
-                  <td id="franchise" class="text-right color-orange">0 ₹</td>
-                </tr>
-                <tr>
-                  <th scope="row">Single Software Fee:</th>
-                  <td id="software" class="text-right color-orange">0 ₹</td>
-                </tr>
-                <tr>
-                  <th scope="row">Purchasing Cost:</th>
-                  <td id="purchasingCost" class="text-right color-orange">0 ₹</td>
-                </tr>
-                <tr>
-                  <th scope="row">Interior Cost:</th>
-                  <td id="interiorCost" class="text-right color-orange">0 ₹</td>
-                </tr>
-                <!-- <tr>
-                  <th scope="row" class="bg-light" style="font-size: 1.75rem;"><b>Approx. Cost</b></th>
-                  <td id="totalValue" class="text-right bg-light" style="font-size: 1.75rem;">0 ₹</td>
-                </tr> -->
-              </tbody>
-            </table>
+            <p class="budget-cost">
+              <label for="">Approx. Cost:</label>
+              <span id="totalValue"><em class="rupee-icon">₹</em> 0</span>
+            </p>
+            <div class="budget-figures">
+              <div class="fig-card">
+                <span>Franchise Fee</span>
+                <p id="franchise" class="color-blue">₹ 0</p>
+              </div>
+              <div class="fig-card">
+                <span>Software Fee</span>
+                <p id="software" class="color-blue">₹ 0</p>
+              </div>
+            </div>
+            <div class="budget-figures mb-5">
+              <div class="fig-card">
+                <span>Purchasing Cost</span>
+                <p id="purchasingCost" class="color-blue">₹ 0</p>
+              </div>
+              <div class="fig-card">
+                <span>Interior Cost</span>
+                <p id="interiorCost" class="color-blue">₹ 0</p>
+              </div>
+            </div>
             <div class="btn-box plan-bgt-btn border-none ml-4 mb-4">
-                <button class="btn btn-border border-none" style="background-color: #ee4f25;" onclick="calculator()">
+                <button class="btn btn-border border-none br-1" onclick="calculator()">
                   <span>Plan my Budget</span>
                 </button>
             </div>
