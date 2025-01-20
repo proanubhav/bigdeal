@@ -55,10 +55,10 @@
                 <a class="nav-link" href="contact"> Contact Us </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
+                <a class="nav-link" href="calculator">Calculator</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="calculator">Calculate Investment</a>
+                <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="start-your-franchise">Apply Franchise</a>

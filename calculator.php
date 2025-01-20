@@ -150,26 +150,26 @@
           <div class="right-sec">
             <p class="budget-cost">
               <label for="">Approx. Cost:</label>
-              <span id="totalValue"><em class="rupee-icon">₹</em> 0</span>
+              <span class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span id="totalValue">0</span></span>
             </p>
             <div class="budget-figures">
               <div class="fig-card">
                 <span>Franchise Fee</span>
-                <p id="franchise" class="color-blue">₹ 0</p>
+                <p class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span id="franchise" class="amt">0</span></p>
               </div>
               <div class="fig-card">
                 <span>Software Fee</span>
-                <p id="software" class="color-blue">₹ 0</p>
+                <p class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span id="software" class="amt">0</span></p>
               </div>
             </div>
             <div class="budget-figures mb-5">
               <div class="fig-card">
                 <span>Purchasing Cost</span>
-                <p id="purchasingCost" class="color-blue">₹ 0</p>
+                <p class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span id="purchasingCost" class="amt">0</span></p>
               </div>
               <div class="fig-card">
                 <span>Interior Cost</span>
-                <p id="interiorCost" class="color-blue">₹ 0</p>
+                <p class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span id="interiorCost" class="amt">0</span></p>
               </div>
             </div>
             <div class="btn-box plan-bgt-btn border-none ml-4 mb-4">
@@ -251,11 +251,11 @@
       const totalCost = FRANCHISE_COST + SOFTWARE_COST + purchasingCost + interiorCost;
 
       // Update UI with calculated values
-      document.getElementById("franchise").textContent = `₹ ${FRANCHISE_COST}`;
-      document.getElementById("software").textContent = `₹ ${SOFTWARE_COST}`;
-      document.getElementById("purchasingCost").textContent = `₹ ${purchasingCost}`;
-      document.getElementById("interiorCost").textContent = `₹ ${interiorCost}`;
-      document.getElementById("totalValue").textContent = `₹ ${totalCost}`;
+      document.getElementById("franchise").textContent = `${FRANCHISE_COST}`;
+      document.getElementById("software").textContent = `${SOFTWARE_COST}`;
+      document.getElementById("purchasingCost").textContent = `${purchasingCost}`;
+      document.getElementById("interiorCost").textContent = `${interiorCost}`;
+      document.getElementById("totalValue").textContent = `${totalCost}`;
     } else {
       // Display error
       inputField.style.border = "1px solid red";
