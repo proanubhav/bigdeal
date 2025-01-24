@@ -5268,7 +5268,27 @@ footer .logo {
   }
 
   .banner-about .about-title {
-    font-size: 32px;
+    font-size: 18px;
+    margin-top: 0;
+  }
+  .banner-about .about-title+p {
+    display: none;
+  }
+  .banner-about {
+    margin-top: 3rem !important;
+  }
+  .banner-calc {
+    padding: 2rem 0 0 0;
+  }
+  .radio-list {
+    margin-bottom: 1rem !important;
+  }
+  .radio-list-simple {
+    margin-top: 1rem !important;
+  }
+  .banner-calc .right-sec {
+    padding: 1rem !important;
+    margin-top: 1rem !important;
   }
 }
 
