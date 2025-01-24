@@ -108,7 +108,7 @@ h6 {
 }
 
 .prettyprint {
-  color: #2e79bc;
+  color: #3f5bd9;
   padding-bottom: 5px;
   font-size: 12px;
   line-height: 1.5;
@@ -4619,7 +4619,7 @@ div.white_txt {
 }
 
 .color-blue {
-  color: #007bff !important;
+  color: #3f5bd9 !important;
 }
 
 .d-inline-block {
@@ -5595,7 +5595,7 @@ input#customRange2:focus {
   display: block;
   position: relative;
   cursor: pointer;
-  /* min-width: 160px; */
+  min-width: 160px;
 }
 .radio-list label p {
   margin: 0;
@@ -5607,7 +5607,7 @@ input#customRange2:focus {
   content: " ";
   display: block;
   border-radius: 50%;
-  border: 1px solid #2e79bc;
+  border: 1px solid #e34e28;
   position: absolute;
   top: -15px;
   right: -10px;
@@ -5628,12 +5628,12 @@ input#customRange2:focus {
 }
 
 .radio-list input[type="radio"]:checked+label {
-  border-color: #e34e28;
+  border-color: #3f5bd9;
 }
 
 .radio-list input[type="radio"]:checked+label:before {
   content: "✓";
-  background-color: #2e79bc;
+  background-color: #ee4f25;
   transform: scale(1);
 }
 
@@ -5655,7 +5655,7 @@ input#customRange2:focus {
 }
 
 .radio-list-simple li label {
-  margin-left: 10px;
+  margin-right: 10px;
   height: 70px;
   font-size: 12px;
   min-width: 150px;
@@ -5680,8 +5680,8 @@ input#customRange2:focus {
 }
 
 .radio-list.radio-list-simple input[type="radio"]:checked+label {
-  border-color: #ee4f25;
-  background-color: #ee4f25;
+  border-color: #3f5bd9;
+  background-color: #3f5bd9;
   color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
@@ -5692,7 +5692,7 @@ input#customRange2:focus {
 .radio-list.radio-list-simple label:before {
   top: -10px;
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-  border: 1px solid #2e79bc;
+  border: 1px solid #e34e28;
 }
 
 .banner-calc {
@@ -5718,7 +5718,7 @@ input#customRange2:focus {
   display: block;
   font-size: 55px;
   line-height: 1;
-  color: #ee4f25;
+  color: #3f5bd9;
   font-weight: 600;
   font-family: 'Agrandir';
 }
@@ -5737,8 +5737,8 @@ input#customRange2:focus {
 
 .right_bottom_border {
   border-color: transparent;
-  border-right: 6px solid #007bff;
-  border-bottom: 6px solid #007bff;
+  border-right: 6px solid #3f5bd9;
+  border-bottom: 6px solid #3f5bd9;
   border-bottom-right-radius: 59px;
 }
 
@@ -5775,8 +5775,6 @@ input[type="range"]::-webkit-slider-thumb {
 }
 .budget-figures .fig-card {
   width: 50%;
-}
-.budget-figures .fig-card p {
 }
 .budget-figures .fig-card span {
   color: #a0a0a0;
@@ -5830,6 +5828,9 @@ input[type="range"]::-webkit-slider-thumb {
   }
   .budget-figures .fig-card span.amt {
     font-size: 22px;
+  }
+  .radio-list label {
+    min-width: auto;
   }
 }
   
