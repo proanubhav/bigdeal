@@ -5525,13 +5525,14 @@ input#inputVal[type="number"] {
   color: #ee4f25;
   border: none;
   background-color: #fbe9e7;
-  width: 150px;
+  width: 110px;
+  min-width: 110px;
   border: 2px solid;
   border-radius: 4px;
 }
 .sqft-label {
   position: relative;
-  left: 2.25rem;
+  left: 0;
   top: -4px;
   color: #ee4f25;
 }
@@ -5574,7 +5575,7 @@ input#customRange2:focus {
   display: block;
   position: relative;
   cursor: pointer;
-  min-width: 160px;
+  /* min-width: 160px; */
 }
 .radio-list label p {
   margin: 0;
@@ -5775,3 +5776,40 @@ input[type="range"]::-webkit-slider-thumb {
   color: #455A64;
   line-height: 1.5;
 }
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  .radio-list {
+    justify-content: flex-start;
+    li {
+      margin-right: 2rem;
+    }
+  }
+  .plan-bgt-btn .btn {
+    height: auto !important;
+  }
+}
+@media screen and (max-width: 767px) {
+  .radio-list label img {
+    height: 50px;
+    width: 50px;
+  }
+  input#inputVal[type="number"] {
+    max-width: 110px;
+    min-width: 110px;
+  }
+  .radio-list.radio-list-simple input[type="radio"]+label {
+    min-width: auto;
+    margin-left: 0;
+    height: auto;
+    min-height: 60px;
+  }
+  .radio-list.radio-list-simple input[type="radio"]+label span {
+    font-size: 12px;
+  }
+  .right-sec .budget-cost span {
+    font-size: 45px;
+  }
+  .budget-figures .fig-card span.amt {
+    font-size: 22px;
+  }
+}
+  
