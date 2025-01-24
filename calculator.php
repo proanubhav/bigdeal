@@ -109,7 +109,7 @@
                         <div class="d-flex align-items-center justify-content-between" style="min-width: 150px;">                          
                         <label for="customRange2" class="form-label mt-3 float-right sqft-label">sqft</label>
                         <input type="number" id="inputVal" class="form-control ms-3 col-4 float-right" step="50"
-                          value="500" oninput="syncRangeValue(this)"/>
+                          value="500" onblur="syncRangeValue(this)" onfocus="updateMinMax(this)"/>
                         </div>
                       </div>
                       <input type="range" id="customRange2" class="form-control form-range" step="50" value="500"
@@ -245,6 +245,7 @@
     // Update the interior cost based on selected plan
     function updatePlanFromRadio(planCostElement) {
       interiorCostPerUnit = parseInt(planCostElement.value, 10);
+      calculator();
     }
 
     // Calculator logic
@@ -291,6 +292,7 @@
       rangeSlider.value = minValue;
 
       updateRangeBackground(rangeSlider.value); // Update slider background
+      calculator();
     }
 
     // Synchronize range slider value with number input
@@ -300,8 +302,10 @@
 
       inputField.value = value;
       rangeSlider.value = value;
-
-      updateRangeBackground(value); // Update slider background
+      inputField.min = minValue;
+      inputField.max = maxValue;
+      updateRangeBackground(value); // Update slider background    
+      calculator();  
     }
 
     // Synchronize number input value with range slider
@@ -310,6 +314,7 @@
       inputField.value = value;
 
       updateRangeBackground(value); // Update slider background
+      calculator();
     }
 
     // Update the slider's background to reflect the selected range
@@ -317,13 +322,35 @@
       const percentage = ((value - minValue) / (maxValue - minValue));
       rangeSlider.style.background = `linear-gradient(to right, #ee4f25 ${percentage}%, #e0e0e0 ${percentage}%)`;      
     }
+    function updateMinMax(value) {
+      inputField.min = 0;
+      inputField.max = 10000;
+      // calculator();
+    }
     
-
+    function addMinMax(value) {
+      inputField.min = minValue;
+      inputField.max = maxValue;
+      // calculator();
+    }
+    function onlySliderUpdate(inpVal) {
+      let value = parseInt(inpVal.value, 10);
+      value = Math.min(Math.max(value, minValue), maxValue); 
+      updateRangeBackground(value);
+    }
     // Initialize on page load
     document.addEventListener("DOMContentLoaded", initializeValues);
 
     // Add event listeners for dynamic updates
-    inputField.addEventListener("input", () => syncRangeValue(inputField));
+    inputField.addEventListener("input", () => {
+      if(inputField.value > minValue && inputField.value < maxValue){
+        let value = parseInt(inputField.value, 10);
+        value = Math.min(Math.max(value, minValue), maxValue);
+        calculator(),
+        rangeSlider.value = value;
+        onlySliderUpdate(inputField)
+      }      
+    });
     rangeSlider.addEventListener("input", () => syncInputValue(rangeSlider));
   </script>
 
