@@ -5608,7 +5608,7 @@ input#customRange2:focus {
 }
 
 .radio-list input[type="radio"]:checked+label {
-  border-color: #e34e28;
+  border-color: #3f5bd9;
 }
 
 .radio-list input[type="radio"]:checked+label:before {
