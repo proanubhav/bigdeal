@@ -74,6 +74,7 @@
             <div class="w-100 m-0">
               <div class="search-bar">
                 <form class="form_group" role="form">
+                  <p class="text-left mb-2">Choose your franchise size</p>
                   <ul class="radio-list">
                     <li>
                       <input type="radio" name="test" id="cb1" data-min="500" data-max="1500" checked
@@ -101,22 +102,22 @@
                     </li>
                   </ul>
 
-                  <div class="form-group mx-3 px-1">
+                  <div class="form-group px-1">
                     <div class="d-block text-left text-end">
                       <div class="d-flex align-items-center justify-content-between">
-                        <label for="inputVal" class="form-label mt-3 sqft-range">Area: 500 - 1500</label>
+                        <label for="inputVal" class="form-label mt-3 sqft-range">Area Range: 500 - 1500</label>
                         <div class="d-flex align-items-center justify-content-between" style="min-width: 150px;">                          
                         <label for="customRange2" class="form-label mt-3 float-right sqft-label">sqft</label>
-                        <input type="number" id="inputVal" class="form-control ms-3 col-4 float-right" step="10"
+                        <input type="number" id="inputVal" class="form-control ms-3 col-4 float-right" step="50"
                           value="500" oninput="syncRangeValue(this)" />                        
                         </div>
                       </div>
-                      <input type="range" id="customRange2" class="form-control form-range" step="10" value="500"
+                      <input type="range" id="customRange2" class="form-control form-range" step="50" value="500"
                         oninput="syncInputValue(this)" />
                     </div>
                   </div>
-
-                  <ul class="radio-list radio-list-simple mt-5 text-left">
+                  <p class="mt-5 mb-2 text-left">Plan Type</p>
+                  <ul class="radio-list radio-list-simple text-left">
                     <li>
                       <input type="radio" name="cbplan" id="cbplan1" value="1000" onchange="updatePlanFromRadio(this)"
                         checked />
