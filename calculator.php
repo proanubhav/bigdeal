@@ -219,22 +219,16 @@
     const inputField = document.getElementById("inputVal");
     const rangeSlider = document.getElementById("customRange2");
     document.querySelector(".sqft-range").textContent = `Area: ${inputField.min - inputField.max}`;
-    // Constants for calculations
     const FRANCHISE_COST = 247800;
     const SOFTWARE_COST = 50000;
     const PURCHASING_UNIT_COST = 1000;
-
-    // Variables for dynamic input
     let interiorCostPerUnit = 1000;
     let minValue = 500;
     let maxValue = 1500;
-
-    // Initialize input and range values
     function initializeValues() {
       inputField.min = minValue;
       inputField.max = maxValue;
       inputField.value = minValue;
-
       rangeSlider.min = minValue;
       rangeSlider.max = maxValue;
       rangeSlider.value = minValue;
@@ -242,43 +236,31 @@
       updateRangeBackground(rangeSlider.value);      
     }
 
-    // Update the interior cost based on selected plan
     function updatePlanFromRadio(planCostElement) {
       interiorCostPerUnit = parseInt(planCostElement.value, 10);
       calculator();
     }
-
-    // Calculator logic
     function calculator() {
       const inputValue = parseInt(inputField.value, 10);
       const errorElement = document.getElementById("error");
-
-      // Validate input
       if (!isNaN(inputValue) && inputValue > 0) {
         inputField.style.removeProperty("border");
         errorElement.textContent = "";
-
-        // Calculate costs
         const purchasingCost = PURCHASING_UNIT_COST * inputValue;
         const interiorCost = interiorCostPerUnit * inputValue;
         const totalCost = FRANCHISE_COST + SOFTWARE_COST + purchasingCost + interiorCost;
-
-        // Update UI with calculated values
         document.getElementById("franchise").textContent = `${FRANCHISE_COST}`;
         document.getElementById("software").textContent = `${SOFTWARE_COST}`;
         document.getElementById("purchasingCost").textContent = `${purchasingCost}`;
         document.getElementById("interiorCost").textContent = `${interiorCost}`;
         document.getElementById("totalValue").textContent = `${totalCost}`;
       } else {
-        // Display error
         inputField.style.border = "1px solid red";
         errorElement.textContent = isNaN(inputValue)
           ? "Please enter a valid numeric value."
           : "Please enter a value.";
       }
     }
-
-    // Update input and range attributes dynamically based on selected radio
     function updateRangeFromRadio(radioElement) {
       minValue = parseInt(radioElement.dataset.min, 10);
       maxValue = parseInt(radioElement.dataset.max, 10);
@@ -291,33 +273,26 @@
       rangeSlider.max = maxValue;
       rangeSlider.value = minValue;
 
-      updateRangeBackground(rangeSlider.value); // Update slider background
+      updateRangeBackground(rangeSlider.value);
       calculator();
     }
-
-    // Synchronize range slider value with number input
     function syncRangeValue(inputElement) {
       let value = parseInt(inputElement.value, 10);
-      value = Math.min(Math.max(value, minValue), maxValue); // Clamp value
-
+      value = Math.min(Math.max(value, minValue), maxValue);
       inputField.value = value;
       rangeSlider.value = value;
       inputField.min = minValue;
       inputField.max = maxValue;
-      updateRangeBackground(value); // Update slider background    
+      updateRangeBackground(value);
       calculator();  
     }
-
-    // Synchronize number input value with range slider
     function syncInputValue(rangeElement) {
       const value = rangeElement.value;
       inputField.value = value;
 
-      updateRangeBackground(value); // Update slider background
+      updateRangeBackground(value);
       calculator();
     }
-
-    // Update the slider's background to reflect the selected range
     function updateRangeBackground(value) {
       const percentage = ((value - minValue) / (maxValue - minValue));
       rangeSlider.style.background = `linear-gradient(to right, #ee4f25 ${percentage}%, #e0e0e0 ${percentage}%)`;      
@@ -327,21 +302,16 @@
       inputField.max = 10000;
       // calculator();
     }
-    
     function addMinMax(value) {
       inputField.min = minValue;
       inputField.max = maxValue;
-      // calculator();
     }
     function onlySliderUpdate(inpVal) {
       let value = parseInt(inpVal.value, 10);
       value = Math.min(Math.max(value, minValue), maxValue); 
       updateRangeBackground(value);
     }
-    // Initialize on page load
     document.addEventListener("DOMContentLoaded", initializeValues);
-
-    // Add event listeners for dynamic updates
     inputField.addEventListener("input", () => {
       if(inputField.value > minValue && inputField.value < maxValue){
         let value = parseInt(inputField.value, 10);
