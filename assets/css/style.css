@@ -5271,30 +5271,16 @@ footer .logo {
     font-size: 18px;
     margin-top: 0;
   }
-  .banner-about .about-title+p {
-    display: none;
-  }
-  .banner-about {
-    margin-top: 3rem !important;
-  }
-  .banner-calc {
-    padding: 2rem 0 0 0;
-  }
-  .radio-list {
-    margin-bottom: 1rem !important;
-  }
-  .radio-list-simple {
-    margin-top: 1rem !important;
-  }
-  .banner-calc .right-sec {
-    padding: 1rem !important;
-    margin-top: 1rem !important;
-  }
+  
 }
 
 @media (max-width: 575px) {
   .banner-home__content .theme-btn {
     padding: 15px 30px;
+  }
+  .banner-calc .right-sec {
+    padding: 1rem !important;
+    margin-top: 0 !important;
   }
 }
 
@@ -5831,6 +5817,32 @@ input[type="range"]::-webkit-slider-thumb {
   }
   .radio-list label {
     min-width: auto;
+  }
+  .banner-about .about-title+p {
+    display: none;
+  }
+  .banner-about {
+    margin-top: 3rem !important;
+  }
+  .banner-calc {
+    padding: 2rem 0 0 0;
+  }
+  .radio-list {
+    margin-bottom: 1rem !important;
+  }
+  .radio-list-simple {
+    margin-top: 1rem !important;
+  }
+  .banner-calc .right-sec {
+    padding: 1rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 4rem;
+  }
+  .right-sec .budget-cost {
+    margin-bottom: 1rem;
+  }
+  .budget-figures {
+    margin-bottom: 0;
   }
 }
   

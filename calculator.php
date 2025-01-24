@@ -62,7 +62,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-12">
-          <div class="text-left pb-3">
+          <div class="text-left pb-sm-3 pb-xs-1">
             <h2 class="about-title">Calculate Your Franchise Startup Costs</h2>
             <p>Calculate the total investment needed to start your franchise, including fees, setup costs, and working
               capital, with our easy-to-use Franchise Opening Cost Calculator.</p>
@@ -102,21 +102,21 @@
                     </li>
                   </ul>
 
-                  <div class="form-group px-1">
+                  <div class="form-group px-1 mb-0 mb-xs-3">
                     <div class="d-block text-left text-end">
                       <div class="d-flex align-items-center justify-content-between">
                         <label for="inputVal" class="form-label mt-3 sqft-range">Area Range: 500 - 1500</label>
                         <div class="d-flex align-items-center justify-content-between" style="min-width: 150px;">                          
                         <label for="customRange2" class="form-label mt-3 float-right sqft-label">sqft</label>
                         <input type="number" id="inputVal" class="form-control ms-3 col-4 float-right" step="50"
-                          value="500" oninput="syncRangeValue(this)" />                        
+                          value="500" oninput="syncRangeValue(this)"/>
                         </div>
                       </div>
                       <input type="range" id="customRange2" class="form-control form-range" step="50" value="500"
                         oninput="syncInputValue(this)" />
                     </div>
                   </div>
-                  <p class="mt-5 mb-2 text-left">Plan Type</p>
+                  <p class="mt-sm-5 mt-xs-0 mb-2 text-left">Plan Type</p>
                   <ul class="radio-list radio-list-simple text-left">
                     <li>
                       <input type="radio" name="cbplan" id="cbplan1" value="1000" onchange="updatePlanFromRadio(this)"
@@ -154,7 +154,7 @@
           </div>
         </div>
         <div class="col-lg-5 offset-lg-1">
-          <div class="right-sec">
+          <div class="right-sec mt-sm-3 mt-0">
             <p class="budget-cost">
               <label for="">Approx. Cost:</label>
               <span class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span
@@ -172,7 +172,7 @@
                     class="amt">0</span></p>
               </div>
             </div>
-            <div class="budget-figures mb-5">
+            <div class="budget-figures mb-0 mb-sm-5">
               <div class="fig-card">
                 <span>Purchasing Cost</span>
                 <p class="d-flex align-items-center"><em class="rupee-icon">₹</em> <span id="purchasingCost"
@@ -239,7 +239,7 @@
       rangeSlider.max = maxValue;
       rangeSlider.value = minValue;
       document.querySelector(".sqft-range").textContent = `Area: ${minValue} - ${maxValue}`;
-      updateRangeBackground(rangeSlider.value);
+      updateRangeBackground(rangeSlider.value);      
     }
 
     // Update the interior cost based on selected plan
@@ -315,8 +315,9 @@
     // Update the slider's background to reflect the selected range
     function updateRangeBackground(value) {
       const percentage = ((value - minValue) / (maxValue - minValue));
-      rangeSlider.style.background = `linear-gradient(to right, #ee4f25 ${percentage}%, #e0e0e0 ${percentage}%)`;
+      rangeSlider.style.background = `linear-gradient(to right, #ee4f25 ${percentage}%, #e0e0e0 ${percentage}%)`;      
     }
+    
 
     // Initialize on page load
     document.addEventListener("DOMContentLoaded", initializeValues);
