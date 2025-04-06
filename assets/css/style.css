@@ -268,6 +268,14 @@ header {
 /* .navbar-expand-lg .navbar-collapse.nav_collapse {
   display: block !important;
 } */
+ 
+.hidden-xs {
+  display: block !important;
+}
+
+.hidden-md {
+  display: block !important;
+}
 
 .mega-dropdown {
   position: static !important;
@@ -2634,10 +2642,6 @@ h2.wow {
 
 /********* Ipad Pro Screen media Queries *********/
 @media (min-width: 1336px) {
-  .hidden-lg {
-    display: none;
-  }
-
   .mobile_footer {
     display: none;
   }
@@ -2648,10 +2652,6 @@ h2.wow {
 
   .navbar_two_nav li a.nav-link {
     padding: 10px !important;
-  }
-
-  .hidden-lg {
-    display: none;
   }
 
   .mobile_footer {
@@ -2693,10 +2693,6 @@ h2.wow {
 
 
 @media (min-width: 768px) and (max-width: 992px) {
-  .hidden-md {
-    display: none;
-  }
-
   .mobile_logo {
     display: block !important;
     width: 40%;
@@ -3115,10 +3111,6 @@ footer {
     color: #fff;
   }
 
-
-  .hidden-xs {
-    display: none !important;
-  }
 
   .padd_left_zero {
     padding-left: 15px;
@@ -5369,6 +5361,12 @@ footer .logo {
   }
 }
 
+@media screen and (min-width: 992px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+
 @media screen and (max-width: 991px) {
   .d-none.d-xl-block {
     display: none !important;
@@ -5390,6 +5388,10 @@ footer .logo {
 
   .quick_benefit ul li {
     width: 25%;
+  }
+
+  .hidden-xs {
+    display: none !important;
   }
 
 }
