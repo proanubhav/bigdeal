@@ -213,81 +213,9 @@
             </div>
           </div>
         </div>
-        <!-- <div class="col-12">
-          <div class="process_sec_area">
-            <h2>Process of Registration</h2>
-            <ol class="service_steps">
-              <li><span>01</span><strong>OBTAINING DSC OF DIRECTORS/SUBSCRIBERS</strong> It will take 1 Working day to
-                obtain DSC.</li>
-              <li class="green_dot"><span>02</span><strong>APPLY FOR DIN (IF PROPOSED DIRECTORS ARE NOT HAVING
-                  DIN)</strong> It will take 1 Working day to get DIN approval</li>
-              <li class="blue_dot"><span>03</span><strong>RESERVE UNIQUE NAME</strong> (Maximum 4 names can be applied
-                in order of preference. It will take 3 Working days subject to name availability)</li>
-              <li class="red_dot"><span>04</span><strong>UPLOADING OF ALL THE DOCUMENTS ON MCA PORTAL FOR
-                  APPROVAL</strong> It will take 4 Working days subject to name availability</li>
-            </ol>
-          </div>
-
-        </div> -->
       </div>
     </div>
-    <!-- <section class="ecomm_faq_sec our-team">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-md-3">
-          <div class="subheading">
-            <h2>Our Leading, Strong And Creative Team</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image001.jpg" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image001.jpg" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image001.jpg" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="ecomm_get_here_card">
-            <div class="image">
-              <img src="assets/img/image001.webp" alt="img" />
-            </div>
-            <div class="team-desc">
-              <h5>Ashok Kumar</h5>
-              <p>Manager</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
+    
   <!-- Free Demo Section HTML -->
   <?php include './common/free-demo.php'; ?>
   </article>

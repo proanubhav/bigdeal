@@ -154,7 +154,9 @@ button:focus,
   box-shadow: none;
 }
 
-
+img {
+  height: auto;
+}
 /********** GLOBAL CSS **********/
 
 /***** Header CSS ******/

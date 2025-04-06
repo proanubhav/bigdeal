@@ -74,7 +74,7 @@
             <div class="w-100 m-0">
               <div class="search-bar">
                 <form class="form_group" role="form">
-                  <p class="text-left mb-2">Choose your franchise size</p>
+                  <p class="text-left mb-2">Select Store Type</p>
                   <ul class="radio-list">
                     <li>
                       <input type="radio" name="test" id="cb1" data-min="500" data-max="1500" checked
