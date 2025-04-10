@@ -16,50 +16,26 @@
   font-display: swap;
 }
 
-@font-face {
+/* @font-face {
   font-family: "Euclid";
   src: url("../../assets/fonts/Euclid-Circular-A-SemiBold.ttf");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
-}
+} */
 
-@font-face {
+/* @font-face {
   font-family: "Euclid";
   src: url("../../assets/fonts/Euclid-Circular-A-Light.ttf");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
-}
-
-@font-face {
-  font-family: "Agrandir";
-  src: url("../../assets/fonts/agrandir-regular.otf");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
+} */
 
 @font-face {
   font-family: "Agrandir";
   src: url("../../assets/fonts/agrandir-bold.ttf");
   font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Agrandir";
-  src: url("../../assets/fonts/agrandir-italic.ttf");
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Agrandir";
-  src: url("../../assets/fonts/agrandir-medium.ttf");
-  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
@@ -84,6 +60,7 @@ body {
   background-color: #fff;
   font-weight: 400;
   font-size: 14px;
+  min-height: 100vh;
 }
 
 p {
@@ -157,6 +134,7 @@ button:focus,
 img {
   height: auto;
 }
+
 /********** GLOBAL CSS **********/
 
 /***** Header CSS ******/
@@ -268,7 +246,7 @@ header {
 /* .navbar-expand-lg .navbar-collapse.nav_collapse {
   display: block !important;
 } */
- 
+
 .hidden-xs {
   display: block !important;
 }
@@ -1259,7 +1237,7 @@ footer {
   left: -16px;
   top: -10px;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 600;
   color: #FFF3E0;
   background: #FB8C00;
   height: 30px;
@@ -1356,10 +1334,6 @@ footer {
 
 .privacy_link a:hover {
   text-decoration: none;
-}
-
-.privacy_link li {
-  margin-left: 1rem;
 }
 
 .privacy_link li a {
@@ -3174,7 +3148,7 @@ footer {
   }
 
   .reason_start {
-    padding-bottom: 0 !important;
+    padding: 2rem 0 0 0;
   }
 
   body .reason_start .feat_right_section>.row {
@@ -3188,6 +3162,7 @@ footer {
 
   .feat_card img {
     height: 50px;
+    width: auto;
   }
 
   .service_content {
@@ -3642,7 +3617,7 @@ footer {
 
 .image-group-1 .image-group-item-1 {
   top: 0;
-  left: 15%;
+  left: 0;
   z-index: 1;
 }
 
@@ -4579,8 +4554,9 @@ div.white_txt {
 .banner-home {
   z-index: 1;
   background-color: #f1712c;
-  margin-top: 5rem;
+  margin-top: 6rem;
   position: relative;
+  min-height: 550px;
 }
 
 .banner-home .container {
@@ -5033,9 +5009,13 @@ footer .logo {
   }
 } */
 @media (max-width: 767px) {
+  .banner-home {
+    min-height: 500px;
+  }
+
   .banner-home__content {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
   }
 
   .banner-home:before {
@@ -5265,13 +5245,14 @@ footer .logo {
     font-size: 18px;
     margin-top: 0;
   }
-  
+
 }
 
 @media (max-width: 575px) {
   .banner-home__content .theme-btn {
     padding: 15px 30px;
   }
+
   .banner-calc .right-sec {
     padding: 1rem !important;
     margin-top: 0 !important;
@@ -5540,12 +5521,14 @@ input#inputVal[type="number"] {
   border: 2px solid;
   border-radius: 4px;
 }
+
 .sqft-label {
   position: relative;
   left: 0;
   top: -4px;
   color: #ee4f25;
 }
+
 input#customRange2:focus {
   box-shadow: none !important;
 }
@@ -5587,6 +5570,7 @@ input#customRange2:focus {
   cursor: pointer;
   min-width: 160px;
 }
+
 .radio-list label p {
   margin: 0;
 }
@@ -5631,9 +5615,11 @@ input#customRange2:focus {
   transform: scale(0.9);
   z-index: -1;
 }
+
 .radio-list input[type="radio"]:checked+label p {
   margin: 0;
 }
+
 /* custom radio button css end */
 
 .radio-list-simple {
@@ -5652,6 +5638,7 @@ input#customRange2:focus {
   color: #757575;
   border: none;
 }
+
 .radio-list-simple li label span {
   display: block;
   font-size: 18px;
@@ -5675,6 +5662,7 @@ input#customRange2:focus {
   color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
+
 .radio-list.radio-list-simple input[type="radio"]:checked+label span {
   color: #fff;
 }
@@ -5697,13 +5685,16 @@ input#customRange2:focus {
   margin-top: 3rem;
   box-shadow: 0 24px 38px 3px rgb(79 79 79 / 14%), 0 9px 46px 8px rgb(247 247 247 / 12%), 0 11px 15px -7px rgb(210 210 210 / 20%);
 }
+
 .right-sec .budget-cost {
   margin-bottom: 2rem;
 }
+
 .right-sec .budget-cost label {
   display: block;
   color: #a0a0a0;
 }
+
 .right-sec .budget-cost span {
   display: block;
   font-size: 55px;
@@ -5721,6 +5712,7 @@ input#customRange2:focus {
   top: -0.65rem;
   margin-right: 0.5rem;
 }
+
 .right-sec .br-1 {
   border-radius: 1rem;
 }
@@ -5751,6 +5743,7 @@ input[type="range"]::-webkit-slider-thumb {
   transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
   border-radius: 1rem;
 }
+
 .plan-bgt-btn .btn {
   min-width: 250px;
 }
@@ -5758,18 +5751,22 @@ input[type="range"]::-webkit-slider-thumb {
 .plan-bgt-btn:hover {
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
+
 .budget-figures {
   display: flex;
   justify-content: space-between;
   margin-bottom: 1rem;
 }
+
 .budget-figures .fig-card {
   width: 50%;
 }
+
 .budget-figures .fig-card span {
   color: #a0a0a0;
   display: block;
 }
+
 .budget-figures .fig-card p em {
   font-style: normal;
   font-size: 1rem;
@@ -5777,6 +5774,7 @@ input[type="range"]::-webkit-slider-thumb {
   margin-right: 5px;
   position: relative;
 }
+
 .budget-figures .fig-card span.amt {
   font-size: 28px;
   font-family: 'Agrandir';
@@ -5784,69 +5782,86 @@ input[type="range"]::-webkit-slider-thumb {
   color: #455A64;
   line-height: 1.5;
 }
+
 @media screen and (max-width: 991px) and (min-width: 768px) {
   .radio-list {
     justify-content: flex-start;
+
     li {
       margin-right: 2rem;
     }
   }
+
   .plan-bgt-btn .btn {
     height: auto !important;
   }
 }
+
 @media screen and (max-width: 767px) {
   .radio-list label img {
     height: 50px;
     width: 50px;
   }
+
   input#inputVal[type="number"] {
     max-width: 110px;
     min-width: 110px;
   }
+
   .radio-list.radio-list-simple input[type="radio"]+label {
     min-width: auto;
     margin-left: 0;
     height: auto;
     min-height: 60px;
   }
+
   .radio-list.radio-list-simple input[type="radio"]+label span {
     font-size: 12px;
   }
+
   .right-sec .budget-cost span {
     font-size: 45px;
   }
+
   .budget-figures .fig-card span.amt {
     font-size: 22px;
   }
+
   .radio-list label {
     min-width: auto;
   }
+
   .banner-about .about-title+p {
     display: none;
   }
+
   .banner-about {
     margin-top: 3rem !important;
   }
+
   .banner-calc {
     padding: 2rem 0 0 0;
   }
+
   .radio-list {
     margin-bottom: 1rem !important;
   }
+
   .radio-list-simple {
     margin-top: 1rem !important;
   }
+
   .banner-calc .right-sec {
     padding: 1rem !important;
     margin-top: 0 !important;
     margin-bottom: 4rem;
   }
+
   .right-sec .budget-cost {
     margin-bottom: 1rem;
   }
+
   .budget-figures {
     margin-bottom: 0;
   }
 }
-  
