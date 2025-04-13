@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
-
 @font-face {
   font-family: "Euclid";
-  src: url("../../assets/fonts/Euclid-Circular-A-Medium.ttf");
+  src: url("../../assets/fonts/Euclid-Circular-A-Medium.woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -10,31 +8,14 @@
 
 @font-face {
   font-family: "Euclid";
-  src: url("../../assets/fonts/Euclid-Circular-A-Regular.ttf");
+  src: url("../../assets/fonts/Euclid-Circular-A-Regular.woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
-
-/* @font-face {
-  font-family: "Euclid";
-  src: url("../../assets/fonts/Euclid-Circular-A-SemiBold.ttf");
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-} */
-
-/* @font-face {
-  font-family: "Euclid";
-  src: url("../../assets/fonts/Euclid-Circular-A-Light.ttf");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-} */
-
 @font-face {
   font-family: "Agrandir";
-  src: url("../../assets/fonts/agrandir-bold.ttf");
+  src: url("../../assets/fonts/agrandir-bold.woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -145,6 +126,7 @@ header {
   position: fixed;
   top: 0;
   background-color: #fff;
+  min-height: 100px;
 }
 
 .scrolledHeader {
@@ -2189,7 +2171,6 @@ h2.wow {
 /******* Service Content Section **********/
 .service_article {
   padding: 4rem 0 0 0;
-  background: url('../../assets/img/h4-background.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -3149,6 +3130,7 @@ footer {
 
   .reason_start {
     padding: 2rem 0 0 0;
+    min-height: 600px;
   }
 
   body .reason_start .feat_right_section>.row {
@@ -4617,11 +4599,11 @@ div.white_txt {
   max-height: 815px;
   max-width: 65vw;
   position: relative;
-  margin-right: calc(-50vw + 50%) !important;
-  margin-left: -12rem;
+  /* margin-right: calc(-50vw + 50%) !important; */
+  /* margin-left: -12rem; */
 }
 
-.banner-home:before {
+/* .banner-home:before {
   left: -28px;
   content: "";
   z-index: 0;
@@ -4670,7 +4652,7 @@ div.white_txt {
   background-repeat: no-repeat;
   background-image: url(../../assets/img/banner-overly.svg);
   background-size: contain;
-}
+} */
 
 .banner-home__media .start {
   z-index: 3;
@@ -5011,6 +4993,7 @@ footer .logo {
 @media (max-width: 767px) {
   .banner-home {
     min-height: 500px;
+    margin-top: 4rem;
   }
 
   .banner-home__content {
@@ -5144,6 +5127,10 @@ footer .logo {
   .top_header {
     display: none !important;
   }
+  .navbar_two_nav li a.nav-link.btn.btn-nav {
+    width: 60%;
+    margin: auto;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -5205,6 +5192,9 @@ footer .logo {
 
   .navbar_collapse .float-right {
     float: none !important;
+  }
+  header {
+    min-height: auto;
   }
 }
 

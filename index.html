@@ -43,16 +43,31 @@
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
+  <!-- Preload important CSS -->
+  <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="assets/css/style-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" as="image" href="assets/img/bigdeal-store-white.webp" imagesrcset="assets/img/bigdeal-store-white.webp" fetchpriority="high">
+  <!-- Fallback if JS is disabled -->
+  <noscript>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style-min.css">
+  </noscript>
 
   <!-- Google Tag Manager -->
-  <script>(function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-          new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WMBW4X6S');</script>
+  <script>
+    window.addEventListener('load', function () {
+      setTimeout(() => {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+              new Date().getTime(), event: 'gtm.js'
+          }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+              'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WMBW4X6S');
+      }, 2000);
+    });
+  </script>
   <!-- End Google Tag Manager -->
 
   <script type="application/ld+json">
@@ -105,11 +120,6 @@
       ]
     }
   </script>
-
-  <!-- Header Section HTML -->
-  <link href="assets/css/bootstrap.min.css" rel="stylesheet" as="style">
-  <link rel="stylesheet" href="assets/css/style-min.css" as="style">
-  <!-- Header Section HTML -->
 </head>
 
 <body>
@@ -117,17 +127,17 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMBW4X6S" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+   
   <!-- Header Section HTML -->
   <header class="header">
     <div class="top_header">
       <div class="container">
         <ul>
-          <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img width="14" height="14"
-                src="assets/img/instagram.svg" alt="instagram"></li>
-          <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Facebook"><img width="14" height="14"
-                src="assets/img/facebook-white.svg" alt="facebook"></li>
+          <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img width="14"
+                height="14" src="assets/img/instagram.svg" alt="instagram"></li>
+          <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Facebook"><img width="14"
+                height="14" src="assets/img/facebook-white.svg" alt="facebook"></li>
           <li><a href="mailto:connect@bigdealsupermart.com">
-              <!-- <img class="d-mobile email_svg" src="assets/img/email.svg" alt=""> -->
               <span class="email-text">connect@bigdealsupermart.com<span>
             </a></li>
           <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>
@@ -140,7 +150,8 @@
         <div class="mobile_logo">
           <div class="logo">
             <a href="https://www.bigdealsupermart.com/">
-              <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51" alt="Bigdeal Supermart Franchise logo">
+              <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
+                alt="Bigdeal Supermart Franchise logo">
             </a>
           </div>
         </div>
@@ -155,7 +166,8 @@
             <div class="col-12 col-md-12 col-lg-4">
               <div class="logo">
                 <a href="https://www.bigdealsupermart.com/">
-                  <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51" alt="Bigdeal Supermart Franchise logo">
+                  <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
+                    alt="Bigdeal Supermart Franchise logo">
                 </a>
               </div>
             </div>
@@ -175,12 +187,13 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
-                </li>       
+                </li>
                 <li class="nav-item">
                   <a class="nav-link" href="start-your-franchise">Apply Franchise</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link btn btn-nav" href="https://www.bigdealsupermart.com/assets/big-deal-brochure.pdf" target="_blank">Download Brochure</a>
+                  <a class="nav-link btn btn-nav" href="https://www.bigdealsupermart.com/assets/big-deal-brochure.pdf"
+                    target="_blank">Download Brochure</a>
                 </li>
               </ul>
             </div>
@@ -219,11 +232,13 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 px-0">
+        <div class="col-md-6 px-2">
           <div class="banner-home__media">
-            <img src="assets/img/banner-start.svg" class="img-fluid start" alt="banner start" width="117" height="65">
-            <img src="assets/img/bigdeal-store-white.webp" class="bigdeal-store img-fluid hidden-xs" alt="bigdeal store" width="1026" height="577">
-            <img src="assets/img/bigdeal-store-white-xs.webp" class="bigdeal-store img-fluid hidden-md" alt="bigdeal store" width="412" height="230">
+            <!-- <img src="assets/img/bigdeal-store-white.webp" loading="lazy" decoding="async"
+              class="bigdeal-store img-fluid hidden-xs" alt="bigdeal store" width="1026" height="577"> -->
+              <img src="assets/img/bigdeal-store-white.webp" fetchpriority="high" loading="eager" decoding="async" alt="bigdeal store" width="1026" height="577">
+            <img src="assets/img/bigdeal-store-white-xs.webp" loading="lazy" decoding="async"
+              class="bigdeal-store img-fluid hidden-md" alt="bigdeal store" width="412" height="230">
           </div>
         </div>
       </div>
@@ -503,8 +518,10 @@
               <div class="image-group-item-1">
                 <div class="layer" data-depth=".5"
                   style="transform: translate3d(-0.141545px, -28.14px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: absolute; display: block; left: 0px; top: 0px;">
-                  <img class="hidden-xs" src="./assets/img/bigdeal-store-orange.webp" alt="bigdeal store" width="445" height="453">
-                  <img class="hidden-md" src="./assets/img/bigdeal-store-orange-xs.webp" alt="bigdeal store" width="445" height="453">
+                  <img class="hidden-xs" src="./assets/img/bigdeal-store-orange.webp" alt="bigdeal store" width="445"
+                    height="453">
+                  <img class="hidden-md" src="./assets/img/bigdeal-store-orange-xs.webp" alt="bigdeal store" width="445"
+                    height="453">
                 </div>
               </div>
             </div>
@@ -914,7 +931,8 @@
         <div class="col-12">
           <div class="logo justify-content-center mb-4">
             <a href="https://www.bigdealsupermart.com/">
-              <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51" alt="Bigdeal Supermart Franchise logo">
+              <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
+                alt="Bigdeal Supermart Franchise logo">
             </a>
           </div>
           <div class="footer-link">
@@ -1015,51 +1033,37 @@
   <!-- Enquiry Modal -->
 
   <!-- Scripts -->
-  <!-- <script src="assets/js/jquery.3.2.1.min.js"></script> -->
-  <script src="assets/js/core-min.js" async="async"></script>
-  <script src="assets/js/bootstrap.min.js" async="async"></script>
-  <script src="assets/js/popper.min.js" async="async"></script>
+  <script src="assets/js/core-min.js" defer></script>
+  <script src="assets/js/bootstrap.min.js" defer></script>
+  <!-- <script src="assets/js/popper.min.js" async="async"></script> -->
   <!-- <script src="assets/js/script-min.js"></script> -->
-  <script src="assets/js/form-ajax.js" defer async></script>
+  <script src="assets/js/form-ajax-min.js" defer></script>
 
   <script>
-    $(window).scroll(function () {
-      var scroll = $(window).scrollTop();
-
-      if (scroll >= 100) {
-        $(".header").addClass("scrolledHeader");
-        $('.navbar-light.navbar_two .navbar-toggler-icon').css('background-image', 'url(assets/img/black-menu.svg)');
-      } else {
-        $(".header").removeClass("scrolledHeader");
-        $('.navbar-light.navbar_two .navbar-toggler-icon').css('background-image', 'url(assets/img/black-menu.svg)');
-      }
-    });
-
-    $(document).ready(function () {
-      $(".dropdown").hover(
-        function () {
-          $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
-          $(this).toggleClass('open');
-        },
-        function () {
-          $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
-          $(this).toggleClass('open');
-        }
-      );
-    });
-
     document.addEventListener("DOMContentLoaded", () => {
-      const accordionButtons = document.querySelectorAll("#accordion .btn-link");
+      // Navbar toggler
+      const toggler = document.querySelector('.navbar-toggler');
+      const collapseElement = document.getElementById('navbarSupportedContent');
+      if (toggler && collapseElement) {
+        toggler.addEventListener('click', (e) => {
+          e.stopPropagation();
+          collapseElement.classList.toggle('show');
+        });
 
+        document.addEventListener('click', (e) => {
+          if (!collapseElement.contains(e.target) && collapseElement.classList.contains('show')) {
+            collapseElement.classList.remove('show');
+          }
+        });
+      }
+
+      // Accordion behavior
+      const accordionButtons = document.querySelectorAll("#accordion .btn-link");
       accordionButtons.forEach((button) => {
         button.addEventListener("click", (event) => {
           const target = document.querySelector(button.getAttribute("data-target"));
-
-          if (target.classList.contains("show")) {
-            // Prevent the default collapse behavior
+          if (target && target.classList.contains("show")) {
             event.preventDefault();
-
-            // Manually close the open accordion
             setTimeout(() => {
               target.classList.remove("show");
               button.classList.add("collapsed");
@@ -1068,23 +1072,19 @@
           }
         });
       });
-    });
-    
-    document.addEventListener('DOMContentLoaded', () => {
-    const toggler = document.querySelector('.navbar-toggler');
-    const collapseElement = document.getElementById('navbarSupportedContent');
 
-    toggler.addEventListener('click', (event) => {
-      event.stopPropagation(); // Prevent event from bubbling up
-      collapseElement.classList.toggle('show');
+      // Dropdown on hover
+      $(".dropdown").hover(
+        function () {
+          $('.dropdown-menu', this).stop(true, true).slideDown("400");
+          $(this).addClass('open');
+        },
+        function () {
+          $('.dropdown-menu', this).stop(true, true).slideUp("400");
+          $(this).removeClass('open');
+        }
+      );
     });
-
-    document.addEventListener('click', (event) => {
-      if (!collapseElement.contains(event.target) && collapseElement.classList.contains('show')) {
-        collapseElement.classList.remove('show'); // Close menu if clicking outside
-      }
-    });
-  });
   </script>
   <!-- Scripts -->
 
