@@ -1,5 +1,10 @@
+
+  <!-- Preload important CSS -->
+  <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="assets/css/style-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/style.css" as="style">
+  <link rel="stylesheet" href="assets/css/style-min.css" as="style">
   <!-- <link rel="stylesheet" href="assets/css/font-awesome.min.css"> -->
   <meta name="google-site-verification" content="jFFlcONwEK37xx0zZqBN92zMxmOp8-yTTcTqP6xRMgw">
   

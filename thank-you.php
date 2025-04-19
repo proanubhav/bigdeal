@@ -60,7 +60,7 @@
         <div class="col-lg-8 offset-lg-2">
           <div class="text-center mt-3">
             <div class="thank_image">
-              <img src="assets/img/super_thanks.png">
+              <img src="assets/img/super_thanks.webp" alt="Thank You">
             </div>
             <h1 class="thankTitle">THANK YOU!</h1>
             <div class="main-content">

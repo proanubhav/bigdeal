@@ -74,7 +74,7 @@
         <div class="row">
           <div class="col-12 col-lg-6 franchise_img">
             <div class="image d-flex justify-content-center align-items-center h-100">
-              <img style="width: 95%" src="./assets/img/frenchise.svg" />
+              <img style="width: 95%" src="./assets/img/frenchise.svg" alt="franchise" />
             </div>
           </div>
           <div class="col-12 col-lg-6">

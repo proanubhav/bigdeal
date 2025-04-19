@@ -11,11 +11,11 @@
           <div class="testi_card">
             <div class="testi_card_1">
               <ul>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
               </ul>
               <p>company is very good and good environment for working here. the sir is very supportive and they inspire and motivate me.... <a href="https://g.co/kgs/kH3AAW" target="_blank">See at Google</a></p>
             </div>
@@ -32,11 +32,11 @@
           <div class="testi_card">
             <div class="testi_card_1">
               <ul>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
               </ul>
               <p>Best in class specialy the staff support is good... <a href="https://g.co/kgs/kpUvkJ" target="_blank">See at Google</a></p>
             </div>
@@ -53,11 +53,11 @@
           <div class="testi_card">
             <div class="testi_card_1">
               <ul>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
               </ul>
               <p>Really hardworking person and timely deliver to projects.Appreciate... <a href="https://g.co/kgs/Ur3g7H" target="_blank">See at Google</a></p>
             </div>
@@ -79,11 +79,11 @@
           <div class="testi_card">
             <div class="testi_card_1">
               <ul>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
               </ul>
               <p>Backend support is very good <a href="https://g.co/kgs/uDEkBD" target="_blank">See at Google</a></p>
             </div>
@@ -100,11 +100,11 @@
           <div class="testi_card">
             <div class="testi_card_1">
               <ul>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
               </ul>
               <p><a href="https://g.co/kgs/22Xy8f" target="_blank">See at Google</a></p>
             </div>
@@ -121,11 +121,11 @@
           <div class="testi_card">
             <div class="testi_card_1">
               <ul>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
-                <li><img src="assets/img/star.svg" alt=""></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
+                <li><img src="assets/img/star.svg" alt="star"></li>
               </ul>
               <p><a href="https://g.co/kgs/TU4hUF" target="_blank">See at Google</a></p>
             </div>

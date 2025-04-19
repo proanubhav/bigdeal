@@ -63,7 +63,7 @@
       <div class="row align-items-center">
         <div class="col-12">
           <div class="text-left pb-sm-3 pb-xs-1">
-            <h2 class="about-title">Calculate Your Franchise Startup Costs</h2>
+            <h1 class="about-title">Calculate Your Franchise Startup Costs</h1>
             <p>Calculate the total investment needed to start your franchise, including fees, setup costs, and working
               capital, with our easy-to-use Franchise Opening Cost Calculator.</p>
           </div>
@@ -80,7 +80,7 @@
                       <input type="radio" name="test" id="cb1" data-min="500" data-max="1500" checked
                         onchange="updateRangeFromRadio(this)" />
                       <label for="cb1">
-                        <img src="./assets/img/mart-1.png" alt="Minimart" />
+                        <img src="./assets/img/mart-1.webp" alt="Minimart" />
                         <p>Mini Mart</p>
                       </label>
                     </li>
@@ -88,7 +88,7 @@
                       <input type="radio" name="test" id="cb2" data-min="1500" data-max="4000"
                         onchange="updateRangeFromRadio(this)" />
                       <label for="cb2">
-                        <img src="./assets/img/mart-2.png" alt="Supermart" />
+                        <img src="./assets/img/mart-2.webp" alt="Supermart" />
                         <p>Super Mart</p>
                       </label>
                     </li>
@@ -96,7 +96,7 @@
                       <input type="radio" name="test" id="cb3" data-min="4000" data-max="10000"
                         onchange="updateRangeFromRadio(this)" />
                       <label for="cb3">
-                        <img src="./assets/img/mart-3.png" alt="Hypermart" />
+                        <img src="./assets/img/mart-3.webp" alt="Hypermart" />
                         <p>Hyper Mart</p>
                       </label>
                     </li>

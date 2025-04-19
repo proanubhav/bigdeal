@@ -7,13 +7,11 @@
     <div class="container">
       <ul>
         <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img
-              src="assets/img/instagram.svg" alt=""></li>
+              src="assets/img/instagram.svg" alt="instagram"></li>
         <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Facebook"><img
-              src="assets/img/facebook-white.svg" alt=""></li>
-        <!-- <li><a href="https://www.linkedin.com/company/bigdealsupermart/" target="_blank" title="Instagram"><img
-              src="assets/img/instagram.svg" alt=""></li> -->
+              src="assets/img/facebook-white.svg" alt="facebook"></li>
         <li><a href="mailto:connect@bigdealsupermart.com">
-            <img class="d-mobile email_svg" src="assets/img/email.svg" alt="">
+            <img class="d-mobile email_svg" src="assets/img/email.svg" alt="email">
             <span class="email-text">connect@bigdealsupermart.com<span>
           </a></li>
         <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>

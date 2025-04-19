@@ -81,7 +81,7 @@
 
         <div class="col-lg-10 offset-lg-1">
           <div class="">
-            <img src="assets/img/Perio-Men.png" class="img-fluid" alt="">
+            <img src="assets/img/Perio-Men.webp" class="img-fluid" alt="bigdeal staffs">
           </div>
         </div>
       </div>
