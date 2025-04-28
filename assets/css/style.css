@@ -13,6 +13,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: "Agrandir";
   src: url("../../assets/fonts/agrandir-bold.woff");
@@ -3647,6 +3648,12 @@ footer {
 
   .about-us .image-group img {
     width: auto;
+    height: 425px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .about-us .image-group img {
     height: 500px;
   }
 }
@@ -4981,16 +4988,11 @@ footer .logo {
 
 .banner-about .about-title {
   font-size: 2rem;
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 
 /* home banner check start */
 
-/* @media (max-width: 1199px) {
-  .banner-home:before {
-    bottom: 340px;
-  }
-} */
 @media (max-width: 767px) {
   .banner-home {
     min-height: 500px;
@@ -5128,6 +5130,7 @@ footer .logo {
   .top_header {
     display: none !important;
   }
+
   .navbar_two_nav li a.nav-link.btn.btn-nav {
     width: 60%;
     margin: auto;
@@ -5194,6 +5197,7 @@ footer .logo {
   .navbar_collapse .float-right {
     float: none !important;
   }
+
   header {
     min-height: auto;
   }

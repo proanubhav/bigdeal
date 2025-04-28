@@ -79,107 +79,14 @@
           </div>
         </div>
 
-        <div class="col-lg-10 offset-lg-1">
+        <div class="col-lg-8 offset-lg-2 mt-5">
           <div class="">
-            <img src="assets/img/Perio-Men.webp" class="img-fluid" alt="bigdeal staffs">
+            <img src="assets/img/bigdeal-team-mates.svg" class="img-fluid" alt="bigdeal staffs">
           </div>
         </div>
       </div>
     </div>
   </section>
-
-
-  <!-- about us banner end -->
-
-  <!-- Service Top Section -->
-  <!-- <section class="services_top">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 col-md-8 col-lg-9">
-          <div class="services_top_sec">
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-                <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                  <a href="index" itemprop="item">
-                    <span itemprop="name">Home</span>
-                    <meta itemprop="position" content="1" />
-                  </a>
-                </li>
-                <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                  <a href="#" itemprop="item">
-                    <span itemprop="name">About</span>
-                  </a>
-                  <meta itemprop="position" content="2" />
-                </li>
-              </ol>
-            </nav>
-            <h1>About Us</h1>
-            <p>You can incorporate your private company in 3 days with Startupclubindia.com. Minimum 2 Shareholders & 2
-              directors are required to register a Private Company.</p>
-            <section class="service_benefit">
-              <ul>
-                <li><img src="assets/img/check.svg" alt="check mark"> No Subscription</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Life-time Access</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> EMI Options Available</li>
-              </ul>
-            </section>
-          </div>
-          <div class="service_sidebar mobile_sidebar hidden-md hidden-lg">
-            <div class="sidebar_card">
-              <h5>Why Bigdeal Supermart Franchise?</h5>
-              <ol>
-                <li><img src="assets/img/check.svg" alt="check mark"> 4.8 star rating on Google</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> More than 1000+ clients served</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> Dedicated team assigned</li>
-                <li><img src="assets/img/check.svg" alt="check mark"> 5+ years of Excellence</li>
-              </ol>
-            </div>
-            <form method="POST" action="./ajax/contact.php" id="contact-form">
-              <div class="row">
-                <div class="col-12">
-                  <h4>Enquire Now</h4>
-                </div>
-                <div class="col-12 col-md-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="name" id="exampleInputEmail1"
-                      aria-describedby="emailHelp" placeholder="NAME">
-                    <div>
-                      <span class="prettyprint" id="name_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="email" id="exampleInputEmail1"
-                      aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
-                    <div>
-                      <span class="prettyprint" id="email_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 col-md-12">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="contact" id="exampleInputEmail1"
-                      aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
-                    <div>
-                      <span class="prettyprint" id="contact_error"></span>
-                    </div>
-                  </div>
-                </div>
-                <div>
-                  <span class="prettyprint" id="thank_you_msg"></span>
-                </div>
-                <div class="col-12 col-md-12">
-                  <button type="submit" class="btn btn-block btn-secondary">Register</button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- Service Top Section -->
 
   <article class="service_article">
     <div class="container">

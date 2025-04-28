@@ -58,7 +58,7 @@
                                 <div class="mt-md-5 mt-xs-2">
                                     <div class="btn-box border-black mt-sm-4">
                                         <a href="start-your-franchise" type="submit"
-                                            class="btn btn-primary"><span>Yes! I want Demo Today</span></a>
+                                            class="btn btn-primary"><span>Yes! I want Franchise</span></a>
                                     </div>
                                 </div>
                             </div>
