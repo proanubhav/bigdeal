@@ -56,7 +56,7 @@
   <!-- Header Section HTML -->
 
   <!-- Service Top Section -->
-  <section class="services_top manage_space">
+  <section class="services_top manage_space" id="home">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-8 col-lg-9">
@@ -238,7 +238,94 @@
         </div>
       </div>
     </div>
+    <div class="mt-5">
+      <p>
+        At BigDeal Supermart, we always stay close to our customers and partners. Whether you're a shopper looking for a <strong>supermarket near me</strong>, a future business owner interested in our franchise opportunities, or need help from our customer support team—we’re here to help.
+      </p>
+      <p>
+        With multiple ways to reach us—phone, email, and our online contact form—getting in touch with BigDeal has never been easier.
+      </p>
+
+      <h2>Supermarket Near Me? Use Our Store Locator!</h2>
+      <p>
+        Searching for a trusted grocery store nearby? BigDeal Supermart has outlets across India, delivering daily essentials to your neighborhood.
+      </p>
+      <p>Use our store locator feature to:</p>
+      <ul>
+        <li>Find the nearest BigDeal Supermart</li>
+        <li>Get directions and store hours</li>
+        <li>Access store contact numbers</li>
+        <li>Speak directly to store managers for in-stock queries</li>
+      </ul>
+      <p>
+        Whether you need groceries, household items, or personal care products, BigDeal is your go-to <strong>supermarket near me</strong>—always stocked, always affordable.
+      </p>
+
+      <h2>Contact Store Locator Franchise—Start Your Business Journey</h2>
+      <p>
+        Dreaming of starting your own business in India’s booming retail sector? BigDeal Supermart offers one of India’s most trusted supermarket franchise models.
+      </p>
+      <p>
+        Use our contact store locator franchise feature to check availability in your city or state.
+      </p>
+      <p>We make it easy for you to:</p>
+      <ul>
+        <li>Inquire about available franchise territories</li>
+        <li>Understand investment and return expectations</li>
+        <li>Receive location-specific insights and success plans</li>
+        <li>Book a free consultation with our franchise advisor</li>
+      </ul>
+      <p>
+        Our franchise model is royalty-free, backed by complete training and support, and allows you to open in just <strong>45 days</strong>.
+      </p>
+      <p><strong>👉 <a href="#home">Start Your Franchise Application</a></strong></p>
+
+      <h2>Our Head Office</h2>
+      <p>Want to speak directly or visit us for formal discussions, documentation, or collaborations?</p>
+      <address>
+        <strong>BigDeal Supermart Corporate Office</strong><br />
+        📍 B-94, Freedom Fighter Enclave,<br />
+        Neb Sarai, Ignou Main Road,<br />
+        New Delhi – 110068<br />
+        📧 Email: <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a><br />
+        🕒 Open: Monday to Saturday, 10:00 AM – 6:00 PM
+      </address>
+
+      <h2>Just Ring Once—We’ll Call You ASAP!</h2>
+      <p>
+        Want to avoid long hold times or phone menus? We get it. At BigDeal Supermart, time is money. That’s why we offer a quick and easy “Just Ring Once” callback service.
+      </p>
+      <p>Whether you're:</p>
+      <ul>
+        <li>Inquiring about your nearest BigDeal supermarket</li>
+        <li>Exploring a franchise opportunity</li>
+        <li>Looking for help with an existing store</li>
+      </ul>
+      <p><strong>Missed Call Number: +91 98917 50328</strong></p>
+
+      <h2>Fill Out the Contact Form—We’ll Reach Out to You!</h2>
+      <p>
+        Don’t have time to call? Fill out our simple online contact form, and our team will get back to you at your convenience.
+      </p>
+      <p>The form allows you to:</p>
+      <ul>
+        <li>Schedule a callback for franchise consultation</li>
+        <li>Ask about a specific store location</li>
+        <li>Get guidance on investment requirements</li>
+        <li>Share your preferred time and mode of contact</li>
+      </ul>
+      <p>
+        We request basic info such as your name, phone number, preferred location, and store size to connect you with the right team faster.
+      </p>
+
+      <p>
+        At BigDeal Supermart, we are not just building a retail brand—we’re building relationships.
+        <strong>Let’s talk, grow, and succeed—together.</strong>
+      </p>
+  </div>
   </article>
+
+
   <?php
   $headingText = "Successful Franchise — Free demo away!";
   include './common/free-demo.php'; ?>

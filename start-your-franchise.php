@@ -222,6 +222,136 @@
       </div>
     </div>
     </div>
+    <section class="container">
+      <h3>Own Your Store. Serve Your Community. Build Your Future.</h3>
+      <p>
+        The business opportunity at BigDeal Supermart enables you to join one of India's fastest-expanding retail chains. Our affordable 
+        franchise model allows people nationwide to establish prosperous supermarket franchises while benefiting from our established 
+        operational systems, trusted brand name, and professional assistance.
+      </p>
+      <p>
+        No corporate experience needed. No business degree required. Just ambition—and a desire to make a real difference in your city.
+      </p>
+      <p><strong>If you’ve ever thought, “I want to start a franchise in India”—this is your moment.</strong></p>
+
+      <h3>The Game-Changing Business Opportunity You Don't Want To Miss</h3>
+      <p>
+        The lucrative grocery and retail sector in India continues to develop at a fast pace. Customers are now choosing modern neighborhood 
+        supermarkets over traditional kirana stores. This shift has created an enormous surge in franchise business opportunities.
+      </p>
+      <p>
+        BigDeal Supermart leads this retail evolution by offering a system that enables entrepreneurs to start their own profitable 
+        grocery stores—affordably.
+      </p>
+
+      <h3>What is BigDeal Supermart?</h3>
+      <p>
+        BigDeal Supermart is more than a retail brand—it’s a franchise-ready business system designed to help you succeed.
+      </p>
+      <p>
+        We help you launch and run a retail franchise that offers:
+      </p>
+      <ul>
+        <li>Everyday grocery essentials</li>
+        <li>Personal care & home needs</li>
+        <li>Branded FMCG products</li>
+        <li>Fast-moving items at attractive margins</li>
+      </ul>
+      <p>
+        Our business model is supported by cutting-edge software, expert training, operational guidance, and national branding—making your store 
+        a community favorite.
+      </p>
+
+      <h3>Choose Your Franchise Format</h3>
+      <ul>
+        <li>
+          <strong>Mini Mart Franchise</strong><br />
+          Size: 500–800 sq. ft.<br />
+          Ideal for: Tier 2/3 cities, residential neighborhoods<br />
+          Investment: ₹10–12 lakhs<br />
+          Return: Quick turnaround, low overhead, strong local loyalty
+        </li>
+        <li>
+          <strong>Super Mart Franchise</strong><br />
+          Size: 800–1200 sq. ft.<br />
+          Ideal for: Mid-sized towns, metro suburbs, apartment zones<br />
+          Investment: ₹15–18 lakhs<br />
+          Return: Balanced traffic, high product variety, brand growth
+        </li>
+        <li>
+          <strong>Hyper Mart Franchise</strong><br />
+          Size: 1200–1500+ sq. ft.<br />
+          Ideal for: High-footfall areas, malls, and commercial locations<br />
+          Investment: ₹20–25 lakhs<br />
+          Return: High volume, premium positioning, strong profit margins
+        </li>
+      </ul>
+      <p>You choose the format. We deliver the structure.</p>
+
+      <h3>Comprehensive Franchise Package Details</h3>
+      <p>Your BigDeal franchise includes everything needed to run a high-performance grocery store:</p>
+      <ul>
+        <li>Franchise License—brand rights</li>
+        <li>Billing & Inventory Software—cloud-based & user-friendly</li>
+        <li>Interior Setup—shelves, lighting, branding & layout</li>
+        <li>Opening Inventory Guidance—tailored for your local market</li>
+        <li>Staff Training—covering all aspects of operations</li>
+        <li>Launch Support—opening promotions, marketing kits</li>
+        <li>Ongoing Support—business reviews, growth planning</li>
+      </ul>
+      <p>We believe a high-profit franchise should be simple, scalable, and stress-free.</p>
+
+      <h3>Affordable Franchise Investment. Fast ROI.</h3>
+      <ul>
+        <li><strong>Investment Range:</strong> ₹10–25 Lakhs</li>
+        <li><strong>No royalty fees</strong></li>
+        <li><strong>Up to 20% profit margins</strong></li>
+        <li><strong>Break-even in 12–18 months</strong></li>
+        <li><strong>Average earnings:</strong> ₹1.5–2 lakhs/month for performing stores</li>
+      </ul>
+      <p>This is an affordable franchise opportunity that pays off—fast.</p>
+
+      <h3>Who Can Become a BigDeal Franchise Partner?</h3>
+      <p>You don’t need a business degree or retail background. You just need:</p>
+      <ul>
+        <li>A commercially viable retail space (owned or leased)</li>
+        <li>A commitment to community and customer service</li>
+        <li>A passion to build something of your own</li>
+        <li>An entrepreneurial mindset willing to learn and grow</li>
+      </ul>
+      <p>
+        Whether you’re an NRI returning home, a working professional leaving the 9-5, or a business family expanding your reach—this is 
+        your opportunity.
+      </p>
+
+      <h3>How to Start Your Franchise in 6 Simple Steps</h3>
+      <ol>
+        <li>Submit Your Interest Form</li>
+        <li>Speak With Our Franchise Consultant</li>
+        <li>Choose Your Location & Store Type</li>
+        <li>Sign the Agreement</li>
+        <li>Attend Training & Set Up the Store</li>
+        <li>Launch in Just 45 Days!</li>
+      </ol>
+      <p><strong>Yes, in as little as 45 days, your BigDeal Supermart can be up and running.</strong></p>
+
+      <h3>Apply Now to Start Your Franchise</h3>
+      <p><strong>Let’s Build Your BigDeal Store Together</strong></p>
+      <p>
+        Still thinking it over? Have questions?<br />
+        Our team will guide you through every step and help you understand if franchise ownership is the right fit for you.
+      </p>
+      <p><strong>No pressure—just honest conversations.</strong></p>
+
+      <p><strong>Call or WhatsApp:</strong> +91 98917 50328<br />
+        <strong>Email:</strong> <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a></p>
+
+      <p><strong>BigDeal Supermart</strong><br />
+      Your Store. Your Success. Our Support.</p>
+      <p><strong>This is your chance to own a supermarket franchise that’s designed for India’s consumers and built around your growth as an entrepreneur.</strong></p>
+      <p><strong>It’s more than a store—it’s your legacy.</strong></p>
+      <p><strong>Start Your Franchise Today</strong></p>
+    </section>
     <div class="container mt-5">
       <?php include './common/simple-procedure.php'; ?>
     </div>

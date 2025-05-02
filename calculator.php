@@ -193,16 +193,95 @@
         </div>
       </div>
     </div>
+    <div class="container mt-5">
+        <h2>Franchise Opening Cost Calculator</h2>
+        <h3>Plan Your Retail Business with Confidence</h3>
+        <p>
+          Starting a grocery franchise in India has never been more accessible—and knowing your exact startup costs is the first step to building a successful venture. BigDeal Supermart recognizes financial clarity as a vital requirement for all entrepreneurial aspirants. Our Franchise Opening Cost Calculator serves as an easy-to-use tool for your assistance.
+        </p>
+        <p>
+          Through its user-friendly interface, the Franchise Opening Cost Calculator generates a complete cost analysis for Mini Mart Franchises, Super Mart Franchises, and Hyper Mart Franchises.
+        </p>
+
+        <h3>Why Use the Franchise Investment Calculator?</h3>
+        <ul>
+          <li>Planning unfolds as a mandatory step before purchasing a retail franchise.</li>
+          <li>Establish a capital plan that includes inventory, branding, and operations costs.</li>
+          <li>The estimate system determines store costs in real-time by assessing outlet type and location.</li>
+          <li>Each aspect of your investment receives separate analysis.</li>
+          <li>Build your financial direction with assurance—no hidden costs or jargon.</li>
+        </ul>
+
+        <h3>Choose Your Ideal Franchise Model</h3>
+        <p>BigDeal Supermart offers three adaptable franchise structures:</p>
+
+        <ul>
+          <li>
+            <strong>Mini Mart Franchise (500–800 sq. ft.):</strong> Cost-effective, ideal for residential/local areas, suited for new or experimental ventures.
+          </li>
+          <li>
+            <strong>Super Mart Franchise (800–1200 sq. ft.):</strong> Balanced model for urban settings with strong product variety and footfall.
+          </li>
+          <li>
+            <strong>Hyper Mart Franchise (1200–1500+ sq. ft.):</strong> Large-format store for metro/city centers, suited for bulk display and high profits.
+          </li>
+        </ul>
+
+        <p>Your selected model influences your franchise opening cost, which is automatically reflected in the calculator.</p>
+
+        <h3>Key Cost Components: What You'll Be Investing In</h3>
+        <ol>
+          <li>
+            <strong>Franchise Fee:</strong> Covers brand usage, setup help, training, documentation, and advisory support.
+          </li>
+          <li>
+            <strong>Software Fee:</strong> Includes billing, inventory management, loyalty programs, and analytics for retail.
+          </li>
+          <li>
+            <strong>Purchasing Cost:</strong> Initial inventory of FMCG items, groceries, snacks, household & personal care products.
+          </li>
+          <li>
+            <strong>Interior Cost:</strong> Includes shelving, signage, lighting, flooring. Calculated based on square feet and setup plan.
+          </li>
+        </ol>
+
+        <h4>Setup Plans for Every Budget</h4>
+        <ul>
+          <li><strong>Basic Plan – ₹1000/sq.ft.:</strong> Covers all essentials to start operations.</li>
+          <li><strong>Optimized Plan – ₹1200/sq.ft.:</strong> Balanced value and aesthetics.</li>
+          <li><strong>Premium Plan – ₹1500/sq.ft.:</strong> High-end experience with premium look and feel.</li>
+        </ul>
+
+        <h3>Build Your Business with Clarity and Confidence</h3>
+        <p>This isn't just a cost estimation tool—it's the first step in launching your dream business. Use the calculator to:</p>
+        <ul>
+          <li>Budget precisely for your grocery or retail franchise.</li>
+          <li>Make informed decisions without guesswork.</li>
+          <li>Compare formats (Mini Mart, Super Mart, Hyper Mart).</li>
+          <li>Adjust plans as needed before finalizing.</li>
+        </ul>
+
+        <h3>Need Help Deciding?</h3>
+        <p>Once you’ve calculated your budget, our consultants will help you with:</p>
+        <ul>
+          <li>Site selection and store planning</li>
+          <li>Investment structuring</li>
+          <li>Launch timelines</li>
+          <li>Licensing and documentation</li>
+          <li>Staff training and store inauguration</li>
+        </ul>
+        <p>We’ll work with you to make sure your business opens within just <strong>45 days</strong>.</p>
+
+        <h3>BigDeal Supermart—A Smart Step Into India’s Retail Revolution</h3>
+        <p>
+          From Tier-2 cities to metro zones, BigDeal is rapidly becoming one of India’s most trusted names in grocery franchising. With low investment, high margins, and full operational support, your journey starts here—with clarity, confidence, and the right tools.
+        </p>
+
+        <p><strong>Use the Franchise Investment Calculator Today</strong></p>
+        <p>Take charge of your future—plan smart, invest wisely, and grow with BigDeal Supermart.</p>
+    </div>
   </section>
 
-
-
-
-
-
-
-  <!-- Blog Section HTML -->
-  <!-- Blog Section HTML -->
 
   <!-- Footer HTML -->
   <?php include 'common/footer.php'; ?>

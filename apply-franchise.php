@@ -51,7 +51,7 @@
 </head>
 
 <body>
-  <article class="service_article pt-0">
+  <article class="service_article pt-0" id="franchise-application">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -291,9 +291,95 @@
         </div>
       </div>
     </div>
-    <div class="mt-5">
-      <?php include './common/free-demo.php'; ?>
-    </div>
+    <section class="container mt-5">
+      <h2>From Interest to Ownership — Let’s Make It Official</h2>
+      <p>You’ve explored the opportunity. You’ve understood the benefits. Now, it’s time to take the leap.</p>
+      <p>
+        If you are ready to own a BigDeal Supermart franchise, this is your beginning. The franchise application is the formal first step 
+        toward becoming a partner in one of India’s fastest-growing, most affordable, and future-ready supermarket franchise models.
+      </p>
+      <p>This is how you start—whether you're opening in your hometown or entering a new market.</p>
+
+      <h2>Assess Whether the Franchise is Right for You</h2>
+      <p>
+        Before applying, make sure you're ready for the responsibility and rewards of business ownership.
+      </p>
+      <ul>
+        <li>
+          <strong>Retail Space:</strong> A minimum of $500 must be invested into retail space. The space should meet our operational requirements 
+          and be either leased or owned.
+        </li>
+        <li>
+          <strong>Investment Cost:</strong> Capital investment ranges from ₹10–25 lakh depending on store format and location.
+        </li>
+        <li>
+          <strong>Operational Commitment:</strong> Either manage operations yourself or hire trained personnel under your supervision.
+        </li>
+        <li>
+          <strong>Location:</strong> Choose a high-footfall area with visibility and accessibility for your store.
+        </li>
+        <li>
+          <strong>Adhere to SOPs:</strong> Follow BigDeal's Standard Operating Procedures for store operations, customer service, and branding.
+        </li>
+      </ul>
+      <p>If this sounds like you, you're ready for the next step.</p>
+
+      <h2>Filling Out the Franchise Application</h2>
+      <p>
+        The application is the foundation of our franchise recruitment process. It helps us assess your fit and customize your onboarding.
+      </p>
+      <p>Your application will include the following:</p>
+      <ul>
+        <li><strong>Personal Information:</strong> Full name, contact number, and email.</li>
+        <li><strong>Preferred Store Location:</strong> City, PIN code, and address of your desired location.</li>
+        <li><strong>Store Area:</strong> Size in square feet, and whether the space is owned or rented.</li>
+        <li><strong>Investment Readiness:</strong> Confirmation of your capital preparedness.</li>
+        <li><strong>Timeline:</strong> Your target date to launch the store.</li>
+        <li><strong>Business Experience:</strong> Optional, but helpful to assess your managerial ability.</li>
+      </ul>
+      <p>Submitting the form signals your commitment to the journey ahead.</p>
+
+      <h2>What Happens After You Apply?</h2>
+      <ol>
+        <li><strong>Market Demo:</strong> We assess if your selected area is suitable for a BigDeal Supermart.</li>
+        <li><strong>Consultation Call:</strong> Our franchise consultant will guide you through the process.</li>
+        <li><strong>Store Format Options:</strong> Choose the format that aligns with your goals and budget.</li>
+        <li><strong>Franchise Agreement:</strong> You’ll receive clear documentation of responsibilities and benefits.</li>
+        <li><strong>Onboarding & Training:</strong> Staff training, setup guidance, and orientation begin.</li>
+        <li><strong>Store Launch:</strong> Within just 45 days, your store can be open for business.</li>
+      </ol>
+
+      <h2>Legal and Financial Clarity</h2>
+      <p>We believe in transparency. Here’s how the finances work:</p>
+      <ul>
+        <li><strong>One-Time Franchise Fee:</strong> A fixed fee to secure your franchise rights.</li>
+        <li><strong>Fixed Cost for Interiors and Branding:</strong> Pre-defined pricing for store setup.</li>
+        <li><strong>No Royalty Fees:</strong> 100% of your profits stay with you. No revenue-sharing model.</li>
+        <li><strong>Ongoing Support:</strong> Continuous assistance at no extra hidden cost.</li>
+      </ul>
+
+      <h2>Need Help?</h2>
+      <p>If you need support with the application, our team is ready to help:</p>
+      <p>
+        <strong>Call/WhatsApp:</strong> +91 98917 50328<br />
+        <strong>Email:</strong> <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a>
+      </p>
+
+      <h2>Still Deciding?</h2>
+      <p>Explore more with our resources:</p>
+      <ul>
+        <li><strong>Franchise Starter Page:</strong> Learn about the complete franchise model, benefits, and opportunities.</li>
+        <li><strong>Franchise Calculator:</strong> Estimate your investment based on store format and city.</li>
+      </ul>
+
+      <h2>Your Opportunity to Build Something Big!</h2>
+      <p>
+        BigDeal Supermart is on track to become India’s most trusted and accessible grocery retail chain. More franchisees are joining each 
+        month—now it’s your chance.
+      </p>
+      <p><strong>This is your moment to apply.<br />This is your BigDeal.</strong></p>
+      <p><strong><a href="#franchise-application">Apply for Your Franchise Now</a></strong></p>
+    </section>
   </article>
 
   <!-- Blog Section HTML -->

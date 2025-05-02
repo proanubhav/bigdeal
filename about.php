@@ -121,7 +121,139 @@
           </div>
         </div>
       </div>
-    </div>
+
+    <section class="mt-5">
+      <p>
+        BigDeal Supermart exists beyond its supermarket operations to unite innovation with opportunities and foster community outreach. 
+        The smart, proven supermarket franchise model of BigDeal Supermart enables everyday entrepreneurs to launch retail businesses 
+        successfully for India's changing retail marketplace.
+      </p>
+      <p>
+        We operate with a straightforward purpose: to develop profitable, sustainable businesses that deliver community service through 
+        convenience and premium quality alongside compassionate care.
+      </p>
+
+      <h2>The Smart Way to Start a Supermarket Franchise</h2>
+      <p>
+        Starting your own business can be overwhelming—but with BigDeal, it’s simple, strategic, and supported.
+      </p>
+      <p>
+        Through our proven business approach, which ensures minimum risk and maximum rewards, we help franchisees successfully open 
+        various store formats like <strong>Mini Mart</strong>, <strong>Super Mart</strong>, and <strong>Hyper Mart</strong> stores.
+      </p>
+      <p>
+        From your first day of operation, BigDeal provides complete support through a comprehensive network of franchise assets:
+      </p>
+      <ul>
+        <li>Streamlined store setup</li>
+        <li>Real-time inventory systems</li>
+        <li>Ongoing staff training</li>
+        <li>360° marketing support</li>
+        <li>A fast 45-day launch timeline</li>
+      </ul>
+      <p>
+        Our streamlined ownership model lets owners focus on their core goals: expansion and profit growth.
+      </p>
+
+      <h2>Our Mission</h2>
+      <p>
+        BigDeal aims to provide Indian entrepreneurs with an effective supermarket franchise system that generates revenue while boosting 
+        expansion, independence, and strengthening community markets.
+      </p>
+
+      <h2>Our Vision</h2>
+      <p>
+        BigDeal aims to establish the premier supermarket franchise network in India through its commitment to delivering retail solutions 
+        that combine price affordability with innovative, market-tailored approaches.
+      </p>
+      <p>
+        Our mission includes creating access to high-quality grocery stores throughout all communities and providing success tools to 
+        business-savvy entrepreneurs.
+      </p>
+
+      <h2>Built on Strong Values</h2>
+      <ul>
+        <li><strong>Integrity:</strong> All operations remain transparent and free from hidden costs.</li>
+        <li><strong>Empowerment:</strong> We provide all necessary resources for your success.</li>
+        <li><strong>Community:</strong> We support locally-owned enterprises and community-positive businesses.</li>
+        <li><strong>Scalability:</strong> Our system is designed for growth, matching your expansion goals.</li>
+        <li><strong>Support:</strong> Your journey is fully supported from launch through every stage of growth.</li>
+      </ul>
+
+      <h2>Why BigDeal Supermart?</h2>
+      <p>
+        The modern retail landscape demands convenience, variety, and cost-efficiency. BigDeal delivers all three—while offering 
+        franchisees an easy-to-launch, easy-to-scale model.
+      </p>
+
+      <h3>Low Investment. High Impact.</h3>
+      <p>
+        Start small, scale smart. Our low-entry investment is designed for high returns with minimal risk—powered by a trusted brand.
+      </p>
+
+      <h3>No Royalty. Ever.</h3>
+      <p>
+        You keep 100% of your profits. We don’t take a cut—instead, we provide the systems, support, and scale.
+      </p>
+
+      <h3>Complete Setup Support</h3>
+      <p>
+        From interiors and software to inventory stocking and team training—we handle the backend so you can focus on growth.
+      </p>
+
+      <h3>Flexibility That Fits You</h3>
+      <p>
+        Choose from Mini, Super, and Hyper Mart formats tailored to your budget, location, and ambition.
+      </p>
+
+      <h3>Community-Centered Model</h3>
+      <p>
+        We help you build more than just a store—a local hub, a trusted name, and a business with heart.
+      </p>
+
+      <h2>Our Unique Value Proposition</h2>
+      <p>
+        We don’t sell franchises—we build business owners.<br />
+        We don’t chase sales—we create legacies.<br />
+        We’re not just a supermarket—we’re your business partner for life.
+      </p>
+      <p>
+        BigDeal Supermart is the first choice for hundreds of smart entrepreneurs looking to own a profitable grocery store—without 
+        reinventing the wheel.
+      </p>
+
+      <h2>A Proven Model for the Indian Market</h2>
+      <p>
+        With years of retail experience in India, BigDeal understands what works—and what doesn’t. Our blueprint is tailored to:
+      </p>
+      <ul>
+        <li>Changing consumer behavior</li>
+        <li>Rising demand for organized retail</li>
+        <li>The growing desire to “own something of your own”</li>
+      </ul>
+      <p>
+        From Kirana-style warmth to modern store aesthetics, we blend tradition with technology to create local-feel stores with national-level professionalism.
+      </p>
+
+      <h2>Real People. Real Growth. Real Impact.</h2>
+      <p>
+        Behind every BigDeal store is a local entrepreneur who said yes to possibility. Today, our partners are running successful 
+        supermarkets, creating jobs, serving communities, and building generational wealth.
+      </p>
+      <p><strong>And you could be next.</strong></p>
+
+      <h2>Ready to Build Your Legacy?</h2>
+      <p>
+        Opening a BigDeal store offers financial independence, individual growth, and long-term business success.
+      </p>
+      <p>
+        Your trusted journey for both neighborhood convenience and investment growth starts here—with BigDeal.
+      </p>
+
+      <p><strong>BigDeal Supermart</strong><br />
+      Your Store. Your Success. Our Support.</p>
+  </div>
+  </section>
     
   <!-- Free Demo Section HTML -->
   <?php include './common/free-demo.php'; ?>
