@@ -7,35 +7,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Calculator | BigDeal Supermarket Franchise | Know More About Us </title>
+  <title>Calculator | BigDeal Supermarket Franchise </title>
   <meta name="description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities.">
   <meta name="keywords"
     content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="BigDeal Supermarket Franchise | Know More About Us ">
-  <meta property="og:url" content="https://www.bigdealsupermart.com/about">
+  <meta property="og:title" content="BigDeal Supermarket Franchise ">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/calculator">
   <meta property="og:description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities.">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="BigDeal Supermarket Franchise | Know More About Us ">
-  <meta name="twitter:url" content="https://www.bigdealsupermart.com/about">
+  <meta name="twitter:title" content="BigDeal Supermarket Franchise ">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/calculator">
   <meta name="twitter:description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="BigDeal Supermarket Franchise | Know More About Us ">
-  <meta itemprop="url" content="https://www.bigdealsupermart.com/about">
+  <meta itemprop="name" content="BigDeal Supermarket Franchise ">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/calculator">
   <meta itemprop="description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities.">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <link rel="canonical" href="https://www.bigdealsupermart.com/about">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/calculator">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

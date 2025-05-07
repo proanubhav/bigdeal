@@ -15,7 +15,7 @@
 
     <meta property="og:site_name" content="Bigdeal Supermart Franchise">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta property="og:title" content="Privacy Policy Bigdeal Supermart">
     <meta property="og:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta property="og:description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:domain" content="www.bigdealsupermart.com">
     <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-    <meta name="twitter:title" content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    <meta name="twitter:title" content="Privacy Policy Bigdeal Supermart">
     <meta name="twitter:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta name="twitter:description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
@@ -55,9 +55,7 @@
     <?php include 'common/header.php'; ?>
     <!-- Header Section HTML -->
 
-
     <!-- Privacy Policy -->
-
     <article class="privacy-policy">
         <div class="container">
             <div class="row">

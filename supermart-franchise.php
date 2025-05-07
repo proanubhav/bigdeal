@@ -16,7 +16,7 @@
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Start your Franchise with BigDeal Supermart in India">
-  <meta property="og:url" content="https://www.bigdealsupermart.com/start-your-franchise">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/supermart-franchise">
   <meta property="og:description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
@@ -26,16 +26,16 @@
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
   <meta name="twitter:title" content="Start your Franchise with BigDeal Supermart in India">
-  <meta name="twitter:url" content="https://www.bigdealsupermart.com/start-your-franchise">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/supermart-franchise">
   <meta name="twitter:description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta itemprop="name" content="Start your Franchise with BigDeal Supermart in India">
-  <meta itemprop="url" content="https://www.bigdealsupermart.com/start-your-franchise">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/supermart-franchise">
   <meta itemprop="description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <link rel="canonical" href="https://www.bigdealsupermart.com/start-your-franchise">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/supermart-franchise">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
