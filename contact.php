@@ -326,13 +326,6 @@
   </article>
 
 
-  <?php
-  $headingText = "Successful Franchise — Free demo away!";
-  include './common/free-demo.php'; ?>
-  <!-- Blog Section HTML -->
-  <?php include 'common/articles.php'; ?>
-  <!-- Blog Section HTML -->
-
   <!-- Footer HTML -->
   <?php include 'common/footer.php'; ?>
   <!-- Footer HTML -->

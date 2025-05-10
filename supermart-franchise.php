@@ -300,17 +300,9 @@
     </div>
   </article>
 
-  <!-- Blog Section HTML -->
-  <?php include 'common/articles.php'; ?>
-  <!-- Blog Section HTML -->
-
   <!-- Footer HTML -->
   <?php include 'common/footer.php'; ?>
   <!-- Footer HTML -->
-
-  <!-- Floating Mobile Footer -->
-  
-  <!-- Floating Mobile Footer -->
 
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>

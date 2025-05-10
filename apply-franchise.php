@@ -382,10 +382,6 @@
     </section>
   </article>
 
-  <!-- Blog Section HTML -->
-  <?php include 'common/articles.php'; ?>
-  <!-- Blog Section HTML -->
-
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>
   <!-- Scripts -->
