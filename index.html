@@ -25,7 +25,7 @@
   <meta name="google-site-verification" content="jFFlcONwEK37xx0zZqBN92zMxmOp8-yTTcTqP6xRMgw" />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
-  
+
   <meta name="twitter:title" content="Big Deal - Leading Grocery Retail Chain - Big Deal">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/">
   <meta name="twitter:description"
@@ -46,7 +46,8 @@
   <!-- Preload important CSS -->
   <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <link rel="preload" href="assets/css/style-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="preload" as="image" href="assets/img/bigdeal-store-white.webp" imagesrcset="assets/img/bigdeal-store-white.webp" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/img/bigdeal-store-white.webp"
+    imagesrcset="assets/img/bigdeal-store-white.webp" fetchpriority="high">
   <!-- Fallback if JS is disabled -->
   <noscript>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -127,7 +128,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMBW4X6S" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-   
+
   <!-- Header Section HTML -->
   <header class="header">
     <div class="top_header">
@@ -221,7 +222,7 @@
             </div>
             <div class="theme-btn__wrapper d-flex flex-wrap">
               <div class="btn-box">
-                <a href="start-your-franchise" class="btn btn-primary">
+                <a href="#" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
                   <span>Open Franchise Now</span>
                 </a>
               </div>
@@ -236,7 +237,8 @@
           <div class="banner-home__media">
             <!-- <img src="assets/img/bigdeal-store-white.webp" loading="lazy" decoding="async"
               class="bigdeal-store img-fluid hidden-xs" alt="bigdeal store" width="1026" height="577"> -->
-              <img src="assets/img/bigdeal-store-white.webp" class="hidden-xs" fetchpriority="high" loading="eager" decoding="async" alt="bigdeal store" width="1026" height="577">
+            <img src="assets/img/bigdeal-store-white.webp" class="hidden-xs" fetchpriority="high" loading="eager"
+              decoding="async" alt="bigdeal store" width="1026" height="577">
             <img src="assets/img/bigdeal-store-white-xs.webp" loading="lazy" decoding="async"
               class="bigdeal-store img-fluid hidden-md" alt="bigdeal store" width="412" height="230">
           </div>
@@ -337,7 +339,7 @@
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <div class="btn-box">
-            <a class="btn btn-primary" href="start-your-franchise">
+            <a class="btn btn-primary" href="#" data-target="#enquiryModal" class="btn btn-primary">
               <span>Own a Franchise</span>
             </a>
           </div>
@@ -367,7 +369,7 @@
                 store buzzing. So, join the BigDeal Supermarket franchise today, and let’s create a grocery adventure
                 that’s profitable and entertaining!</p>
               <div class="btn-box">
-                <a href="start-your-franchise" class="btn btn-border">
+                <a href="#" data-target="#enquiryModal" class="btn btn-primary" class="btn btn-border">
                   <span>Apply Franchise</span>
                 </a>
               </div>
@@ -542,7 +544,7 @@
               space where every person wins, and start a mini supermarket filled with emotion. Allow us to extend our
               heart, strength and success to this cause.</p>
             <div class="btn-box">
-              <a href="start-your-franchise" class="btn btn-border">
+              <a href="#" data-target="#enquiryModal" class="btn btn-primary" class="btn btn-border">
                 <span>Apply Now</span>
               </a>
             </div>
@@ -911,7 +913,7 @@
                     self with financial security and the opportunity to build a thriving business. Cater to your
                     community and seek everyone’s blessings!</p>
                   <div class="btn-box">
-                    <a href="start-your-franchise" type="submit" class="btn btn-primary">
+                    <a href="#" data-target="#enquiryModal" class="btn btn-primary" type="submit" class="btn btn-primary">
                       <span>Start Your Franchise</span>
                     </a>
                   </div>
@@ -991,30 +993,87 @@
         <div class="modal-body">
           <form method="POST" action="./ajax/contact" id="sidebar-form">
             <div class="row">
-              <div class="col-12 col-md-12">
+              <div class="col-12">
                 <div class="form-group">
-                  <input type="text" class="form-control" name="name" id="exampleInputEmail1"
-                    aria-describedby="emailHelp" placeholder="NAME">
+                  <input type="text" class="form-control" name="name" id="name" aria-describedby="emailHelp"
+                    placeholder="Full Name">
+                  <label class="animate_label" for="exampleInputName1">FULL NAME</label>
                   <div>
                     <span class="prettyprint" id="name_error"></span>
                   </div>
                 </div>
               </div>
-              <div class="col-12 col-md-12">
+              <div class="col-12 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" name="email" id="exampleInputEmail1"
-                    aria-describedby="emailHelp" placeholder="EMAIL ADDRESS">
+                  <input type="text" class="form-control" name="contact" id="contact" aria-describedby="emailHelp"
+                    maxlength="10" placeholder="CONTACT NUMBER">
+                  <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
+                  <div>
+                    <span class="prettyprint" id="contact_error"></span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="form-group">
+                  <input type="email" class="form-control" name="email" id="email" aria-describedby="emailHelp"
+                    placeholder="Email">
+                  <label class="animate_label" for="exampleInputComment1">EMAIL</label>
                   <div>
                     <span class="prettyprint" id="email_error"></span>
                   </div>
                 </div>
               </div>
+              <div class="col-12 col-md-6">
+                <div class="form-group">
+                  <input type="text" class="form-control" name="pincode" id="pincode" maxlength="6"
+                    aria-describedby="emailHelp" placeholder="Pin Code">
+                  <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
+                  <div>
+                    <span class="prettyprint" id="pincode_error"></span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="form-group">
+                  <div class="select-wrapper">
+                    <select class="form-control" name="area" id="area" aria-describedby="emailHelp">
+                      <option value="" disabled selected>Please Select</option>
+                      <option value="Upto 500 Sqft">Upto 500 Sqft</option>
+                      <option value="Upto 1000 Sqft">Upto 1000 Sqft</option>
+                      <option value="Upto 2000 Sqft">Upto 2000 Sqft</option>
+                      <option value="Upto 5000 Sqft">Upto 5000 Sqft</option>
+                    </select>
+                    <label class="animate_label" for="area">Area in sqft.</label>
+                    <span class="prettyprint" id="area_error"></span>
+                  </div>
+                </div>
+              </div>
               <div class="col-12 col-md-12">
                 <div class="form-group">
-                  <input type="text" class="form-control" name="contact" id="exampleInputEmail1"
-                    aria-describedby="emailHelp" placeholder="CONTACT NUMBER">
+                  <select class="form-control" name="propType" id="propType" aria-describedby="emailHelp">
+                    <option value="" selected disabled>Please Select</option>
+                    <option value="Owned">Owned</option>
+                    <option value="Rented">Rented</option>
+                  </select>
+                  <label class="animate_label" for="exampleInputEmail1">Property Type</label>
                   <div>
-                    <span class="prettyprint" id="contact_error"></span>
+                    <span class="prettyprint" id="propType_error"></span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-12">
+                <div class="form-group">
+                  <select class="form-control" name="plan" id="plan" aria-describedby="emailHelp">
+                    <option value="" selected disabled>Please Select</option>
+                    <option value="This Month">This Month</option>
+                    <option value="Next Month">Next Month</option>
+                    <option value="After 2 Months">After 2 Months</option>
+                  </select>
+                  <label class="animate_label" for="exampleInputEmail1">When you are planning to
+                    open your
+                    store?</label>
+                  <div>
+                    <span class="prettyprint" id="plan_error"></span>
                   </div>
                 </div>
               </div>
@@ -1040,6 +1099,14 @@
   <script src="assets/js/form-ajax-min.js" defer></script>
 
   <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      setTimeout(function () {
+        // Get modal element by ID
+        const myModal = new bootstrap.Modal(document.getElementById('enquiryModal'));
+        myModal.show();
+      }, 30000); // 30,000 ms = 30 seconds
+    });
+
     document.addEventListener("DOMContentLoaded", () => {
       // Navbar toggler
       const toggler = document.querySelector('.navbar-toggler');

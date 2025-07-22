@@ -121,8 +121,7 @@
                       <div class="benefit_area">
                         <h5>03.</h5>
                         <h4>Visit us:</h4>
-                        <p><a href="" target="_blank">B-94, Freedom Fighter Enclave, Neb sarai, Ignou Main Road, New
-                            Delhi -110068</a></p>
+                        <p><a href="https://www.google.com/maps/search/1st+Floor,+Sapna+Market,++Sector+37+Faridabad/@28.4804928,77.3083983,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDcyMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">12/2 1st Floor, Sapna Market,  Sector 37 Faridabad, Haryana , 121003</a></p>
                       </div>
                     </div>
                   </div>
@@ -284,9 +283,7 @@
       <p>Want to speak directly or visit us for formal discussions, documentation, or collaborations?</p>
       <address>
         <strong>BigDeal Supermart Corporate Office</strong><br />
-        📍 B-94, Freedom Fighter Enclave,<br />
-        Neb Sarai, Ignou Main Road,<br />
-        New Delhi – 110068<br />
+        📍 12/2 1st Floor, Sapna Market,  Sector 37 Faridabad, Haryana , 121003<br />
         📧 Email: <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a><br />
         🕒 Open: Monday to Saturday, 10:00 AM – 6:00 PM
       </address>
