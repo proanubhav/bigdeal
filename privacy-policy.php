@@ -105,7 +105,7 @@
                     <h2>5. Your Rights and Choices</h2>
                     <p>You have the right to access, update, or delete your personal information. You may also have the
                         right to object to or restrict certain processing activities. To exercise these rights, please
-                        contact us at connect@bigdealsupermart.com.</p>
+                        contact us at <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a>.</p>
 
                     <h2>6. Changes to This Privacy Policy</h2>
                     <p>We may update this Privacy Policy periodically to reflect changes in our practices or legal
