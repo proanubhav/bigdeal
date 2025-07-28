@@ -222,7 +222,7 @@
             </div>
             <div class="theme-btn__wrapper d-flex flex-wrap">
               <div class="btn-box">
-                <a href="#" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
+                <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
                   <span>Open Franchise Now</span>
                 </a>
               </div>
@@ -339,7 +339,7 @@
         </div>
         <div class="col-6 col-md-4 col-lg-4">
           <div class="btn-box">
-            <a class="btn btn-primary" href="#" data-target="#enquiryModal" class="btn btn-primary">
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
               <span>Own a Franchise</span>
             </a>
           </div>
@@ -369,7 +369,7 @@
                 store buzzing. So, join the BigDeal Supermarket franchise today, and let’s create a grocery adventure
                 that’s profitable and entertaining!</p>
               <div class="btn-box">
-                <a href="#" data-target="#enquiryModal" class="btn btn-primary" class="btn btn-border">
+                <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-border">
                   <span>Apply Franchise</span>
                 </a>
               </div>
@@ -544,7 +544,7 @@
               space where every person wins, and start a mini supermarket filled with emotion. Allow us to extend our
               heart, strength and success to this cause.</p>
             <div class="btn-box">
-              <a href="#" data-target="#enquiryModal" class="btn btn-primary" class="btn btn-border">
+              <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-border">
                 <span>Apply Now</span>
               </a>
             </div>
@@ -913,7 +913,7 @@
                     self with financial security and the opportunity to build a thriving business. Cater to your
                     community and seek everyone’s blessings!</p>
                   <div class="btn-box">
-                    <a href="#" data-target="#enquiryModal" class="btn btn-primary" type="submit" class="btn btn-primary">
+                    <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
                       <span>Start Your Franchise</span>
                     </a>
                   </div>
@@ -991,7 +991,7 @@
           </button>
         </div>
         <div class="modal-body">
-          <form method="POST" action="./ajax/contact" id="sidebar-form">
+          <form id="desktopContactForm">
             <div class="row">
               <div class="col-12">
                 <div class="form-group">
@@ -1077,13 +1077,17 @@
                   </div>
                 </div>
               </div>
-              <div>
-                <span class="prettyprint text-center" id="thank_you_msg_sidebar"></span>
+              <div class="ml-3 mb-3">
+                <span class="prettyprint" id="thank_you_msg_desktop"></span>
               </div>
-              <div class="col-12 col-md-6 offset-md-3">
-                <button type="submit" class="btn btn-block btn-secondary">Submit</button>
+              <div class="col-12">
+                <div class="float-right">
+                  <div class="btn-box border-black">
+                    <button type="submit" class="btn btn-block btn-primary" id="submitBtn"><span>Request
+                        Callback</span></button>
+                  </div>
+                </div>
               </div>
-            </div>
           </form>
         </div>
       </div>
@@ -1154,7 +1158,7 @@
     });
   </script>
   <!-- Scripts -->
-
+  <script src="assets/js/sheetform.js"></script>
 </body>
 
 </html>
