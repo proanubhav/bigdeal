@@ -34,7 +34,7 @@
 /********** GLOBAL CSS **********/
 html {
   scroll-behavior: smooth;
-  /* scroll-padding-top: 3em; */
+  scroll-padding-top: 5rem;
 }
 
 body {
@@ -5776,6 +5776,20 @@ input[type="range"]::-webkit-slider-thumb {
   font-weight: 600;
   color: #455A64;
   line-height: 1.5;
+}
+
+.our-stories iframe {
+  width: 100%;
+  height: 210px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+.our-stories h2 {
+  margin-bottom: 1rem;
+}
+
+.our-stories h6 {
+  color: #195400;
 }
 
 @media screen and (max-width: 991px) and (min-width: 768px) {

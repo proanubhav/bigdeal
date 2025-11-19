@@ -51,7 +51,76 @@
 </head>
 
 <body>
-  <article class="service_article pt-0" id="franchise-application">
+  <!-- Header Section HTML -->
+  <header class="header">
+    <div class="top_header">
+      <div class="container">
+        <ul>
+          <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img width="14"
+                height="14" src="assets/img/instagram.svg" alt="instagram"></li>
+          <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Facebook"><img width="14"
+                height="14" src="assets/img/facebook-white.svg" alt="facebook"></li>
+          <li><a href="mailto:connect@bigdealsupermart.com">
+              <span class="email-text">connect@bigdealsupermart.com<span>
+            </a></li>
+          <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light navbar_two">
+
+        <div class="mobile_logo">
+          <div class="logo">
+            <a href="https://www.bigdealsupermart.com/">
+              <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
+                alt="Bigdeal Supermart Franchise logo">
+            </a>
+          </div>
+        </div>
+        <button class="navbar-toggler navbar_toggle" type="button" data-toggle="collapse"
+          data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse navbar_collapse" id="navbarSupportedContent">
+          <div class="row">
+            <div class="col-12 col-md-12 col-lg-4">
+              <div class="logo">
+                <a href="https://www.bigdealsupermart.com/">
+                  <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
+                    alt="Bigdeal Supermart Franchise logo">
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-md-12 col-lg-8 pr-0">
+              <ul class="navbar-nav mr-auto navbar_two_nav float-right">
+                <li class="nav-item">
+                  <a class="nav-link" href="#franchise-application">Apply Now</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#whyus">Why us</a>
+                </li>
+                <li class="dropdown mega-dropdown">
+                  <a class="nav-link" href="#procedure"> How it works </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#store-videos"> Testimonial </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#faqs"> Faqs </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <!-- Header Section HTML -->
+   
+  <article class="service_article mt-5" id="franchise-application">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -186,7 +255,7 @@
       </div>
     </div>
 
-    <div class="reason_start why_us_section mt-5">
+    <div class="reason_start why_us_section mt-5" id="whyus">
       <div class="container">
         <div class="subheading">
           <h2 class="text-left">Why Partner <span class="main-green">with us?</span></h2>
@@ -219,7 +288,7 @@
       </div>
     </div>
     </div>
-    <div class="container mt-5">
+    <div class="container mt-5" id="procedure">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="subheading">
@@ -291,6 +360,7 @@
         </div>
       </div>
     </div>
+
     <section class="container mt-5">
       <h2>From Interest to Ownership — Let’s Make It Official</h2>
       <p>You’ve explored the opportunity. You’ve understood the benefits. Now, it’s time to take the leap.</p>
@@ -357,30 +427,303 @@
         <li><strong>No Royalty Fees:</strong> 100% of your profits stay with you. No revenue-sharing model.</li>
         <li><strong>Ongoing Support:</strong> Continuous assistance at no extra hidden cost.</li>
       </ul>
-
-      <h2>Need Help?</h2>
-      <p>If you need support with the application, our team is ready to help:</p>
-      <p>
-        <strong>Call/WhatsApp:</strong> +91 98917 50328<br />
-        <strong>Email:</strong> <a href="mailto:connect@bigdealsupermart.com">connect@bigdealsupermart.com</a>
-      </p>
-
-      <h2>Still Deciding?</h2>
-      <p>Explore more with our resources:</p>
-      <ul>
-        <li><strong>Franchise Starter Page:</strong> Learn about the complete franchise model, benefits, and opportunities.</li>
-        <li><strong>Franchise Calculator:</strong> Estimate your investment based on store format and city.</li>
-      </ul>
-
-      <h2>Your Opportunity to Build Something Big!</h2>
-      <p>
-        BigDeal Supermart is on track to become India’s most trusted and accessible grocery retail chain. More franchisees are joining each 
-        month—now it’s your chance.
-      </p>
-      <p><strong>This is your moment to apply.<br />This is your BigDeal.</strong></p>
-      <p><strong><a href="#franchise-application">Apply for Your Franchise Now</a></strong></p>
     </section>
   </article>
+
+  <!-- Stores Videos -->
+   <section class="pt-lg-5 pb-2 bg-white our-stories" id="store-videos">
+    <div class="container">
+      <div class="section-title text-center">
+        <h3 class="mt-3 mb-4">Have Doubts? These Videos will help!</h3>
+      </div>
+      <div class="row g-2">
+        <!-- Repeat this block for each store image -->
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/0sDsBFdBrDQ?si=-ujbD9S_7blO4kFs&amp;controls=0" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/SjOx9d2tgBU?si=LoRcnCUAyv8yYBWc&amp;controls=0" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/3HAR3cJSLAo?si=qFLGesRvLaIRfliF&amp;controls=0" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Stores Videos -->
+
+  <!-- Quick Benefits HTML -->
+  <section class="quick_benefit">
+    <div class="container">
+      <div class="subheading">
+        <h2>Wide variety of <span class="main-green">Popular Brands</span></h2>
+      </div>
+      <div class="brand_list">
+        <ul class="first_list">
+          <li><img width="100" height="55" src="assets/img/2.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/7.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/6.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/5.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/4.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/3.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/1.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/Britannia_Industries.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/Haldirams_Logo.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/Kwality_Walls_logo.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/McCain-Logo.webp" alt="check border"></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <!-- Quick Benefits HTML -->
+
+  <section class="blue-bg">
+    <div data-vc-parallax="1.5"
+      class="vc_row wpb_row vc_row-fluid landing_bg vc_custom_1572638352805 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving bg-dark white_txt svg_none svg_bottom_none  svg_bottom">
+
+      <div class="particles2"><span class="shape-one"></span><span class="shape-two"></span><span
+          class="shape-three"></span><span class="shape-four"></span><span class="shape-five"></span></div>
+      <div class="mo-vc-row-ovelay"></div>
+      <div class="container main-container">
+        <div class="wpb_column vc_column_container vc_col-sm-12 mo-column-63821a71ef788">
+          <div class="vc_column-inner">
+            <div class="wpb_wrapper-inner">
+              <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper text-center">
+                  <h2 class="text-center">Launch your Supermarket Franchise in just 45 Days with BigDeal</h2>
+                  <p class="text-center text-white">Opt for a BigDeal Supermarket Franchise today and ensure your future
+                    self with financial security and the opportunity to build a thriving business. Cater to your
+                    community and seek everyone’s blessings!</p>
+                  <div class="btn-box">
+                    <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
+                      <span>Start Your Franchise</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs Section HTML -->
+  <section class="faqs" id="faqs">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="subheading">
+            <!-- <p>FAQs</p> -->
+            <h2>Frequently Asked <span class="main-green">Questions</span></h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <div id="accordion">
+            <div class="row">
+              <div class="col-12 col-md-6">
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne"
+                        aria-expanded="true" aria-controls="collapseOne">
+                        How much would it cost to open a franchise for BigDeal in the beginning?
+                      </button>
+                    </h3>
+                  </div>
+
+                  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body">
+                      The cost of investment in a BigDeal franchise in India generally lies between ₹10 to ₹25 lakhs,
+                      based
+                      on the location and size of the outlet. This encompasses the franchise fees, equipment, stock, and
+                      also the running costs. Our team gives a detailed analysis for you to understand the breakdown of
+                      all
+                      the costs involved.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingSix">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
+                        aria-expanded="false" aria-controls="collapseSix">
+                        To what extent can someone expect to earn from a BigDeal franchise?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                    <div class="card-body">
+                      Most BigDeal franchises earn approximately 20% profit margins. The above-stated margins vary with
+                      the site, the size of the store, and how well the business is managed. Additionally, the structure
+                      of our business operations and constant help from our consultants serve to help enhance your
+                      returns and make profits when it comes to the retail markets.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingSeven">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
+                        aria-expanded="false" aria-controls="collapseSeven">
+                        What is the process of applying for the BigDeal franchise?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+                    <div class="card-body">
+                      Complete the application form on BigDeal franchise website. After receiving and reviewing your
+                      application, we will arrange a meeting in order to get to know you and your objectives, perform a
+                      visit to the location and provide you with information on the further course of action.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="heading1">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse1"
+                        aria-expanded="false" aria-controls="collapse1">
+                        When is the ideal time for a return on investment?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
+                    <div class="card-body">
+                      A Franchisee can expect an ROI of about 30% within the next 18-24 months of starting activities.
+                      This may change to regions, management efficiency, and community integrities but as we have proven
+                      strategies and support, you will earn much more than expectations.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="heading2">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2"
+                        aria-expanded="false" aria-controls="collapse2">
+                        How does Big Deal Help in Marketing?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
+                    <div class="card-body">
+                      BigDeal franchise support provides strong marketing assistance such as creating and implementing
+                      online marketing plans, running branding advertisements, and providing collateral. Franchisees are
+                      provided with marketing kits every 3 months consisting of marketing materials appropriate to the
+                      target market making sure the store has customers and retains them while creating brand equity.
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="card">
+                  <div class="card-header" id="headingTwo">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                        aria-expanded="false" aria-controls="collapseTwo">
+                        How does your company support the franchise in terms of training?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                    <div class="card-body">
+                      For four weeks, we offer in-depth training focused on how to operate a store, manage the stock,
+                      interact with customers, and implement marketing tactics. Our BigDeal franchise support helps you
+                      keep up with the current market trends and practices so that you prepare well for the running of
+                      your franchise, thus paving the way for the future success of the business.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingThree">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
+                        aria-expanded="false" aria-controls="collapseThree">
+                        Is there any necessity for previous retail experience to become a franchisee?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div class="card-body">
+                      There is no mandatory requirement for anyone to have worked in a retail franchise India before
+                      starting a franchise, although it is advantageous if they have. You will learn everything you need
+                      to efficiently operate a store in our comprehensive training program. Enthusiasm for service and
+                      readiness to be taught are important.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingFour">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
+                        aria-expanded="false" aria-controls="collapseFour">
+                        What kind of support do you give after the franchise is opened?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div class="card-body">
+                      Once the Bigdeal Supermarket franchise has been opened, there is continuous support that is
+                      offered to the franchisee concerning the operations of the business, marketing and event
+                      management. Also included are updates concerning the business environment and trends quarterly,
+                      along with quarterly business reviews to provide you with all necessary tools to further enhance
+                      your profitability and achieve your business objectives.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingFive">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
+                        aria-expanded="false" aria-controls="collapseFive">
+                        How is product quality maintained by BigDeal company?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                    <div class="card-body">
+                      BigDeal Supermarket franchise aims to satisfy all customers by providing quality products. We have
+                      worked with more than a hundred suppliers who we trust and we regularly inspect their quality. We
+                      pay particular attention to young perishable goods and equity goods aiming at letting its
+                      franchisees offer the most affordable quality products to consumers.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingEight">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
+                        aria-expanded="false" aria-controls="collapseEight">
+                        Is it possible to run a BigDeal franchise on a part-time basis?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
+                    <div class="card-body">
+                      Although running a grocery franchise on a part-time basis is achievable, we advocate full-time
+                      ownership for maximum efficacy. Daily participation in the operations helps foster good customer
+                      relations and facilitates the running of the store, therefore increasing profitability and
+                      customer satisfaction.
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- FAQs Section HTML -->
 
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>
