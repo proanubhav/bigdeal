@@ -56,14 +56,10 @@
     <div class="top_header">
       <div class="container">
         <ul>
-          <li><a href="https://www.instagram.com/bigdealsupermart/" target="_blank" title="Instagram"><img width="14"
-                height="14" src="assets/img/instagram.svg" alt="instagram"></li>
-          <li><a href="https://www.facebook.com/Bigdealsupermarket/" target="_blank" title="Facebook"><img width="14"
-                height="14" src="assets/img/facebook-white.svg" alt="facebook"></li>
-          <li><a href="mailto:connect@bigdealsupermart.com">
+          <li><a href="javascript:void(0)">
               <span class="email-text">connect@bigdealsupermart.com<span>
             </a></li>
-          <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>
+          <li><a href="javascript:void(0)">(+91) - 9891750328</a></li>
         </ul>
       </div>
     </div>
@@ -501,7 +497,7 @@
                     self with financial security and the opportunity to build a thriving business. Cater to your
                     community and seek everyone’s blessings!</p>
                   <div class="btn-box">
-                    <a href="javascript:void(0)" data-toggle="modal" data-target="#enquiryModal" class="btn btn-primary">
+                    <a href="#franchise-application" class="btn btn-primary">
                       <span>Start Your Franchise</span>
                     </a>
                   </div>
