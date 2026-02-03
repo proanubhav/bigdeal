@@ -124,6 +124,13 @@
                         <p><a href="https://www.google.com/maps/search/1st+Floor,+Sapna+Market,++Sector+37+Faridabad/@28.4804928,77.3083983,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDcyMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">12/2 1st Floor, Sapna Market,  Sector 37 Faridabad, Haryana , 121003</a></p>
                       </div>
                     </div>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                      <div class="benefit_area">
+                        <h5>04.</h5>
+                        <h4>Registered Company:</h4>
+                        <p>STS Ventures Pvt. Ltd.</p>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>

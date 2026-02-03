@@ -38,7 +38,7 @@
         <div class="footer_copyright">
             <div class="row">
                 <div class="col-12 col-md-7">
-                    <p class="copy_rights">Copyright &copy; 2026. Bigdeal Supermart. All Rights Reserved.</p>
+                    <p class="copy_rights">Copyright &copy; 2026. STS Ventures Pvt. Ltd. All Rights Reserved.</p>
                 </div>
                 <div class="col-12 col-md-5">
                     <ul class="privacy_link">
