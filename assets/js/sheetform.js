@@ -1,4 +1,5 @@
 const form = document.getElementById('desktopContactForm');
+if (form) {
 form.addEventListener('submit', async (e) => {
     e.preventDefault();
 
@@ -69,12 +70,16 @@ form.addEventListener('submit', async (e) => {
     const formData = new FormData(form);
     const data = Object.fromEntries(formData.entries());
 
-    // required for sheet routing
-    data.sourceUrl = window.location.href;
+    data.pageUrl = window.location.href;
+    data.sourceUrl = data.pageUrl;
+
+    const customIntegrationPromise = (typeof window.sendCustomIntegration === 'function')
+        ? window.sendCustomIntegration(data)
+        : Promise.resolve(true);
 
 
     try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbxXid8bl-HlJiSd5XU0u2TzJM9kbQtzL3NC408g-tpwyF_IfEOxc-pKDnvAjWKEHzbvAw/exec', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycby07niki-XwSbZvUeZK2zYaQxA8vEKeLKyp-P_iQGVHC_n75GGx4MzsMsuV8_R-zLMUPQ/exec', {
             method: 'POST',
             headers: {
                 'Content-Type': 'text/plain',
@@ -97,7 +102,10 @@ form.addEventListener('submit', async (e) => {
         // Re-enable the button
         document.getElementById("submitBtn").disabled = false;
         document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
+        await customIntegrationPromise;
+        debugger;
         const redirectURL = `${window.location.protocol}//${window.location.host}/thank-you`;
         window.location.href = redirectURL;
     }
 });
+}

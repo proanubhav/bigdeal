@@ -2,6 +2,7 @@
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/script-min.js"></script>
 <script src="assets/js/form-ajax-min.js" defer async></script>
+<script src="assets/js/customIntigitation.js"></script>
 
 <script>
   $(window).scroll(function() {
