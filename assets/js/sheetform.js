@@ -103,7 +103,6 @@ form.addEventListener('submit', async (e) => {
         document.getElementById("submitBtn").disabled = false;
         document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
         await customIntegrationPromise;
-        debugger;
         const redirectURL = `${window.location.protocol}//${window.location.host}/thank-you`;
         window.location.href = redirectURL;
     }
