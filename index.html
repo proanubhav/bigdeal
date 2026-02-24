@@ -43,11 +43,13 @@
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
-  <!-- Preload important CSS -->
-  <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="preload" href="assets/css/style-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="preload" as="image" href="assets/img/bigdeal-store-white.webp"
-    imagesrcset="assets/img/bigdeal-store-white.webp" fetchpriority="high">
+  <!-- Load CSS before first paint to prevent large layout shifts -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style-min.css">
+  <link rel="preload" as="image" href="assets/img/bigdeal-store-white.webp" media="(min-width: 992px)"
+    fetchpriority="high">
+  <link rel="preload" as="image" href="assets/img/bigdeal-store-white-xs.webp" media="(max-width: 991px)"
+    fetchpriority="high">
   <!-- Fallback if JS is disabled -->
   <noscript>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -239,7 +241,7 @@
               class="bigdeal-store img-fluid hidden-xs" alt="bigdeal store" width="1026" height="577"> -->
             <img src="assets/img/bigdeal-store-white.webp" class="hidden-xs" fetchpriority="high" loading="eager"
               decoding="async" alt="bigdeal store" width="1026" height="577">
-            <img src="assets/img/bigdeal-store-white-xs.webp" loading="lazy" decoding="async"
+            <img src="assets/img/bigdeal-store-white-xs.webp" loading="eager" fetchpriority="high" decoding="async"
               class="bigdeal-store img-fluid hidden-md" alt="bigdeal store" width="412" height="230">
           </div>
         </div>
