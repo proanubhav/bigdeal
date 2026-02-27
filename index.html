@@ -43,6 +43,14 @@
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
+  <!-- Preload critical fonts to reduce layout shifts -->
+  <link rel="preload" href="assets/fonts/Euclid-Circular-A-Regular.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="assets/fonts/Euclid-Circular-A-Medium.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="assets/fonts/agrandir-bold.woff" as="font" type="font/woff" crossorigin>
+  <!-- Reserve scrollbar space to avoid body shift on modal open -->
+  <style>
+    html { scrollbar-gutter: stable; }
+  </style>
   <!-- Load CSS before first paint to prevent large layout shifts -->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/style-min.css">
@@ -58,8 +66,11 @@
 
   <!-- Google Tag Manager -->
   <script>
-    window.addEventListener('load', function () {
-      setTimeout(() => {
+    (function () {
+      let gtmLoaded = false;
+      const loadGTM = () => {
+        if (gtmLoaded) return;
+        gtmLoaded = true;
         (function (w, d, s, l, i) {
           w[l] = w[l] || []; w[l].push({
             'gtm.start':
@@ -68,8 +79,18 @@
             j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
               'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-WMBW4X6S');
-      }, 2000);
-    });
+      };
+
+      // Load after initial page load with a short delay
+      window.addEventListener('load', function () {
+        setTimeout(loadGTM, 2000);
+      }, { once: true });
+
+      // Also load on first user interaction
+      ['click', 'scroll', 'keydown', 'touchstart'].forEach((eventName) => {
+        window.addEventListener(eventName, loadGTM, { once: true, passive: true });
+      });
+    })();
   </script>
   <!-- End Google Tag Manager -->
 
@@ -239,10 +260,12 @@
           <div class="banner-home__media">
             <!-- <img src="assets/img/bigdeal-store-white.webp" loading="lazy" decoding="async"
               class="bigdeal-store img-fluid hidden-xs" alt="bigdeal store" width="1026" height="577"> -->
-            <img src="assets/img/bigdeal-store-white.webp" class="hidden-xs" fetchpriority="high" loading="eager"
-              decoding="async" alt="bigdeal store" width="1026" height="577">
-            <img src="assets/img/bigdeal-store-white-xs.webp" loading="eager" fetchpriority="high" decoding="async"
-              class="bigdeal-store img-fluid hidden-md" alt="bigdeal store" width="412" height="230">
+            <picture>
+              <source media="(max-width: 991px)" srcset="assets/img/bigdeal-store-white-xs.webp">
+              <img src="assets/img/bigdeal-store-white.webp" class="bigdeal-store img-fluid" fetchpriority="high"
+                loading="eager" decoding="async" alt="bigdeal store" width="1026" height="577"
+                style="width:100%;height:auto;display:block;">
+            </picture>
           </div>
         </div>
       </div>
@@ -1160,8 +1183,8 @@
     });
   </script>
   <!-- Scripts -->
-  <script src="assets/js/customIntigitation.js"></script>
-  <script src="assets/js/sheetform.js"></script>
+  <script src="assets/js/customIntigitation.js" defer></script>
+  <script src="assets/js/sheetform.js" defer></script>
 </body>
 
 </html>
