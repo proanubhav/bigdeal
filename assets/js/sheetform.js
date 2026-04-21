@@ -79,22 +79,17 @@ form.addEventListener('submit', async (e) => {
 
 
     try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycby07niki-XwSbZvUeZK2zYaQxA8vEKeLKyp-P_iQGVHC_n75GGx4MzsMsuV8_R-zLMUPQ/exec', {
+        await fetch('https://script.google.com/macros/s/AKfycbwgGg415dEWuDGjoCnsRbfO2owem8gFD7CpAXJshH9t4vpFypO0hM8bo0aiUgt3b3z3/exec', {
             method: 'POST',
+            mode: 'no-cors',
             headers: {
                 'Content-Type': 'text/plain',
             },
             body: JSON.stringify(data),
         });
 
-        const result = await response.json();
-
-        if (result.result === 'success') {
-            document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Connecting with us";
-            form.reset();
-        } else {
-            alert(`Form submission failed: ${result.message || 'Unknown error'}`);
-        }
+        document.getElementById("thank_you_msg_desktop").innerHTML = "Thanks for Connecting with us";
+        form.reset();
     } catch (error) {
         console.error('Error:', error);
         alert('An error occurred while submitting the form.');
