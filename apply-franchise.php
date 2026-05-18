@@ -133,7 +133,7 @@
     <div class="apply_franchise">
       <div class="container">
         <div class="row">
-          <div class="col-12 col-lg-6 franchise_img">
+          <div class="col-12 col-lg-6">
             <div class="image d-flex justify-content-center h-100" id="yt-video">
               <div class="embed-responsive embed-responsive-16by9 w-100">
                 <iframe
@@ -149,9 +149,7 @@
           </div>
           <div class="col-12 col-lg-6">
             <div class="card">
-              <div class="card-body py-4">
-                <div class="row">
-                  <div class="col-12">
+              <div class="card-body p-0 pb-4 pt-4">
                     <!-- action="./ajax/contact.php" -->
                     <form id="desktopContactForm">
                       <div class="row">
@@ -251,8 +249,6 @@
                           </div>
                         </div>
                     </form>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
