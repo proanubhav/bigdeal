@@ -5791,6 +5791,9 @@ input[type="range"]::-webkit-slider-thumb {
 .our-stories h6 {
   color: #195400;
 }
+#yt-video {
+  border: 5px solid #327abf;
+}
 
 @media screen and (max-width: 991px) and (min-width: 768px) {
   .radio-list {

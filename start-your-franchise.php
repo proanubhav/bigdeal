@@ -266,23 +266,23 @@
       <ul>
         <li>
           <strong>Mini Mart Franchise</strong><br />
-          Size: 500–800 sq. ft.<br />
+          Size: 500–1500 sq. ft.<br />
           Ideal for: Tier 2/3 cities, residential neighborhoods<br />
-          Investment: ₹10–12 lakhs<br />
+          Investment: Start from ₹13 lakhs<br />
           Return: Quick turnaround, low overhead, strong local loyalty
         </li>
         <li>
           <strong>Super Mart Franchise</strong><br />
-          Size: 800–1200 sq. ft.<br />
+          Size: 1500–4000 sq. ft.<br />
           Ideal for: Mid-sized towns, metro suburbs, apartment zones<br />
-          Investment: ₹15–18 lakhs<br />
+          Investment: Starts from ₹33 lakhs<br />
           Return: Balanced traffic, high product variety, brand growth
         </li>
         <li>
           <strong>Hyper Mart Franchise</strong><br />
-          Size: 1200–1500+ sq. ft.<br />
+          Size: 4000–10000+ sq. ft.<br />
           Ideal for: High-footfall areas, malls, and commercial locations<br />
-          Investment: ₹20–25 lakhs<br />
+          Investment: Starts from ₹83 lakhs<br />
           Return: High volume, premium positioning, strong profit margins
         </li>
       </ul>

@@ -134,8 +134,17 @@
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-6 franchise_img">
-            <div class="image d-flex justify-content-center align-items-center h-100">
-              <img style="width: 95%" src="./assets/img/frenchise.svg" alt="franchise" />
+            <div class="image d-flex justify-content-center h-100" id="yt-video">
+              <div class="embed-responsive embed-responsive-16by9 w-100">
+                <iframe
+                  class="embed-responsive-item"
+                  src="https://www.youtube-nocookie.com/embed/NprrAoXHab4?rel=0"
+                  title="BigDeal Supermart Franchise Video"
+                  loading="lazy"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen></iframe>
+              </div>
             </div>
           </div>
           <div class="col-12 col-lg-6">
