@@ -8,14 +8,16 @@ form.addEventListener('submit', async (e) => {
 
     // Validate form
     let isValid = true;
+    const isFranchiseLanding = document.body.classList.contains('franchise-workshop-page');
 
-    const name = document.getElementById('name').value.trim();
-    const contact = document.getElementById('contact').value.trim();
-    const email = document.getElementById('email').value.trim();
-    const pincode = document.getElementById('pincode').value.trim();
-    const area = document.getElementById('area').value;
-    const propType = document.getElementById('propType').value;
-    const plan = document.getElementById('plan').value;
+    const name = document.getElementById('name')?.value.trim() || '';
+    const contact = document.getElementById('contact')?.value.trim() || '';
+    const email = document.getElementById('email')?.value.trim() || '';
+    const pincode = document.getElementById('pincode')?.value.trim() || '';
+    const area = document.getElementById('area')?.value || '';
+    const propType = document.getElementById('propType')?.value || '';
+    const plan = document.getElementById('plan')?.value || '';
+    const investmentBudget = document.getElementById('investmentBudget')?.value || '';
 
     // Name validation
     if (!name) {
@@ -30,7 +32,7 @@ form.addEventListener('submit', async (e) => {
     }
 
     // Email validation
-    if (!email || !/^\S+@\S+\.\S+$/.test(email)) {
+    if ((!isFranchiseLanding && !email) || (email && !/^\S+@\S+\.\S+$/.test(email))) {
         document.getElementById('email_error').innerText += 'Please enter a valid email address.';
         isValid = false;
     }
@@ -41,20 +43,26 @@ form.addEventListener('submit', async (e) => {
         isValid = false;
     }
 
+    // Investment budget validation for the franchise landing page
+    if (isFranchiseLanding && !investmentBudget) {
+        document.getElementById('investmentBudget_error').innerText += 'Please select an investment budget.';
+        isValid = false;
+    }
+
     // Area validation
-    if (!area) {
+    if (!isFranchiseLanding && !area) {
         document.getElementById('area_error').innerText += 'Please select an area.';
         isValid = false;
     }
 
     // Property type validation
-    if (!propType) {
+    if (!isFranchiseLanding && !propType) {
         document.getElementById('propType_error').innerText += 'Please select a property type.';
         isValid = false;
     }
 
     // Plan validation
-    if (!plan) {
+    if (!isFranchiseLanding && !plan) {
         document.getElementById('plan_error').innerText += 'Please select a plan.';
         isValid = false;
     }
@@ -64,8 +72,10 @@ form.addEventListener('submit', async (e) => {
     }
 
     // Disable the button and update its text
-    document.getElementById("submitBtn").disabled = true;
-    document.getElementById("submitBtn").querySelector("span").innerText = "Requesting...";
+    const submitBtn = document.getElementById("submitBtn");
+    const defaultButtonText = submitBtn.dataset.defaultText || submitBtn.querySelector("span").innerText || "Apply Now";
+    submitBtn.disabled = true;
+    submitBtn.querySelector("span").innerText = "Requesting...";
 
     const formData = new FormData(form);
     const data = Object.fromEntries(formData.entries());
@@ -95,8 +105,8 @@ form.addEventListener('submit', async (e) => {
         alert('An error occurred while submitting the form.');
     } finally {
         // Re-enable the button
-        document.getElementById("submitBtn").disabled = false;
-        document.getElementById("submitBtn").querySelector("span").innerText = "Request Callback";
+        submitBtn.disabled = false;
+        submitBtn.querySelector("span").innerText = defaultButtonText;
         await customIntegrationPromise;
         const redirectURL = `${window.location.protocol}//${window.location.host}/thank-you`;
         window.location.href = redirectURL;
