@@ -8,62 +8,66 @@ form.addEventListener('submit', async (e) => {
 
     // Validate form
     let isValid = true;
-    const isFranchiseLanding = document.body.classList.contains('franchise-workshop-page');
+    const getValue = (id) => document.getElementById(id)?.value.trim() || '';
+    const setError = (id, message) => {
+        const errorElement = document.getElementById(id);
+        if (errorElement) {
+            errorElement.innerText = message;
+        }
+    };
 
-    const name = document.getElementById('name')?.value.trim() || '';
-    const contact = document.getElementById('contact')?.value.trim() || '';
-    const email = document.getElementById('email')?.value.trim() || '';
-    const pincode = document.getElementById('pincode')?.value.trim() || '';
-    const area = document.getElementById('area')?.value || '';
-    const propType = document.getElementById('propType')?.value || '';
-    const plan = document.getElementById('plan')?.value || '';
-    const investmentBudget = document.getElementById('investmentBudget')?.value || '';
+    const name = getValue('name');
+    const contact = getValue('contact');
+    const email = getValue('email');
+    const pincode = getValue('pincode');
+    const area = getValue('area');
+    const propType = getValue('propType');
+    const plan = getValue('plan');
+    const investmentBudget = getValue('investmentBudget');
 
     // Name validation
     if (!name) {
-        document.getElementById('name_error').innerText = 'Name is required.';
+        setError('name_error', 'Name is required.');
         isValid = false;
     }
 
     // Contact validation (numeric and 10 digits)
     if (!contact || !/^\d{10}$/.test(contact)) {
-        document.getElementById('contact_error').innerText = 'Please enter a valid 10-digit number.';
+        setError('contact_error', 'Please enter a valid 10-digit number.');
         isValid = false;
     }
 
     // Email validation
-    if ((!isFranchiseLanding && !email) || (email && !/^\S+@\S+\.\S+$/.test(email))) {
-        document.getElementById('email_error').innerText += 'Please enter a valid email address.';
+    if (!email || !/^\S+@\S+\.\S+$/.test(email)) {
+        setError('email_error', 'Please enter a valid email address.');
         isValid = false;
     }
 
     // Pincode validation (numeric and 6 digits)
     if (!pincode || !/^\d{6}$/.test(pincode)) {
-        document.getElementById('pincode_error').innerText += 'Please enter a valid 6-digit pin code.';
+        setError('pincode_error', 'Please enter a valid 6-digit pin code.');
         isValid = false;
     }
 
-    // Investment budget validation for the franchise landing page
-    if (isFranchiseLanding && !investmentBudget) {
-        document.getElementById('investmentBudget_error').innerText += 'Please select an investment budget.';
+    // Shared select validation used by both apply-now.php and franchise.php
+    if (!area) {
+        setError('area_error', 'Please select an area.');
         isValid = false;
     }
 
-    // Area validation
-    if (!isFranchiseLanding && !area) {
-        document.getElementById('area_error').innerText += 'Please select an area.';
+    if (!propType) {
+        setError('propType_error', 'Please select a property type.');
         isValid = false;
     }
 
-    // Property type validation
-    if (!isFranchiseLanding && !propType) {
-        document.getElementById('propType_error').innerText += 'Please select a property type.';
+    if (!plan) {
+        setError('plan_error', 'Please select a plan.');
         isValid = false;
     }
 
-    // Plan validation
-    if (!isFranchiseLanding && !plan) {
-        document.getElementById('plan_error').innerText += 'Please select a plan.';
+    // Franchise-specific field stays required when present on the page
+    if (document.getElementById('investmentBudget') && !investmentBudget) {
+        setError('investmentBudget_error', 'Please select an investment budget.');
         isValid = false;
     }
 

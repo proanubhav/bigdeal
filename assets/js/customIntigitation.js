@@ -2,7 +2,11 @@ window.sendCustomIntegration = async function sendCustomIntegration(data) {
     
     const rawPathSheetMap = {
       '/apply-franchise': 'Google',
-      '/apply-now': 'Facebook'
+      '/apply-now': 'Facebook',
+      '/franchise': 'Google',
+      '/franchise.php': 'Google',
+      '/start-your-franchise': 'Google',
+      '/start-your-franchise.php': 'Google'
     };
 
     const normalizePath = (url) => {
@@ -28,8 +32,10 @@ window.sendCustomIntegration = async function sendCustomIntegration(data) {
         name: (data.name || '').trim(),
         mobile: (data.contact || '').trim(),
         email: (data.email || '').trim(),
+        city: (data.city || '').trim(),
         'Pin Code': (data.pincode || '').trim(),
         'Area in Sqft.': data.area,
+        'Investment Budget': data.investmentBudget,
         'Source Of Lead': sourceOfLead,
         'Property Type': data.propType,
         'Opening Time': data.plan,        
