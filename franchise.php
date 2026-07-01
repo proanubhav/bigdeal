@@ -157,8 +157,7 @@
         </div>
 
         <div class="franchise-hero-actions">
-          <a class="franchise-hero-primary" href="#franchise-lead-form">Apply Now</a>
-          <a class="franchise-hero-secondary" href="apply-now.php">Apply Franchise</a>
+          <a class="franchise-hero-secondary" href="#franchise-application">Apply Franchise</a>
         </div>
         <p class="franchise-hero-note">No payment. No commitment. Just a free consultation call.</p>
 
@@ -213,17 +212,12 @@
               </div>
 
               <div class="franchise-form-field">
-                <label for="city">City</label>
-                <input type="text" name="city" id="city" placeholder="Your city">
-              </div>
-
-              <div class="franchise-form-field">
                 <label for="pincode">PIN code *</label>
                 <input type="text" name="pincode" id="pincode" maxlength="6" placeholder="6-digit PIN code">
                 <span class="prettyprint" id="pincode_error"></span>
               </div>
 
-              <div class="franchise-form-field franchise-form-field-wide">
+              <div class="franchise-form-field">
                 <label for="investmentBudget">Investment budget *</label>
                 <select name="investmentBudget" id="investmentBudget">
                   <option value="" disabled selected>Select investment budget</option>
@@ -321,7 +315,7 @@
           <span class="franchise-why-bigdeal-label">WHY BIGDEAL</span>
           <h2>BigDeal gives you a working supermarket franchise business - not just a brand name.</h2>
           <p>Every grocery mart franchise partner gets everything needed to open and run a profitable store from day one - with no royalty, no hidden charges, and full ongoing support.</p>
-          <a class="franchise-why-bigdeal-cta" href="#franchise-lead-form">Apply Now</a>
+          <a class="franchise-why-bigdeal-cta" href="#franchise-application">Apply Now</a>
         </div>
 
         <div class="franchise-why-bigdeal-grid">
@@ -402,7 +396,7 @@
               <li>Full setup, branding, and 4-week training included</li>
             </ul>
 
-            <a class="franchise-format-cta" href="#franchise-lead-form">Apply Franchise</a>
+            <a class="franchise-format-cta" href="#franchise-application">Apply Franchise</a>
           </article>
 
           <article class="franchise-format-card is-featured">
@@ -421,7 +415,7 @@
               <li>Full setup, branding, inventory, and training included</li>
             </ul>
 
-            <a class="franchise-format-cta" href="#franchise-lead-form">Apply Franchise</a>
+            <a class="franchise-format-cta" href="#franchise-application">Apply Franchise</a>
           </article>
 
           <article class="franchise-format-card">
@@ -439,7 +433,7 @@
               <li>Full setup, staffing guidance, and national brand support</li>
             </ul>
 
-            <a class="franchise-format-cta" href="#franchise-lead-form">Apply Franchise</a>
+            <a class="franchise-format-cta" href="#franchise-application">Apply Franchise</a>
           </article>
         </div>
       </div>
@@ -532,7 +526,7 @@
             <h3>Need city-specific ROI clarity?</h3>
             <p>Talk to a franchise consultant before you commit. The consultation is free and designed to help you assess location, format, and budget fit.</p>
           </div>
-          <a class="franchise-financial-cta" href="#franchise-lead-form">Apply Now</a>
+          <a class="franchise-financial-cta" href="#franchise-application">Apply Now</a>
         </div>
       </div>
     </div>
@@ -695,8 +689,7 @@
         <p>BigDeal operates a limited number of grocery mart franchise and supermarket franchise locations per city to protect each partner's territory and profitability. Apply now to check if your area is still available - our franchise consultant calls you within 4 business hours.</p>
 
         <div class="franchise-final-cta-actions">
-          <a class="franchise-final-cta-primary" href="#franchise-lead-form">Apply Now</a>
-          <a class="franchise-final-cta-secondary" href="apply-now.php">Apply Franchise</a>
+          <a class="franchise-final-cta-primary" href="#franchise-application">Apply Now</a>
         </div>
 
         <p class="franchise-final-cta-note">No payment. No commitment. A free, no-obligation consultation call - that is all it takes to find out if BigDeal is the right supermarket franchise opportunity for you.</p>
