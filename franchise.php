@@ -7,52 +7,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Supermarket Franchise in India | BigDeal - ₹10-25L, Zero Royalty</title>
+  <title>Apply for BigDeal Supermart Franchise in India | High Growth</title>
   <meta name="description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="keywords"
-    content="supermarket franchise, grocery store franchise, mini grocery store franchise, supermarket franchise in India, grocery mart franchise, mart franchise, mini grocery franchise, supermarket franchise opportunities, super market franchise, grocery supermarket franchise, franchise super market, franchise of supermarket, small grocery store franchise, departmental store franchise, hypermarket franchise, mini supermarket franchise, mart franchise cost, best supermarket franchise, mini mart franchise, supermarket franchise cost, small supermarket franchise, grocery franchise">
+    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Supermarket Franchise in India | BigDeal - ₹10-25L, Zero Royalty">
-  <meta property="og:url" content="https://www.bigdealsupermart.com/start-your-franchise">
+  <meta property="og:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
+  <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta property="og:description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="Supermarket Franchise in India | BigDeal - ₹10-25L, Zero Royalty">
-  <meta name="twitter:url" content="https://www.bigdealsupermart.com/start-your-franchise">
+  <meta name="twitter:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
+  <meta name="twitter:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta name="twitter:description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="Supermarket Franchise in India | BigDeal - ₹10-25L, Zero Royalty">
-  <meta itemprop="url" content="https://www.bigdealsupermart.com/start-your-franchise">
+  <meta itemprop="name" content="Apply for BigDeal Supermart Franchise in India | High Growth">
+  <meta itemprop="url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta itemprop="description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <link rel="canonical" href="https://www.bigdealsupermart.com/start-your-franchise">
+  <link rel="canonical" href="https://www.bigdealsupermart.com/apply-franchise">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="noindex, nofollow">
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
-  <link rel="stylesheet" href="assets/css/style-min.css">
   <!-- Stylesheets -->
 
 
 </head>
 
-<body class="franchise-workshop-page">
-  
+<body>
   <!-- Header Section HTML -->
   <header class="header">
     <div class="top_header">
@@ -98,16 +96,13 @@
                   <a class="nav-link" href="#franchise-application">Apply Now</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#challenge">Challenge</a>
-                </li>
-                <li class="dropdown mega-dropdown">
                   <a class="nav-link" href="#whyus">Why us</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#pricing">Pricing</a>
+                <li class="dropdown mega-dropdown">
+                  <a class="nav-link" href="#procedure"> How it works </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#howitworks">How it Works</a>
+                  <a class="nav-link" href="#store-videos"> Testimonial </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#faqs"> Faqs </a>
@@ -120,590 +115,621 @@
     </div>
   </header>
   <!-- Header Section HTML -->
-
-  <section class="franchise-workshop-hero">
+   
+  <article class="service_article mt-5" id="franchise-application">
     <div class="container">
-      <div class="franchise-workshop-inner">
-        <div class="franchise-workshop-badge">
-          <span class="franchise-workshop-live" aria-hidden="true"></span>
-          <span>Supermarket &amp; Grocery Franchise Opportunity in India</span>
-        </div>
-
-        <div class="franchise-workshop-copy">
-          <h1>
-            <span class="hero-line">Own a Grocery or Supermarket Franchise in India.</span>
-            <span class="hero-line"><span class="is-accent">Zero Royalty.</span> 100% Your Profit.</span>
-          </h1>
-          <p>BigDeal Supermart gives you a ready-to-run grocery store or supermarket franchise with a proven business model, complete store setup, and a team that stays with you from day one.</p>
-        </div>
-
-        <div class="franchise-hero-stats" aria-label="BigDeal franchise highlights">
-          <div class="franchise-hero-stat">
-            <strong>45 Days</strong>
-            <span>From sign-up to store launch</span>
-          </div>
-          <div class="franchise-hero-stat">
-            <strong>₹10-25L</strong>
-            <span>Total investment range</span>
-          </div>
-          <div class="franchise-hero-stat">
-            <strong>20%</strong>
-            <span>Average profit margins</span>
-          </div>
-          <div class="franchise-hero-stat">
-            <strong>0%</strong>
-            <span>Royalty fee - ever</span>
-          </div>
-        </div>
-
-        <div class="franchise-hero-actions">
-          <a class="franchise-hero-secondary" href="#franchise-application">Apply Franchise</a>
-        </div>
-        <p class="franchise-hero-note">No payment. No commitment. Just a free consultation call.</p>
-
-        <div class="franchise-workshop-video">
-          <div class="franchise-workshop-video-frame">
-            <iframe
-              src="https://www.youtube.com/embed/NprrAoXHab4?rel=0"
-              title="BigDeal supermarket franchise video"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen></iframe>
+      <div class="row">
+        <div class="col-12">
+          <div class="serv_article_card apply_franchise_head">
+            <h1 class="text-center mb-3">Big Profit with BigDeal</h1>
+            <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise!
+              Our franchise model is built for a high-profit margin and strong back up to support you all along the way.
+            </p>
           </div>
         </div>
       </div>
     </div>
-  </section>
 
-  <section class="franchise-lead-form" id="franchise-application">
-    <div class="container">
-      <div class="franchise-lead-form-layout">
-        <div class="franchise-lead-form-copy">
-          <span class="franchise-lead-form-label">APPLY FOR FRANCHISE</span>
-          <h2>Check supermarket franchise availability in your city</h2>
-          <p>BigDeal operates a limited number of grocery and supermarket franchise locations per city to protect each partner's market. Fill in your details and our franchise consultant calls you within 4 business hours.</p>
-
-          <ul class="franchise-lead-form-points">
-            <li>No payment, no commitment until you are fully satisfied with the terms.</li>
-            <li>Complete cost breakdown - franchise fee, setup, and working capital - shared before you sign anything.</li>
-            <li>City-specific ROI projections prepared by our franchise consultants.</li>
-            <li>No prior retail experience needed. Our 4-week training covers everything.</li>
-          </ul>
-        </div>
-
-        <div class="franchise-lead-form-card">
-          <form id="desktopContactForm">
-            <div class="franchise-form-grid">
-              <div class="franchise-form-field franchise-form-field-wide">
-                <label for="name">Full name *</label>
-                <input type="text" name="name" id="name" placeholder="Your full name">
-                <span class="prettyprint" id="name_error"></span>
-              </div>
-
-              <div class="franchise-form-field">
-                <label for="contact">Mobile number *</label>
-                <input type="text" name="contact" id="contact" maxlength="10" placeholder="+91 XXXXX XXXXX">
-                <span class="prettyprint" id="contact_error"></span>
-              </div>
-
-              <div class="franchise-form-field">
-                <label for="email">Email address</label>
-                <input type="email" name="email" id="email" placeholder="you@email.com">
-                <span class="prettyprint" id="email_error"></span>
-              </div>
-
-              <div class="franchise-form-field">
-                <label for="pincode">PIN code *</label>
-                <input type="text" name="pincode" id="pincode" maxlength="6" placeholder="6-digit PIN code">
-                <span class="prettyprint" id="pincode_error"></span>
-              </div>
-
-              <div class="franchise-form-field">
-                <label for="investmentBudget">Investment budget *</label>
-                <select name="investmentBudget" id="investmentBudget">
-                  <option value="" disabled selected>Select investment budget</option>
-                  <option value="₹10-12L (Mini Mart)">₹10-12L (Mini Mart)</option>
-                  <option value="₹15-18L (Super Mart)">₹15-18L (Super Mart)</option>
-                  <option value="₹20-25L (Hyper Mart)">₹20-25L (Hyper Mart)</option>
-                  <option value="Still exploring">Still exploring</option>
-                </select>
-                <span class="prettyprint" id="investmentBudget_error"></span>
-              </div>
-
-              <div class="franchise-form-field">
-                <label for="area">Store space available</label>
-                <select name="area" id="area">
-                  <option value="" disabled selected>Select store space</option>
-                  <option value="500-800 sq ft">500-800 sq ft</option>
-                  <option value="800-1,200 sq ft">800-1,200 sq ft</option>
-                  <option value="1,200+ sq ft">1,200+ sq ft</option>
-                  <option value="Still searching">Still searching</option>
-                </select>
-                <span class="prettyprint" id="area_error"></span>
-              </div>
-
-              <div class="franchise-form-field">
-                <label for="propType">Property type</label>
-                <select name="propType" id="propType">
-                  <option value="" disabled selected>Select property type</option>
-                  <option value="Owned">Owned</option>
-                  <option value="Rented">Rented</option>
-                  <option value="Searching">Searching</option>
-                </select>
-                <span class="prettyprint" id="propType_error"></span>
-              </div>
-
-              <div class="franchise-form-field franchise-form-field-wide">
-                <label for="plan">When do you plan to open?</label>
-                <select name="plan" id="plan">
-                  <option value="" disabled selected>Select timeline</option>
-                  <option value="Within 1 month">Within 1 month</option>
-                  <option value="1-3 months">1-3 months</option>
-                  <option value="3-6 months">3-6 months</option>
-                  <option value="Just exploring">Just exploring</option>
-                </select>
-                <span class="prettyprint" id="plan_error"></span>
+    <div class="apply_franchise">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-6">
+            <div class="image d-flex justify-content-center h-100" id="yt-video">
+              <div class="embed-responsive embed-responsive-16by9 w-100">
+                <iframe
+                  class="embed-responsive-item"
+                  src="https://www.youtube-nocookie.com/embed/NprrAoXHab4?rel=0"
+                  title="BigDeal Supermart Franchise Video"
+                  loading="lazy"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen></iframe>
               </div>
             </div>
-
-            <span class="prettyprint" id="thank_you_msg_desktop"></span>
-            <button type="submit" class="franchise-form-submit" id="submitBtn" data-default-text="Apply Now"><span>Apply Now</span></button>
-            <p class="franchise-form-disclaimer">No spam. No hidden fees. Just a free, no-obligation consultation call from our franchise team.</p>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="franchise-challenge" id="challenge">
-    <div class="container">
-      <div class="franchise-challenge-wrap">
-        <div class="franchise-challenge-copy">
-          <span class="franchise-challenge-label">THE CHALLENGE</span>
-          <h2>Starting a grocery business in India from scratch is harder than it looks.</h2>
-          <p>Most people who try to set up an independent grocery store or supermarket franchise from scratch run into the same walls - before the first customer even walks in.</p>
-        </div>
-
-        <div class="franchise-challenge-grid">
-          <article class="franchise-challenge-card">
-            <h3>No brand recognition</h3>
-            <p>You spend months, sometimes years, building trust. An independent grocery store or small grocery store franchise starts from zero. A BigDeal franchise starts with a recognised name on day one.</p>
-          </article>
-
-          <article class="franchise-challenge-card">
-            <h3>No supply chain</h3>
-            <p>Getting top brands at competitive prices takes years of vendor relationships. Most independent grocery businesses overpay or cannot stock the brands customers actually want.</p>
-          </article>
-
-          <article class="franchise-challenge-card">
-            <h3>No proven operating system</h3>
-            <p>Inventory, billing, staffing, and store layout are expensive to figure out alone. A BigDeal supermarket franchise gives you every system already built.</p>
-          </article>
-
-          <article class="franchise-challenge-card">
-            <h3>High upfront risk, slow ROI</h3>
-            <p>Most independent grocery stores take 3-5 years to break even. BigDeal grocery franchise partners target 18-24 month ROI with 20% average profit margins.</p>
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="franchise-why-bigdeal" id="whyus">
-    <div class="container">
-      <div class="franchise-why-bigdeal-layout">
-        <div class="franchise-why-bigdeal-content">
-          <span class="franchise-why-bigdeal-label">WHY BIGDEAL</span>
-          <h2>BigDeal gives you a working supermarket franchise business - not just a brand name.</h2>
-          <p>Every grocery mart franchise partner gets everything needed to open and run a profitable store from day one - with no royalty, no hidden charges, and full ongoing support.</p>
-          <a class="franchise-why-bigdeal-cta" href="#franchise-application">Apply Now</a>
-        </div>
-
-        <div class="franchise-why-bigdeal-grid">
-          <article class="franchise-why-bigdeal-card">
-            <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/BigDeal-Franchise.svg" alt="Zero royalty franchise illustration" loading="lazy">
-            </div>
-            <h3>Zero royalty - ever</h3>
-            <p>100% of your store's profits belong to you. No monthly royalty cuts and no revenue sharing. BigDeal earns nothing from your daily grocery sales.</p>
-          </article>
-
-          <article class="franchise-why-bigdeal-card">
-            <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/bigdeal-team-mates.svg" alt="Launch support illustration" loading="lazy">
-            </div>
-            <h3>Grocery or supermarket franchise - launch in 45 days</h3>
-            <p>From signing to opening day, BigDeal manages setup, interiors, branding, and staff training for your mini mart, super mart, or hypermarket franchise.</p>
-          </article>
-
-          <article class="franchise-why-bigdeal-card">
-            <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/Maximum_Profits.svg" alt="Profit margin illustration" loading="lazy">
-            </div>
-            <h3>20% average profit margins</h3>
-            <p>Our grocery mart franchise partners benefit from supply chain pricing power, operational support systems, and a model built around margin control.</p>
-          </article>
-
-          <article class="franchise-why-bigdeal-card">
-            <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/High-Reward.svg" alt="Store format illustration" loading="lazy">
-            </div>
-            <h3>3 franchise formats to match your market</h3>
-            <p>Mini Mart for Tier 2 and 3 cities, Super Mart for metro suburbs, and Hyper Mart for high-footfall zones. One proven model, three formats.</p>
-          </article>
-
-          <article class="franchise-why-bigdeal-card">
-            <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/Renowned_Brand.svg" alt="Top brand assortment illustration" loading="lazy">
-            </div>
-            <h3>Top brands stocked from day one</h3>
-            <p>Britannia, Haldiram's, Kwality Walls, McCain, and more are sourced through BigDeal's supplier network so your grocery franchise opens fully stocked.</p>
-          </article>
-
-          <article class="franchise-why-bigdeal-card">
-            <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/full_assistance.svg" alt="Business support illustration" loading="lazy">
-            </div>
-            <h3>Full support - store launch and beyond</h3>
-            <p>Operations, marketing, inventory, and quarterly business reviews keep BigDeal's team actively involved in your supermarket franchise success after launch.</p>
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="franchise-formats" id="pricing">
-    <div class="container">
-      <div class="franchise-formats-wrap">
-        <div class="franchise-formats-copy">
-          <span class="franchise-formats-label">FORMATS &amp; SUPERMARKET FRANCHISE COST</span>
-          <h2>Three supermarket franchise formats. One proven model. Choose what fits your market.</h2>
-          <p>Whether you're opening a small grocery store franchise, a small supermarket franchise, a mini supermarket franchise in a residential neighbourhood, or a full hypermarket franchise in a commercial hub, BigDeal has a format built for your goals and budget.</p>
-        </div>
-
-        <div class="franchise-formats-grid">
-          <article class="franchise-format-card">
-            <span class="franchise-format-pill">BEST FOR TIER 2 AND TIER 3 MARKETS</span>
-            <h3>Mini Mart</h3>
-            <p class="franchise-format-size">500-800 sq ft store</p>
-            <p class="franchise-format-price">₹10-12 Lakhs</p>
-            <p class="franchise-format-meta">Total all-inclusive investment</p>
-
-            <ul class="franchise-format-points">
-              <li>Best for Tier 2 and 3 cities and residential neighbourhoods</li>
-              <li>Low mart franchise cost with quick ROI and low overhead</li>
-              <li>Ideal first-time mini grocery franchise opportunity</li>
-              <li>Strong local community loyalty from day one</li>
-              <li>Full setup, branding, and 4-week training included</li>
-            </ul>
-
-            <a class="franchise-format-cta" href="#franchise-application">Apply Franchise</a>
-          </article>
-
-          <article class="franchise-format-card is-featured">
-            <span class="franchise-format-pill">MOST POPULAR FORMAT</span>
-            <h3>Super Mart</h3>
-            <p class="franchise-format-size">800-1,200 sq ft store</p>
-            <p class="franchise-format-price">₹15-18 Lakhs</p>
-            <p class="franchise-format-meta">Total all-inclusive investment</p>
-
-            <ul class="franchise-format-points">
-              <li>Ideal for mid-sized towns, metro suburbs, and apartment zones</li>
-              <li>High product variety, balanced supermarket franchise cost</li>
-              <li>A practical super market franchise for growing catchments</li>
-              <li>Growing daily footfall, strong brand growth potential</li>
-              <li>Most popular format among BigDeal franchise partners</li>
-              <li>Full setup, branding, inventory, and training included</li>
-            </ul>
-
-            <a class="franchise-format-cta" href="#franchise-application">Apply Franchise</a>
-          </article>
-
-          <article class="franchise-format-card">
-            <span class="franchise-format-pill">PREMIUM HIGH-FOOTFALL FORMAT</span>
-            <h3>Hyper Mart</h3>
-            <p class="franchise-format-size">1,200+ sq ft store</p>
-            <p class="franchise-format-price">₹20-25 Lakhs</p>
-            <p class="franchise-format-meta">Total all-inclusive investment</p>
-
-            <ul class="franchise-format-points">
-              <li>For malls, main markets, and high-footfall commercial locations</li>
-              <li>Maximum volume - the premium hypermarket franchise format</li>
-              <li>Strong positioning against departmental store franchise competitors</li>
-              <li>Highest profit potential in the BigDeal franchise range</li>
-              <li>Full setup, staffing guidance, and national brand support</li>
-            </ul>
-
-            <a class="franchise-format-cta" href="#franchise-application">Apply Franchise</a>
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="franchise-process" id="howitworks">
-    <div class="container">
-      <div class="franchise-process-wrap">
-        <div class="franchise-process-copy">
-          <span class="franchise-process-label">THE PROCESS</span>
-          <h2>From inquiry to grocery franchise launch - here's exactly what happens.</h2>
-          <p>BigDeal's supermarket franchise process is built to be simple, fast, and fully supported. Here is what to expect from the moment you apply.</p>
-        </div>
-
-        <div class="franchise-process-grid">
-          <article class="franchise-process-card">
-            <span class="franchise-process-step">1</span>
-            <h3>Apply online</h3>
-            <p>Fill the form above. It takes under 2 minutes. No payment or commitment is required at this stage.</p>
-          </article>
-
-          <article class="franchise-process-card">
-            <span class="franchise-process-step">2</span>
-            <h3>Free consultation call</h3>
-            <p>A BigDeal franchise consultant calls you within 4 business hours to understand your city, budget, and the right grocery or supermarket franchise format.</p>
-          </article>
-
-          <article class="franchise-process-card">
-            <span class="franchise-process-step">3</span>
-            <h3>Market assessment</h3>
-            <p>Our team evaluates footfall, competition, and accessibility, then provides a city-specific ROI projection for your chosen franchise format.</p>
-          </article>
-
-          <article class="franchise-process-card">
-            <span class="franchise-process-step">4</span>
-            <h3>Agreement and investment</h3>
-            <p>You see every rupee of the supermarket franchise cost before committing, with clear documentation and no hidden clauses.</p>
-          </article>
-
-          <article class="franchise-process-card">
-            <span class="franchise-process-step">5</span>
-            <h3>Store setup and training</h3>
-            <p>Interiors, branding, inventory sourcing, and 4-week staff training are managed by BigDeal within your 45-day launch window.</p>
-          </article>
-
-          <article class="franchise-process-card">
-            <span class="franchise-process-step">6</span>
-            <h3>Opening day</h3>
-            <p>Your grocery mart franchise or supermarket opens within 45 days of signing, backed by BigDeal's brand recognition across India.</p>
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="franchise-financial" id="franchise-financial">
-    <div class="container">
-      <div class="franchise-financial-wrap">
-        <div class="franchise-financial-copy">
-          <span class="franchise-financial-label">FINANCIAL CLARITY</span>
-          <h2>What does the supermarket franchise cost actually look like?</h2>
-          <p>We believe in full transparency before you sign anything. Here is exactly how the investment works for every BigDeal grocery mart franchise format.</p>
-        </div>
-
-        <div class="franchise-financial-grid">
-          <article class="franchise-financial-card">
-            <h3>One-time franchise fee</h3>
-            <p>A fixed, clearly disclosed amount secures your franchise rights. No recurring annual licence fee and no renewal charges. You pay once, and your franchise rights are yours.</p>
-          </article>
-
-          <article class="franchise-financial-card">
-            <h3>Fixed setup and branding cost</h3>
-            <p>Interiors, fixtures, branding, and equipment come at pre-defined pricing. The mart franchise cost shown in our documentation is the mart franchise cost you pay.</p>
-          </article>
-
-          <article class="franchise-financial-card">
-            <h3>Zero royalty on your revenue - ever</h3>
-            <p>Every rupee your grocery store or supermarket franchise earns is yours. BigDeal takes no percentage of sales. This is a one-time investment model.</p>
-          </article>
-
-          <article class="franchise-financial-card">
-            <h3>ROI in 18-24 months</h3>
-            <p>Most BigDeal franchise partners recover their full grocery franchise investment within 18-24 months. Our consultants provide city-specific projections during your call.</p>
-          </article>
-        </div>
-
-        <div class="franchise-financial-cta-box">
-          <div class="franchise-financial-cta-copy">
-            <h3>Need city-specific ROI clarity?</h3>
-            <p>Talk to a franchise consultant before you commit. The consultation is free and designed to help you assess location, format, and budget fit.</p>
           </div>
-          <a class="franchise-financial-cta" href="#franchise-application">Apply Now</a>
+          <div class="col-12 col-lg-6">
+            <div class="card">
+              <div class="card-body p-0 pb-4 pt-4">
+                    <!-- action="./ajax/contact.php" -->
+                    <form id="desktopContactForm">
+                      <div class="row">
+                        <div class="col-12">
+                          <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="name" aria-describedby="emailHelp"
+                              placeholder="Full Name">
+                            <label class="animate_label" for="exampleInputName1">FULL NAME</label>
+                            <div>
+                              <span class="prettyprint" id="name_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                          <div class="form-group">
+                            <input type="text" class="form-control" name="contact" id="contact"
+                              aria-describedby="emailHelp" maxlength="10" placeholder="CONTACT NUMBER">
+                            <label class="animate_label" for="exampleInputNumber1">CONTACT NUMBER</label>
+                            <div>
+                              <span class="prettyprint" id="contact_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                          <div class="form-group">
+                            <input type="email" class="form-control" name="email" id="email"
+                              aria-describedby="emailHelp" placeholder="Email">
+                            <label class="animate_label" for="exampleInputComment1">EMAIL</label>
+                            <div>
+                              <span class="prettyprint" id="email_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                          <div class="form-group">
+                            <input type="text" class="form-control" name="pincode" id="pincode" maxlength="6"
+                              aria-describedby="emailHelp" placeholder="Pin Code">
+                            <label class="animate_label" for="exampleInputNumber1">PIN CODE</label>
+                            <div>
+                              <span class="prettyprint" id="pincode_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                          <div class="form-group">
+                            <div class="select-wrapper">
+                              <select class="form-control" name="area" id="area" aria-describedby="emailHelp">
+                                <option value="" disabled selected>Please Select</option>
+                                <option value="Upto 500 Sqft">Upto 500 Sqft</option>
+                                <option value="Upto 1000 Sqft">Upto 1000 Sqft</option>
+                                <option value="Upto 2000 Sqft">Upto 2000 Sqft</option>
+                                <option value="Upto 5000 Sqft">Upto 5000 Sqft</option>
+                              </select>
+                              <label class="animate_label" for="area">Area in sqft.</label>
+                              <span class="prettyprint" id="area_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-12">
+                          <div class="form-group">
+                            <select class="form-control" name="propType" id="propType" aria-describedby="emailHelp">
+                              <option value="" selected disabled>Please Select</option>
+                              <option value="Owned">Owned</option>
+                              <option value="Rented">Rented</option>
+                            </select>
+                            <label class="animate_label" for="exampleInputEmail1">Property Type</label>
+                            <div>
+                              <span class="prettyprint" id="propType_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-12">
+                          <div class="form-group">
+                            <select class="form-control" name="plan" id="plan" aria-describedby="emailHelp">
+                              <option value="" selected disabled>Please Select</option>
+                              <option value="This Month">This Month</option>
+                              <option value="Next Month">Next Month</option>
+                              <option value="After 2 Months">After 2 Months</option>
+                            </select>
+                            <label class="animate_label" for="exampleInputEmail1">When you are planning to
+                              open your
+                              store?</label>
+                            <div>
+                              <span class="prettyprint" id="plan_error"></span>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="ml-3 mb-3">
+                          <span class="prettyprint" id="thank_you_msg_desktop"></span>
+                        </div>
+                        <div class="col-12">
+                          <div class="float-right">
+                            <div class="btn-box border-black">
+                              <button type="submit" class="btn btn-block btn-primary" id="submitBtn"><span>Request
+                                  Callback</span></button>
+                            </div>
+                          </div>
+                        </div>
+                    </form>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </section>
 
-  <section class="franchise-stories" id="franchise-stories">
+    <div class="reason_start why_us_section mt-5" id="whyus">
+      <div class="container">
+        <div class="subheading">
+          <h2 class="text-left">Why Partner <span class="main-green">with us?</span></h2>
+        </div>
+        <div class="feat_right_section">
+          <div class="row">
+            <div class="col-12 col-md-4 mb-sm-3">
+              <div class="feat_card">
+                <img src="assets/img/Maximum_Profits.svg" alt="Affordable Pricing">
+                <h3>Maximum Profits</h3>
+                <p>With proven BigDeal franchise model, maximize your profits.</p>
+              </div>
+            </div>
+            <div class="col-12 col-md-4 mb-sm-3">
+              <div class="feat_card">
+                <img src="assets/img/Renowned_Brand.svg" alt="Timely Delivered">
+                <h3>Renowned Brand</h3>
+                <p>Kick-off easily backed by Bigdeal's existing customers.</p>
+              </div>
+            </div>
+            <div class="col-12 col-md-4 mb-sm-3">
+              <div class="feat_card">
+                <img src="assets/img/full_assistance.svg" alt="Experienced Team">
+                <h3>Full Assistance</h3>
+                <p>We're in support throughout.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="container mt-5" id="procedure">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="subheading">
+            <h2 class="text-left">Simple <span class="main-green">Procedure</span></h2>
+          </div>
+          <div class="timeline-wrapper">
+            <section class="main-timeline-section mt-5">
+              <div class="timeline-start"></div>
+              <div class="conference-center-line"></div>
+              <div class="conference-timeline-content">
+                <div class="timeline-article timeline-article-top">
+                  <div class="content-date">
+                    <span>1</span>
+                  </div>
+                  <div class="meta-date"></div>
+                  <div class="content-box">
+                    <p>Get in touch with us to obtain the preliminary information.</p>
+                  </div>
+                </div>
+                <div class="timeline-article timeline-article-bottom">
+                  <div class="content-date">
+                    <span>2</span>
+                  </div>
+                  <div class="meta-date"></div>
+                  <div class="content-box">
+                    <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
+                  </div>
+                </div>
+                <div class="timeline-article timeline-article-top">
+                  <div class="content-date">
+                    <span>3</span>
+                  </div>
+                  <div class="meta-date"></div>
+                  <div class="content-box">
+                    <p>Fill up and file the BigDeal franchise application form.</p>
+                  </div>
+                </div>
+                <div class="timeline-article timeline-article-bottom">
+                  <div class="content-date">
+                    <span>4</span>
+                  </div>
+                  <div class="meta-date"></div>
+                  <div class="content-box">
+                    <p>Give out documents and signatures for the agreement where required.</p>
+                  </div>
+                </div>
+                <div class="timeline-article timeline-article-top">
+                  <div class="content-date">
+                    <span>5</span>
+                  </div>
+                  <div class="meta-date"></div>
+                  <div class="content-box">
+                    <p>Select and conclude a profitable location with our help.</p>
+                  </div>
+                </div>
+                <div class="timeline-article timeline-article-bottom">
+                  <div class="content-date">
+                    <span>6</span>
+                  </div>
+                  <div class="meta-date"></div>
+                  <div class="content-box">
+                    <p>Attend training and installation before opening a new Bigdeal franchise!</p>
+                  </div>
+                </div>
+              </div>
+              <div class="timeline-end"></div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="container mt-5">
+      <h2>From Interest to Ownership — Let’s Make It Official</h2>
+      <p>You’ve explored the opportunity. You’ve understood the benefits. Now, it’s time to take the leap.</p>
+      <p>
+        If you are ready to own a BigDeal Supermart franchise, this is your beginning. The franchise application is the formal first step 
+        toward becoming a partner in one of India’s fastest-growing, most affordable, and future-ready supermarket franchise models.
+      </p>
+      <p>This is how you start—whether you're opening in your hometown or entering a new market.</p>
+
+      <h2>Assess Whether the Franchise is Right for You</h2>
+      <p>
+        Before applying, make sure you're ready for the responsibility and rewards of business ownership.
+      </p>
+      <ul>
+        <li>
+          <strong>Retail Space:</strong> A minimum of $500 must be invested into retail space. The space should meet our operational requirements 
+          and be either leased or owned.
+        </li>
+        <li>
+          <strong>Investment Cost:</strong> Capital investment ranges from ₹10–25 lakh depending on store format and location.
+        </li>
+        <li>
+          <strong>Operational Commitment:</strong> Either manage operations yourself or hire trained personnel under your supervision.
+        </li>
+        <li>
+          <strong>Location:</strong> Choose a high-footfall area with visibility and accessibility for your store.
+        </li>
+        <li>
+          <strong>Adhere to SOPs:</strong> Follow BigDeal's Standard Operating Procedures for store operations, customer service, and branding.
+        </li>
+      </ul>
+      <p>If this sounds like you, you're ready for the next step.</p>
+
+      <h2>Filling Out the Franchise Application</h2>
+      <p>
+        The application is the foundation of our franchise recruitment process. It helps us assess your fit and customize your onboarding.
+      </p>
+      <p>Your application will include the following:</p>
+      <ul>
+        <li><strong>Personal Information:</strong> Full name, contact number, and email.</li>
+        <li><strong>Preferred Store Location:</strong> City, PIN code, and address of your desired location.</li>
+        <li><strong>Store Area:</strong> Size in square feet, and whether the space is owned or rented.</li>
+        <li><strong>Investment Readiness:</strong> Confirmation of your capital preparedness.</li>
+        <li><strong>Timeline:</strong> Your target date to launch the store.</li>
+        <li><strong>Business Experience:</strong> Optional, but helpful to assess your managerial ability.</li>
+      </ul>
+      <p>Submitting the form signals your commitment to the journey ahead.</p>
+
+      <h2>What Happens After You Apply?</h2>
+      <ol>
+        <li><strong>Market Demo:</strong> We assess if your selected area is suitable for a BigDeal Supermart.</li>
+        <li><strong>Consultation Call:</strong> Our franchise consultant will guide you through the process.</li>
+        <li><strong>Store Format Options:</strong> Choose the format that aligns with your goals and budget.</li>
+        <li><strong>Franchise Agreement:</strong> You’ll receive clear documentation of responsibilities and benefits.</li>
+        <li><strong>Onboarding & Training:</strong> Staff training, setup guidance, and orientation begin.</li>
+        <li><strong>Store Launch:</strong> Within just 45 days, your store can be open for business.</li>
+      </ol>
+
+      <h2>Legal and Financial Clarity</h2>
+      <p>We believe in transparency. Here’s how the finances work:</p>
+      <ul>
+        <li><strong>One-Time Franchise Fee:</strong> A fixed fee to secure your franchise rights.</li>
+        <li><strong>Fixed Cost for Interiors and Branding:</strong> Pre-defined pricing for store setup.</li>
+        <li><strong>No Royalty Fees:</strong> 100% of your profits stay with you. No revenue-sharing model.</li>
+        <li><strong>Ongoing Support:</strong> Continuous assistance at no extra hidden cost.</li>
+      </ul>
+    </section>
+  </article>
+
+  <!-- Stores Videos -->
+   <section class="pt-lg-5 pb-2 bg-white our-stories" id="store-videos">
     <div class="container">
-      <div class="franchise-stories-wrap">
-        <div class="franchise-stories-copy">
-          <span class="franchise-stories-label">REAL FRANCHISE PARTNERS, REAL RESULTS</span>
-          <h2>Hear from BigDeal grocery and supermarket franchise owners across India.</h2>
-          <p>Real store owners. Real numbers. See what building a BigDeal mini grocery store franchise, super mart, or hypermarket franchise looks like in practice - from the people doing it.</p>
+      <div class="section-title text-center">
+        <h3 class="mt-3 mb-4">Have Doubts? These Videos will help!</h3>
+      </div>
+      <div class="row g-2">
+        <!-- Repeat this block for each store image -->
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/0sDsBFdBrDQ?si=-ujbD9S_7blO4kFs&amp;controls=0" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          </div>
         </div>
-
-        <div class="franchise-stories-grid">
-          <article class="franchise-story-card">
-            <a class="franchise-story-media" href="https://www.youtube.com/watch?v=0sDsBFdBrDQ" target="_blank" rel="noopener noreferrer" aria-label="Watch BigDeal franchise owner story 1">
-              <img src="https://img.youtube.com/vi/0sDsBFdBrDQ/hqdefault.jpg" alt="BigDeal franchise owner story 1 thumbnail" loading="lazy">
-              <span class="franchise-story-play" aria-hidden="true"></span>
-            </a>
-          </article>
-
-          <article class="franchise-story-card">
-            <a class="franchise-story-media" href="https://www.youtube.com/watch?v=SjOx9d2tgBU" target="_blank" rel="noopener noreferrer" aria-label="Watch BigDeal franchise owner story 2">
-              <img src="https://img.youtube.com/vi/SjOx9d2tgBU/hqdefault.jpg" alt="BigDeal franchise owner story 2 thumbnail" loading="lazy">
-              <span class="franchise-story-play" aria-hidden="true"></span>
-            </a>
-          </article>
-
-          <article class="franchise-story-card">
-            <a class="franchise-story-media" href="https://www.youtube.com/watch?v=3HAR3cJSLAo" target="_blank" rel="noopener noreferrer" aria-label="Watch BigDeal franchise owner story 3">
-              <img src="https://img.youtube.com/vi/3HAR3cJSLAo/hqdefault.jpg" alt="BigDeal franchise owner story 3 thumbnail" loading="lazy">
-              <span class="franchise-story-play" aria-hidden="true"></span>
-            </a>
-          </article>
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/SjOx9d2tgBU?si=LoRcnCUAyv8yYBWc&amp;controls=0" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/3HAR3cJSLAo?si=qFLGesRvLaIRfliF&amp;controls=0" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+          </div>
         </div>
       </div>
     </div>
   </section>
+  <!-- Stores Videos -->
 
-  <section class="franchise-faq" id="faqs">
+  <!-- Quick Benefits HTML -->
+  <section class="quick_benefit">
     <div class="container">
-      <div class="franchise-faq-wrap">
-        <div class="franchise-faq-copy">
-          <span class="franchise-faq-label">FREQUENTLY ASKED QUESTIONS</span>
-          <h2>Questions people ask before starting a grocery or supermarket franchise with BigDeal.</h2>
-          <p>These answers remove doubts around mart franchise cost, supermarket franchise cost, royalty, experience, launch timing, and support.</p>
-        </div>
+      <div class="subheading">
+        <h2>Wide variety of <span class="main-green">Popular Brands</span></h2>
+      </div>
+      <div class="brand_list">
+        <ul class="first_list">
+          <li><img width="100" height="55" src="assets/img/2.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/7.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/6.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/5.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/4.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/3.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/1.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/Britannia_Industries.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/Haldirams_Logo.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/Kwality_Walls_logo.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/McCain-Logo.webp" alt="check border"></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <!-- Quick Benefits HTML -->
 
-        <div class="franchise-faq-list">
-          <details class="franchise-faq-item">
-            <summary>
-              <span>How much does a BigDeal supermarket franchise cost in total?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>The total supermarket franchise cost ranges from ₹10 to ₹25 lakhs depending on the format and location. This is all-inclusive - it covers the one-time franchise fee, store setup, interiors, branding, initial inventory, and working capital. Our team gives you a full itemised breakdown before you commit. There are no hidden charges and no ongoing royalty fees.</p>
-            </div>
-          </details>
+  <section class="blue-bg">
+    <div data-vc-parallax="1.5"
+      class="vc_row wpb_row vc_row-fluid landing_bg vc_custom_1572638352805 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving bg-dark white_txt svg_none svg_bottom_none  svg_bottom">
 
-          <details class="franchise-faq-item">
-            <summary>
-              <span>Is there any royalty or revenue sharing in the mart franchise?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>None. BigDeal charges no royalty and takes no percentage of your grocery mart franchise revenue. Your profits are entirely yours. The mart franchise cost you pay is a one-time investment - you pay the franchise and setup fee once, then keep everything your store earns.</p>
+      <div class="particles2"><span class="shape-one"></span><span class="shape-two"></span><span
+          class="shape-three"></span><span class="shape-four"></span><span class="shape-five"></span></div>
+      <div class="mo-vc-row-ovelay"></div>
+      <div class="container main-container">
+        <div class="wpb_column vc_column_container vc_col-sm-12 mo-column-63821a71ef788">
+          <div class="vc_column-inner">
+            <div class="wpb_wrapper-inner">
+              <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper text-center">
+                  <h2 class="text-center">Launch your Supermarket Franchise in just 45 Days with BigDeal</h2>
+                  <p class="text-center text-white">Opt for a BigDeal Supermarket Franchise today and ensure your future
+                    self with financial security and the opportunity to build a thriving business. Cater to your
+                    community and seek everyone’s blessings!</p>
+                  <div class="btn-box">
+                    <a href="#franchise-application" class="btn btn-primary">
+                      <span>Start Your Franchise</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>Can I open a mini grocery store franchise in a smaller city or town?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>Yes. Our Mini Mart format - at 500-800 sq ft and ₹10-12 lakhs - is built for Tier 2 and Tier 3 cities and residential neighbourhoods. A mini grocery store franchise with BigDeal gives you full brand backing, training, and supply chain access even in smaller markets.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>What makes BigDeal the best supermarket franchise opportunity in India?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>Three things set BigDeal apart from other supermarket franchise opportunities: zero royalty, fixed all-inclusive investment with no hidden costs, and a 45-day launch timeline with full setup handled by our team. Unlike many franchise of supermarket models that charge ongoing revenue percentages, BigDeal is a one-time investment model.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>Do I need experience to open a franchise super market with BigDeal?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>No prior retail or franchise super market experience is required. BigDeal's 4-week training programme covers store operations, inventory management, billing systems, customer service, and local marketing. The system is designed for first-time business owners too.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>How does a hypermarket franchise differ from a mini mart franchise with BigDeal?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>The main differences are store size and investment. A mini mart franchise is 500-800 sq ft at ₹10-12 lakhs, ideal for residential areas and smaller towns. A hypermarket franchise is 1,200+ sq ft at ₹20-25 lakhs, designed for malls, main markets, and high-footfall commercial zones. Both run on the same BigDeal model with full setup, zero royalty, and complete support.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>How long does it take to open a grocery supermarket franchise after signing?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>Most BigDeal grocery supermarket franchise stores are fully set up, branded, trained, stocked, and ready to open within 45 days of signing the franchise agreement. BigDeal manages interiors, branding, fixtures, inventory, and staff training so you do not have to coordinate it alone.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>Can I open a small grocery store franchise if I already have shop space?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>Yes. Whether your space is owned or rented, you can use it for a small grocery store franchise or larger supermarket format. Our team assesses footfall, visibility, accessibility, and format fit. If you do not have a space yet, our consultants help you evaluate suitable options in your city.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>What is the ROI timeline for a grocery mart franchise with BigDeal?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>Most BigDeal grocery mart franchise partners recover their full investment within 18 to 24 months of opening, with 20% average monthly profit margins. The exact timeline depends on location, store format, and execution. During your consultation call, our team provides city-specific ROI projections.</p>
-            </div>
-          </details>
-
-          <details class="franchise-faq-item">
-            <summary>
-              <span>What marketing support do departmental store franchise and supermarket partners receive?</span>
-              <span class="franchise-faq-icon" aria-hidden="true"></span>
-            </summary>
-            <div class="franchise-faq-answer">
-              <p>BigDeal provides quarterly marketing kits with digital assets, in-store signage, and promotional collateral. We also run national branding campaigns that build awareness and drive footfall across the store network, while franchise consultants review marketing performance and recommend local promotion strategies.</p>
-            </div>
-          </details>
+          </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="franchise-final-cta" id="franchise-final-cta">
+  <!-- FAQs Section HTML -->
+  <section class="faqs" id="faqs">
     <div class="container">
-      <div class="franchise-final-cta-panel">
-        <span class="franchise-final-cta-label">FINAL STEP</span>
-        <h2>Your city might still have an open grocery or supermarket franchise slot.</h2>
-        <p>BigDeal operates a limited number of grocery mart franchise and supermarket franchise locations per city to protect each partner's territory and profitability. Apply now to check if your area is still available - our franchise consultant calls you within 4 business hours.</p>
-
-        <div class="franchise-final-cta-actions">
-          <a class="franchise-final-cta-primary" href="#franchise-application">Apply Now</a>
+      <div class="row">
+        <div class="col-12">
+          <div class="subheading">
+            <!-- <p>FAQs</p> -->
+            <h2>Frequently Asked <span class="main-green">Questions</span></h2>
+          </div>
         </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <div id="accordion">
+            <div class="row">
+              <div class="col-12 col-md-6">
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne"
+                        aria-expanded="true" aria-controls="collapseOne">
+                        How much would it cost to open a franchise for BigDeal in the beginning?
+                      </button>
+                    </h3>
+                  </div>
 
-        <p class="franchise-final-cta-note">No payment. No commitment. A free, no-obligation consultation call - that is all it takes to find out if BigDeal is the right supermarket franchise opportunity for you.</p>
+                  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body">
+                      The cost of investment in a BigDeal franchise in India generally lies between ₹10 to ₹25 lakhs,
+                      based
+                      on the location and size of the outlet. This encompasses the franchise fees, equipment, stock, and
+                      also the running costs. Our team gives a detailed analysis for you to understand the breakdown of
+                      all
+                      the costs involved.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingSix">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
+                        aria-expanded="false" aria-controls="collapseSix">
+                        To what extent can someone expect to earn from a BigDeal franchise?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                    <div class="card-body">
+                      Most BigDeal franchises earn approximately 20% profit margins. The above-stated margins vary with
+                      the site, the size of the store, and how well the business is managed. Additionally, the structure
+                      of our business operations and constant help from our consultants serve to help enhance your
+                      returns and make profits when it comes to the retail markets.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingSeven">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
+                        aria-expanded="false" aria-controls="collapseSeven">
+                        What is the process of applying for the BigDeal franchise?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+                    <div class="card-body">
+                      Complete the application form on BigDeal franchise website. After receiving and reviewing your
+                      application, we will arrange a meeting in order to get to know you and your objectives, perform a
+                      visit to the location and provide you with information on the further course of action.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="heading1">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse1"
+                        aria-expanded="false" aria-controls="collapse1">
+                        When is the ideal time for a return on investment?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
+                    <div class="card-body">
+                      A Franchisee can expect an ROI of about 30% within the next 18-24 months of starting activities.
+                      This may change to regions, management efficiency, and community integrities but as we have proven
+                      strategies and support, you will earn much more than expectations.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="heading2">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2"
+                        aria-expanded="false" aria-controls="collapse2">
+                        How does Big Deal Help in Marketing?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
+                    <div class="card-body">
+                      BigDeal franchise support provides strong marketing assistance such as creating and implementing
+                      online marketing plans, running branding advertisements, and providing collateral. Franchisees are
+                      provided with marketing kits every 3 months consisting of marketing materials appropriate to the
+                      target market making sure the store has customers and retains them while creating brand equity.
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="card">
+                  <div class="card-header" id="headingTwo">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                        aria-expanded="false" aria-controls="collapseTwo">
+                        How does your company support the franchise in terms of training?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                    <div class="card-body">
+                      For four weeks, we offer in-depth training focused on how to operate a store, manage the stock,
+                      interact with customers, and implement marketing tactics. Our BigDeal franchise support helps you
+                      keep up with the current market trends and practices so that you prepare well for the running of
+                      your franchise, thus paving the way for the future success of the business.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingThree">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
+                        aria-expanded="false" aria-controls="collapseThree">
+                        Is there any necessity for previous retail experience to become a franchisee?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div class="card-body">
+                      There is no mandatory requirement for anyone to have worked in a retail franchise India before
+                      starting a franchise, although it is advantageous if they have. You will learn everything you need
+                      to efficiently operate a store in our comprehensive training program. Enthusiasm for service and
+                      readiness to be taught are important.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingFour">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
+                        aria-expanded="false" aria-controls="collapseFour">
+                        What kind of support do you give after the franchise is opened?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div class="card-body">
+                      Once the Bigdeal Supermarket franchise has been opened, there is continuous support that is
+                      offered to the franchisee concerning the operations of the business, marketing and event
+                      management. Also included are updates concerning the business environment and trends quarterly,
+                      along with quarterly business reviews to provide you with all necessary tools to further enhance
+                      your profitability and achieve your business objectives.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingFive">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
+                        aria-expanded="false" aria-controls="collapseFive">
+                        How is product quality maintained by BigDeal company?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                    <div class="card-body">
+                      BigDeal Supermarket franchise aims to satisfy all customers by providing quality products. We have
+                      worked with more than a hundred suppliers who we trust and we regularly inspect their quality. We
+                      pay particular attention to young perishable goods and equity goods aiming at letting its
+                      franchisees offer the most affordable quality products to consumers.
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" id="headingEight">
+                    <h3 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
+                        aria-expanded="false" aria-controls="collapseEight">
+                        Is it possible to run a BigDeal franchise on a part-time basis?
+                      </button>
+                    </h3>
+                  </div>
+                  <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
+                    <div class="card-body">
+                      Although running a grocery franchise on a part-time basis is achievable, we advocate full-time
+                      ownership for maximum efficacy. Daily participation in the operations helps foster good customer
+                      relations and facilitates the running of the store, therefore increasing profitability and
+                      customer satisfaction.
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
+  <!-- FAQs Section HTML -->
 
   <!-- Scripts -->
   <?php include 'common/scripts.php'; ?>
   <!-- Scripts -->
-  <script>
-
-  </script>
-  <script src="assets/js/sheetform.js"></script>
+  <script src="assets/js/sheetform.js"></script>  
 </body>
 
 </html>
