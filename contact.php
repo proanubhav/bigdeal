@@ -7,33 +7,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Contact | BigDeal Supermarket Franchise | Contact Us for Profits</title>
+  <title>Contact BigDeal Supermart | Franchise Enquiry, Office & Support</title>
   <meta name="description"
-    content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+    content="Contact BigDeal Supermart for grocery franchise enquiries, office details, investment guidance, and franchise support across India.">
   <meta name="keywords"
     content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta property="og:title" content="Contact BigDeal Supermart | Franchise Enquiry, Office & Support">
   <meta property="og:url" content="https://www.bigdealsupermart.com/contact">
   <meta property="og:description"
-    content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+    content="Contact BigDeal Supermart for grocery franchise enquiries, office details, investment guidance, and franchise support across India.">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta name="twitter:title" content="Contact BigDeal Supermart | Franchise Enquiry, Office & Support">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/contact">
   <meta name="twitter:description"
-    content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+    content="Contact BigDeal Supermart for grocery franchise enquiries, office details, investment guidance, and franchise support across India.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="BigDeal Supermarket Franchise | Contact Us for Profits">
+  <meta itemprop="name" content="Contact BigDeal Supermart | Franchise Enquiry, Office & Support">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/contact">
   <meta itemprop="description"
-    content="Looking to start a Supermarket Franchise? Join BigDeal Supermart and explore a profitable franchise models. Contact us today for more details!">
+    content="Contact BigDeal Supermart for grocery franchise enquiries, office details, investment guidance, and franchise support across India.">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <link rel="canonical" href="https://www.bigdealsupermart.com/contact">
 
@@ -64,7 +64,7 @@
             <!-- <nav aria-label="breadcrumb">
               <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
                 <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                  <a href="index" itemprop="item">
+                  <a href="/" itemprop="item">
                     <span itemprop="name">Home</span>
                     <meta itemprop="position" content="1" />
                   </a>
