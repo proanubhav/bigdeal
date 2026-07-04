@@ -22,7 +22,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light navbar_two">
       <div class="mobile_logo">
         <div class="logo">
-          <a href="/">
+          <a href="https://www.bigdealsupermart.com/">
             <img src="assets/img/bigdeal-supermart-logo.webp" alt="Bigdeal Supermart Franchise logo">
           </a>
         </div>
@@ -36,7 +36,7 @@
         <div class="row">
           <div class="col-12 col-md-12 col-lg-4">
             <div class="logo">
-              <a href="/">
+              <a href="https://www.bigdealsupermart.com/">
                 <img src="assets/img/bigdeal-supermart-logo.webp" alt="Bigdeal Supermart Franchise logo">
               </a>
             </div>
@@ -47,19 +47,19 @@
                 <a class="nav-link" href="https://www.bigdealsupermart.com/">Home</a>
               </li>
               <li class="dropdown mega-dropdown">
-                <a class="nav-link" href="about"> About </a>
+                <a class="nav-link" href="https://www.bigdealsupermart.com/about"> About </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact"> Contact Us </a>
+                <a class="nav-link" href="https://www.bigdealsupermart.com/contact"> Contact Us </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="calculator">Calculator</a>
+                <a class="nav-link" href="https://www.bigdealsupermart.com/calculator">Calculator</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://www.bigdealsupermart.com/blog/">Blog</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="start-your-franchise">Apply Franchise</a>
+                <a class="nav-link" href="https://www.bigdealsupermart.com/start-your-franchise">Apply Franchise</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link btn btn-nav" href="https://www.bigdealsupermart.com/assets/big-deal-brochure.pdf" target="_blank">Download Brochure</a>

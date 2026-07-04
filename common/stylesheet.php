@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="assets/css/style-min.css" as="style">
   <!-- <link rel="stylesheet" href="assets/css/font-awesome.min.css"> -->
   <meta name="google-site-verification" content="jFFlcONwEK37xx0zZqBN92zMxmOp8-yTTcTqP6xRMgw">
+  <?php include __DIR__ . '/site-schema.php'; ?>
   
 
   <!-- Google Tag Manager -->
