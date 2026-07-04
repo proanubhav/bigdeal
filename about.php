@@ -7,33 +7,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>About | BigDeal Supermarket Franchise | Know More About Us </title>
+  <title>About BigDeal Supermart | Zero-Royalty Grocery Franchise in India</title>
   <meta name="description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Learn about BigDeal Supermart, the grocery franchise brand behind a zero-royalty, ₹10-25L supermarket franchise model with 45-day launch support across India.">
   <meta name="keywords"
     content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
 
   <meta property="og:site_name" content="Bigdeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="BigDeal Supermarket Franchise | Know More About Us ">
+  <meta property="og:title" content="About BigDeal Supermart | Zero-Royalty Grocery Franchise in India">
   <meta property="og:url" content="https://www.bigdealsupermart.com/about">
   <meta property="og:description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Learn about BigDeal Supermart, the grocery franchise brand behind a zero-royalty, ₹10-25L supermarket franchise model with 45-day launch support across India.">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="BigDeal Supermarket Franchise | Know More About Us ">
+  <meta name="twitter:title" content="About BigDeal Supermart | Zero-Royalty Grocery Franchise in India">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/about">
   <meta name="twitter:description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Learn about BigDeal Supermart, the grocery franchise brand behind a zero-royalty, ₹10-25L supermarket franchise model with 45-day launch support across India.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="BigDeal Supermarket Franchise | Know More About Us ">
+  <meta itemprop="name" content="About BigDeal Supermart | Zero-Royalty Grocery Franchise in India">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/about">
   <meta itemprop="description"
-    content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
+    content="Learn about BigDeal Supermart, the grocery franchise brand behind a zero-royalty, ₹10-25L supermarket franchise model with 45-day launch support across India.">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <link rel="canonical" href="https://www.bigdealsupermart.com/about">
 
@@ -66,7 +66,7 @@
             <h1 class="about-title">Seize Profits and Build a Legacy with Us.</h1>
             <div class="theme-btn__wrapper d-flex justify-content-center mt-3 mb-1">
               <div class="btn-box">
-                <a href="start-your-franchise" class="btn btn-primary">
+                <a href="https://www.bigdealsupermart.com/start-your-franchise" class="btn btn-primary">
                   <span>Become a Partner</span>
                 </a>
               </div>
