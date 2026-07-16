@@ -11,9 +11,9 @@
   <meta name="description"
     content="Contact BigDeal Supermart for grocery franchise enquiries, office details, investment guidance, and franchise support across India.">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Contact BigDeal Supermart | Franchise Enquiry, Office & Support">
   <meta property="og:url" content="https://www.bigdealsupermart.com/contact">
@@ -39,10 +39,6 @@
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
-
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
   <!-- Stylesheets -->
@@ -121,7 +117,7 @@
                       <div class="benefit_area">
                         <h5>03.</h5>
                         <h4>Visit us:</h4>
-                        <p><a href="https://www.google.com/maps/search/1st+Floor,+Sapna+Market,++Sector+37+Faridabad/@28.4804928,77.3083983,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDcyMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">12/2 1st Floor, Sapna Market,  Sector 37 Faridabad, Haryana , 121003</a></p>
+                        <p><a href="https://www.google.com/maps/search/?api=1&query=12%2F2+1st+Floor+Sapna+Market+Sector+37+Faridabad+Haryana+121003" target="_blank">12/2 1st Floor, Sapna Market,  Sector 37 Faridabad, Haryana , 121003</a></p>
                       </div>
                     </div>
                     <div class="col-12 col-sm-12 col-md-12 col-lg-12">
@@ -249,7 +245,7 @@
         At BigDeal Supermart, we always stay close to our customers and partners. Whether you're a shopper looking for a <strong>supermarket near me</strong>, a future business owner interested in our franchise opportunities, or need help from our customer support team—we’re here to help.
       </p>
       <p>
-        With multiple ways to reach us—phone, email, and our online contact form—getting in touch with BigDeal has never been easier.
+        With multiple ways to reach us—phone, email, and our online contact form—getting in touch with BigDeal Supermarthas never been easier.
       </p>
 
       <h2>Supermarket Near Me? Use Our Store Locator!</h2>
@@ -264,7 +260,7 @@
         <li>Speak directly to store managers for in-stock queries</li>
       </ul>
       <p>
-        Whether you need groceries, household items, or personal care products, BigDeal is your go-to <strong>supermarket near me</strong>—always stocked, always affordable.
+        Whether you need groceries, household items, or personal care products, BigDeal Supermartis your go-to <strong>supermarket near me</strong>—always stocked, always affordable.
       </p>
 
       <h2>Contact Store Locator Franchise—Start Your Business Journey</h2>
@@ -284,7 +280,7 @@
       <p>
         Our franchise model is royalty-free, backed by complete training and support, and allows you to open in just <strong>45 days</strong>.
       </p>
-      <p><strong>👉 <a href="#home">Start Your Franchise Application</a></strong></p>
+      <p><strong>👉 <a href="https://www.bigdealsupermart.com/start-your-franchise">Start Your Franchise Application</a></strong></p>
 
       <h2>Our Head Office</h2>
       <p>Want to speak directly or visit us for formal discussions, documentation, or collaborations?</p>
@@ -301,7 +297,7 @@
       </p>
       <p>Whether you're:</p>
       <ul>
-        <li>Inquiring about your nearest BigDeal supermarket</li>
+        <li>Inquiring about your nearest BigDeal Supermart</li>
         <li>Exploring a franchise opportunity</li>
         <li>Looking for help with an existing store</li>
       </ul>

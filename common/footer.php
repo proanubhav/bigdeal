@@ -4,7 +4,7 @@
             <div class="col-12">
                 <div class="logo justify-content-center mb-4">
                     <a href="/">
-                        <img src="assets/img/bigdeal-supermart-logo.webp" alt="Bigdeal Supermart Franchise logo">
+                        <img src="assets/img/bigdeal-supermart-logo.webp" alt="BigDeal Supermart Franchise logo">
                     </a>
                 </div>
                 <div class="footer-link">

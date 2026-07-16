@@ -7,6 +7,10 @@
   <link rel="stylesheet" href="assets/css/style-min.css" as="style">
   <!-- <link rel="stylesheet" href="assets/css/font-awesome.min.css"> -->
   <meta name="google-site-verification" content="jFFlcONwEK37xx0zZqBN92zMxmOp8-yTTcTqP6xRMgw">
+  <meta name="geo.region" content="IN-HR">
+  <meta name="geo.placename" content="Faridabad, Haryana">
+  <meta name="geo.position" content="28.4804928;77.3083983">
+  <meta name="ICBM" content="28.4804928, 77.3083983">
   <?php include __DIR__ . '/site-schema.php'; ?>
   
 

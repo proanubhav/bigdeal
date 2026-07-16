@@ -23,7 +23,7 @@
                         </div>
                         <div class="meta-date"></div>
                         <div class="content-box">
-                            <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
+                            <p>Talk about objectives, capital and the type of BigDeal Supermart Franchise.</p>
                         </div>
                     </div>
                     <div class="timeline-article timeline-article-top">
@@ -32,7 +32,7 @@
                         </div>
                         <div class="meta-date"></div>
                         <div class="content-box">
-                            <p>Fill up and file the BigDeal franchise application form.</p>
+                            <p>Fill up and file the BigDeal Supermart Franchise application form.</p>
                         </div>
                     </div>
                     <div class="timeline-article timeline-article-bottom">
@@ -59,7 +59,7 @@
                         </div>
                         <div class="meta-date"></div>
                         <div class="content-box">
-                            <p>Attend training and installation before opening a new Bigdeal franchise!</p>
+                            <p>Attend training and installation before opening a new BigDeal Supermart Franchise!</p>
                         </div>
                     </div>
                 </div>

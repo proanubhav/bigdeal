@@ -11,9 +11,9 @@
   <meta name="description"
     content="Learn about BigDeal Supermart, the grocery franchise brand behind a zero-royalty, ₹10-25L supermarket franchise model with 45-day launch support across India.">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="About BigDeal Supermart | Zero-Royalty Grocery Franchise in India">
   <meta property="og:url" content="https://www.bigdealsupermart.com/about">
@@ -39,9 +39,6 @@
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
@@ -81,7 +78,7 @@
 
         <div class="col-lg-8 offset-lg-2 mt-5">
           <div class="">
-            <img src="assets/img/bigdeal-team-mates.svg" class="img-fluid" alt="bigdeal staffs">
+            <img src="assets/img/bigdeal-team-mates.svg" class="img-fluid" alt="BigDeal Supermartstaffs">
           </div>
         </div>
       </div>
@@ -95,8 +92,8 @@
           <div class="serv_article_card">
             <div class="intro_sec_area">
               <h2>The Smart Way to Start a <span class="main-green">Supermarket Franchise</span></h2>
-              <p>Establishing a supermarket chain benefits an investor at present times. BigDeal Supermarket franchise is a perfect place to begin and actualize one’s dreams. Big Deal Supermarket business franchisees enjoy a low risk and high return imitation of a working business model and thus it is understandable. We offer every tool and support that you need to establish and run your store successfully. We have elaborate coverage that includes real-time inventories and sales strategies, marketing and training so that you are already ready for business when you come to us.</p>
-              <p>Join Bigdeal Supermarket and be part of an industry-leading franchise that puts your success first.</p>
+              <p>Establishing a supermarket chain benefits an investor at present times. BigDeal Supermart franchise is a perfect place to begin and actualize one’s dreams. Big Deal Supermarket business franchisees enjoy a low risk and high return imitation of a working business model and thus it is understandable. We offer every tool and support that you need to establish and run your store successfully. We have elaborate coverage that includes real-time inventories and sales strategies, marketing and training so that you are already ready for business when you come to us.</p>
+              <p>Join BigDeal Supermart and be part of an industry-leading franchise that puts your success first.</p>
             </div>
           </div>
         </div>
@@ -142,7 +139,7 @@
         various store formats like <strong>Mini Mart</strong>, <strong>Super Mart</strong>, and <strong>Hyper Mart</strong> stores.
       </p>
       <p>
-        From your first day of operation, BigDeal provides complete support through a comprehensive network of franchise assets:
+        From your first day of operation, BigDeal Supermartprovides complete support through a comprehensive network of franchise assets:
       </p>
       <ul>
         <li>Streamlined store setup</li>
@@ -157,13 +154,13 @@
 
       <h2>Our Mission</h2>
       <p>
-        BigDeal aims to provide Indian entrepreneurs with an effective supermarket franchise system that generates revenue while boosting 
+        BigDeal Supermartaims to provide Indian entrepreneurs with an effective supermarket franchise system that generates revenue while boosting 
         expansion, independence, and strengthening community markets.
       </p>
 
       <h2>Our Vision</h2>
       <p>
-        BigDeal aims to establish the premier supermarket franchise network in India through its commitment to delivering retail solutions 
+        BigDeal Supermartaims to establish the premier supermarket franchise network in India through its commitment to delivering retail solutions 
         that combine price affordability with innovative, market-tailored approaches.
       </p>
       <p>
@@ -182,7 +179,7 @@
 
       <h2>Why BigDeal Supermart?</h2>
       <p>
-        The modern retail landscape demands convenience, variety, and cost-efficiency. BigDeal delivers all three—while offering 
+        The modern retail landscape demands convenience, variety, and cost-efficiency. BigDeal Supermartdelivers all three—while offering 
         franchisees an easy-to-launch, easy-to-scale model.
       </p>
 
@@ -224,7 +221,7 @@
 
       <h2>A Proven Model for the Indian Market</h2>
       <p>
-        With years of retail experience in India, BigDeal understands what works—and what doesn’t. Our blueprint is tailored to:
+        With years of retail experience in India, BigDeal Supermartunderstands what works—and what doesn’t. Our blueprint is tailored to:
       </p>
       <ul>
         <li>Changing consumer behavior</li>
@@ -237,14 +234,14 @@
 
       <h2>Real People. Real Growth. Real Impact.</h2>
       <p>
-        Behind every BigDeal store is a local entrepreneur who said yes to possibility. Today, our partners are running successful 
+        Behind every BigDeal Supermart Store is a local entrepreneur who said yes to possibility. Today, our partners are running successful 
         supermarkets, creating jobs, serving communities, and building generational wealth.
       </p>
       <p><strong>And you could be next.</strong></p>
 
       <h2>Ready to Build Your Legacy?</h2>
       <p>
-        Opening a BigDeal store offers financial independence, individual growth, and long-term business success.
+        Opening a BigDeal Supermart Store offers financial independence, individual growth, and long-term business success.
       </p>
       <p>
         Your trusted journey for both neighborhood convenience and investment growth starts here—with BigDeal.

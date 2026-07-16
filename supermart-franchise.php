@@ -11,9 +11,9 @@
   <meta name="description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Start your Franchise with BigDeal Supermart in India">
   <meta property="og:url" content="https://www.bigdealsupermart.com/supermart-franchise">
@@ -39,9 +39,6 @@
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
@@ -61,7 +58,7 @@
         <div class="col-12">
           <div class="serv_article_card apply_franchise_head">
             <h1 class="text-center mb-3">Big Profit with BigDeal</h1>
-            <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise!
+            <p class="text-center mb-1">Discover a joyous investment opportunity with a BigDeal Supermart Franchise!
               Our franchise model is built for a high-profit margin and strong back up to support you all along the way.
             </p>
           </div>
@@ -199,21 +196,21 @@
           <div class="row">
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/Maximum_Profits.svg" alt="Affordable Pricing">
+                <img src="assets/img/Maximum_Profits.svg" alt="Maximum profits illustration">
                 <h3>Maximum Profits</h3>
-                <p>With proven BigDeal franchise model, maximize your profits.</p>
+                <p>With proven BigDeal Supermart Franchise model, maximize your profits.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/Renowned_Brand.svg" alt="Timely Delivered">
+                <img src="assets/img/Renowned_Brand.svg" alt="Renowned brand illustration">
                 <h3>Renowned Brand</h3>
                 <p>Kick-off easily backed by Bigdeal's existing customers.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/full_assistance.svg" alt="Experienced Team">
+                <img src="assets/img/full_assistance.svg" alt="Full franchise assistance illustration">
                 <h3>Full Assistance</h3>
                 <p>We're in support throughout.</p>
               </div>
@@ -249,7 +246,7 @@
                   </div>
                   <div class="meta-date"></div>
                   <div class="content-box">
-                    <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
+                    <p>Talk about objectives, capital and the type of BigDeal Supermart Franchise.</p>
                   </div>
                 </div>
                 <div class="timeline-article timeline-article-top">
@@ -258,7 +255,7 @@
                   </div>
                   <div class="meta-date"></div>
                   <div class="content-box">
-                    <p>Fill up and file the BigDeal franchise application form.</p>
+                    <p>Fill up and file the BigDeal Supermart Franchise application form.</p>
                   </div>
                 </div>
                 <div class="timeline-article timeline-article-bottom">
@@ -285,7 +282,7 @@
                   </div>
                   <div class="meta-date"></div>
                   <div class="content-box">
-                    <p>Attend training and installation before opening a new Bigdeal franchise!</p>
+                    <p>Attend training and installation before opening a new BigDeal Supermart Franchise!</p>
                   </div>
                 </div>
               </div>

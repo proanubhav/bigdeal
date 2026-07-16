@@ -7,41 +7,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Refund Policy | Bigdeal Supermart Franchise</title>
+    <title>Refund Policy | BigDeal Supermart Franchise</title>
     <meta name="description"
-        content="Read the Bigdeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
+        content="Read the BigDeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
     <meta name="keywords"
-        content="Refund Policy, Bigdeal Supermart, Franchise Refund Policy, Site Visit Fee, Franchise Fee, Site Locking Amount, Supermarket Franchise">
+        content="Refund Policy, BigDeal Supermart, Franchise Refund Policy, Site Visit Fee, Franchise Fee, Site Locking Amount, Supermarket Franchise">
 
-    <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+    <meta property="og:site_name" content="BigDeal Supermart Franchise">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="Refund Policy | Bigdeal Supermart Franchise">
+    <meta property="og:title" content="Refund Policy | BigDeal Supermart Franchise">
     <meta property="og:url" content="https://www.bigdealsupermart.com/refund-policy">
     <meta property="og:description"
-        content="Read the Bigdeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
+        content="Read the BigDeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
     <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-    <meta property="og:image:alt" content="Bigdeal Supermart Franchise">
+    <meta property="og:image:alt" content="BigDeal Supermart Franchise">
     <meta property="og:type" content="service">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:domain" content="www.bigdealsupermart.com">
-    <meta name="twitter:title" content="Refund Policy | Bigdeal Supermart Franchise">
+    <meta name="twitter:title" content="Refund Policy | BigDeal Supermart Franchise">
     <meta name="twitter:url" content="https://www.bigdealsupermart.com/refund-policy">
     <meta name="twitter:description"
-        content="Read the Bigdeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
+        content="Read the BigDeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
     <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-    <meta itemprop="name" content="Refund Policy | Bigdeal Supermart Franchise">
+    <meta itemprop="name" content="Refund Policy | BigDeal Supermart Franchise">
     <meta itemprop="url" content="https://www.bigdealsupermart.com/refund-policy">
     <meta itemprop="description"
-        content="Read the Bigdeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
+        content="Read the BigDeal Supermart refund policy for site visits, site locking amounts, franchise fees, software fees, refund timelines, and dispute jurisdiction.">
     <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
     <link rel="canonical" href="https://www.bigdealsupermart.com/refund-policy">
 
     <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
     <meta name="robots" content="index, follow">
-    <meta http-equiv="cache-control" content="max-age=0" />
-    <meta http-equiv="cache-control" content="no-cache" />
-    <meta http-equiv="pragma" content="no-cache" />
-
     <?php include 'common/stylesheet.php'; ?>
 
 </head>
@@ -55,8 +51,8 @@
                 <div class="col-12">
                     <h1>Refund Policy</h1>
                     <p><strong>Last Updated:</strong> 1 June 2026</p>
-                    <p>At Bigdeal Supermart (a brand of STS Ventures Pvt. Ltd.), we are committed to maintaining transparency, professionalism, and trust throughout our franchise onboarding process. This Refund Policy clearly defines the conditions under which payments made towards our franchise services are refundable or non-refundable.</p>
-                    <p>By making any payment to Bigdeal Supermart, you acknowledge that you have read, understood, and agreed to the terms outlined in this policy.</p>
+                    <p>At BigDeal Supermart (a brand of STS Ventures Pvt. Ltd.), we are committed to maintaining transparency, professionalism, and trust throughout our franchise onboarding process. This Refund Policy clearly defines the conditions under which payments made towards our franchise services are refundable or non-refundable.</p>
+                    <p>By making any payment to BigDeal Supermart, you acknowledge that you have read, understood, and agreed to the terms outlined in this policy.</p>
 
                     <h2>1. Site Visit Fee - &#8377;20,000</h2>
                     <p>The Site Visit Fee is charged to evaluate the proposed store location. This includes:</p>
@@ -137,7 +133,7 @@
                     <ul>
                         <li>This policy is legally binding once payment is made</li>
                         <li>It will form part of the franchise agreement</li>
-                        <li>Bigdeal Supermart reserves the right to modify this policy anytime</li>
+                        <li>BigDeal Supermart reserves the right to modify this policy anytime</li>
                     </ul>
 
                     <h2>7. Jurisdiction</h2>

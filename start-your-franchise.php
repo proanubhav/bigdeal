@@ -11,9 +11,9 @@
   <meta name="description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Start your Franchise with BigDeal Supermart in India">
   <meta property="og:url" content="https://www.bigdealsupermart.com/start-your-franchise">
@@ -39,9 +39,6 @@
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
@@ -61,7 +58,7 @@
         <div class="col-12">
           <div class="serv_article_card apply_franchise_head">
             <h1 class="text-center mb-3">Big Profit with BigDeal</h1>
-            <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise!
+            <p class="text-center mb-1">Discover a joyous investment opportunity with a BigDeal Supermart Franchise!
               Our franchise model is built for a high-profit margin and strong back up to support you all along the way.
             </p>
           </div>
@@ -198,21 +195,21 @@
           <div class="row">
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/Maximum_Profits.svg" alt="Affordable Pricing">
+                <img src="assets/img/Maximum_Profits.svg" alt="Maximum profits illustration">
                 <h3>Maximum Profits</h3>
-                <p>With proven BigDeal franchise model, maximize your profits.</p>
+                <p>With proven BigDeal Supermart Franchise model, maximize your profits.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/Renowned_Brand.svg" alt="Timely Delivered">
+                <img src="assets/img/Renowned_Brand.svg" alt="Renowned brand illustration">
                 <h3>Renowned Brand</h3>
                 <p>Kick-off easily backed by Bigdeal's existing customers.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/full_assistance.svg" alt="Experienced Team">
+                <img src="assets/img/full_assistance.svg" alt="Full franchise assistance illustration">
                 <h3>Full Assistance</h3>
                 <p>We're in support throughout.</p>
               </div>
@@ -289,7 +286,7 @@
       <p>You choose the format. We deliver the structure.</p>
 
       <h3>Comprehensive Franchise Package Details</h3>
-      <p>Your BigDeal franchise includes everything needed to run a high-performance grocery store:</p>
+      <p>Your BigDeal Supermart Franchise includes everything needed to run a high-performance grocery store:</p>
       <ul>
         <li>Franchise License—brand rights</li>
         <li>Billing & Inventory Software—cloud-based & user-friendly</li>
@@ -311,7 +308,7 @@
       </ul>
       <p>This is an affordable franchise opportunity that pays off—fast.</p>
 
-      <h3>Who Can Become a BigDeal Franchise Partner?</h3>
+      <h3>Who Can Become a BigDeal Supermart Franchise Partner?</h3>
       <p>You don’t need a business degree or retail background. You just need:</p>
       <ul>
         <li>A commercially viable retail space (owned or leased)</li>
@@ -336,7 +333,7 @@
       <p><strong>Yes, in as little as 45 days, your BigDeal Supermart can be up and running.</strong></p>
 
       <h3>Apply Now to Start Your Franchise</h3>
-      <p><strong>Let’s Build Your BigDeal Store Together</strong></p>
+      <p><strong>Let’s Build Your BigDeal Supermart Store Together</strong></p>
       <p>
         Still thinking it over? Have questions?<br />
         Our team will guide you through every step and help you understand if franchise ownership is the right fit for you.

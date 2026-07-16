@@ -11,9 +11,9 @@
   <meta name="description"
     content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
   <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise">
@@ -39,9 +39,6 @@
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="noindex, nofollow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
@@ -56,10 +53,10 @@
     <div class="top_header">
       <div class="container">
         <ul>
-          <li><a href="javascript:void(0)">
-              <span class="email-text">connect@bigdealsupermart.com<span>
+          <li><a href="mailto:connect@bigdealsupermart.com">
+              <span class="email-text">connect@bigdealsupermart.com</span>
             </a></li>
-          <li><a href="javascript:void(0)">(+91) - 9891750328</a></li>
+          <li><a href="tel:+91-9891750328">(+91) - 9891750328</a></li>
         </ul>
       </div>
     </div>
@@ -70,7 +67,7 @@
           <div class="logo">
             <a href="https://www.bigdealsupermart.com/">
               <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
-                alt="Bigdeal Supermart Franchise logo">
+                alt="BigDeal Supermart Franchise logo">
             </a>
           </div>
         </div>
@@ -86,7 +83,7 @@
               <div class="logo">
                 <a href="https://www.bigdealsupermart.com/">
                   <img src="assets/img/bigdeal-supermart-logo.webp" width="130" height="51"
-                    alt="Bigdeal Supermart Franchise logo">
+                    alt="BigDeal Supermart Franchise logo">
                 </a>
               </div>
             </div>
@@ -122,7 +119,7 @@
         <div class="col-12">
           <div class="serv_article_card apply_franchise_head">
             <h1 class="text-center mb-3">Big Profit with BigDeal</h1>
-            <p class="text-center mb-1">Discover a joyous investment opportunity with a Bigdeal Supermarket Franchise!
+            <p class="text-center mb-1">Discover a joyous investment opportunity with a BigDeal Supermart Franchise!
               Our franchise model is built for a high-profit margin and strong back up to support you all along the way.
             </p>
           </div>
@@ -260,21 +257,21 @@
           <div class="row">
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/Maximum_Profits.svg" alt="Affordable Pricing">
+                <img src="assets/img/Maximum_Profits.svg" alt="Maximum profits illustration">
                 <h3>Maximum Profits</h3>
-                <p>With proven BigDeal franchise model, maximize your profits.</p>
+                <p>With proven BigDeal Supermart Franchise model, maximize your profits.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/Renowned_Brand.svg" alt="Timely Delivered">
+                <img src="assets/img/Renowned_Brand.svg" alt="Renowned brand illustration">
                 <h3>Renowned Brand</h3>
                 <p>Kick-off easily backed by Bigdeal's existing customers.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
               <div class="feat_card">
-                <img src="assets/img/full_assistance.svg" alt="Experienced Team">
+                <img src="assets/img/full_assistance.svg" alt="Full franchise assistance illustration">
                 <h3>Full Assistance</h3>
                 <p>We're in support throughout.</p>
               </div>
@@ -310,7 +307,7 @@
                   </div>
                   <div class="meta-date"></div>
                   <div class="content-box">
-                    <p>Talk about objectives, capital and the type of BigDeal franchise.</p>
+                    <p>Talk about objectives, capital and the type of BigDeal Supermart Franchise.</p>
                   </div>
                 </div>
                 <div class="timeline-article timeline-article-top">
@@ -319,7 +316,7 @@
                   </div>
                   <div class="meta-date"></div>
                   <div class="content-box">
-                    <p>Fill up and file the BigDeal franchise application form.</p>
+                    <p>Fill up and file the BigDeal Supermart Franchise application form.</p>
                   </div>
                 </div>
                 <div class="timeline-article timeline-article-bottom">
@@ -346,7 +343,7 @@
                   </div>
                   <div class="meta-date"></div>
                   <div class="content-box">
-                    <p>Attend training and installation before opening a new Bigdeal franchise!</p>
+                    <p>Attend training and installation before opening a new BigDeal Supermart Franchise!</p>
                   </div>
                 </div>
               </div>
@@ -462,17 +459,17 @@
       </div>
       <div class="brand_list">
         <ul class="first_list">
-          <li><img width="100" height="55" src="assets/img/2.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/7.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/6.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/5.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/4.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/3.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/1.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/Britannia_Industries.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/Haldirams_Logo.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/Kwality_Walls_logo.webp" alt="check border"></li>
-          <li><img width="100" height="55" src="assets/img/McCain-Logo.webp" alt="check border"></li>
+          <li><img width="100" height="55" src="assets/img/2.webp" alt="Colgate logo"></li>
+          <li><img width="100" height="55" src="assets/img/7.webp" alt="ITC Enduring Value logo"></li>
+          <li><img width="100" height="55" src="assets/img/6.webp" alt="Procter &amp; Gamble logo"></li>
+          <li><img width="100" height="55" src="assets/img/5.webp" alt="Hindustan Unilever Limited logo"></li>
+          <li><img width="100" height="55" src="assets/img/4.webp" alt="Dabur logo"></li>
+          <li><img width="100" height="55" src="assets/img/3.webp" alt="Patanjali logo"></li>
+          <li><img width="100" height="55" src="assets/img/1.webp" alt="Nestle logo"></li>
+          <li><img width="100" height="55" src="assets/img/Britannia_Industries.webp" alt="Britannia Industries logo"></li>
+          <li><img width="100" height="55" src="assets/img/Haldirams_Logo.webp" alt="Haldiram's logo"></li>
+          <li><img width="100" height="55" src="assets/img/Kwality_Walls_logo.webp" alt="Kwality Wall's logo"></li>
+          <li><img width="100" height="55" src="assets/img/McCain-Logo.webp" alt="McCain Foods logo"></li>
         </ul>
       </div>
     </div>
@@ -493,7 +490,7 @@
               <div class="wpb_text_column wpb_content_element ">
                 <div class="wpb_wrapper text-center">
                   <h2 class="text-center">Launch your Supermarket Franchise in just 45 Days with BigDeal</h2>
-                  <p class="text-center text-white">Opt for a BigDeal Supermarket Franchise today and ensure your future
+                  <p class="text-center text-white">Opt for a BigDeal Supermart Franchise today and ensure your future
                     self with financial security and the opportunity to build a thriving business. Cater to your
                     community and seek everyone’s blessings!</p>
                   <div class="btn-box">
@@ -531,14 +528,14 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne"
                         aria-expanded="true" aria-controls="collapseOne">
-                        How much would it cost to open a franchise for BigDeal in the beginning?
+                        How much would it cost to open a franchise for BigDeal Supermartin the beginning?
                       </button>
                     </h3>
                   </div>
 
                   <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      The cost of investment in a BigDeal franchise in India generally lies between ₹10 to ₹25 lakhs,
+                      The cost of investment in a BigDeal Supermart Franchise in India generally lies between ₹10 to ₹25 lakhs,
                       based
                       on the location and size of the outlet. This encompasses the franchise fees, equipment, stock, and
                       also the running costs. Our team gives a detailed analysis for you to understand the breakdown of
@@ -552,13 +549,13 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
                         aria-expanded="false" aria-controls="collapseSix">
-                        To what extent can someone expect to earn from a BigDeal franchise?
+                        To what extent can someone expect to earn from a BigDeal Supermart Franchise?
                       </button>
                     </h3>
                   </div>
                   <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                     <div class="card-body">
-                      Most BigDeal franchises earn approximately 20% profit margins. The above-stated margins vary with
+                      Most BigDeal Supermart Franchises earn approximately 20% profit margins. The above-stated margins vary with
                       the site, the size of the store, and how well the business is managed. Additionally, the structure
                       of our business operations and constant help from our consultants serve to help enhance your
                       returns and make profits when it comes to the retail markets.
@@ -570,13 +567,13 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
                         aria-expanded="false" aria-controls="collapseSeven">
-                        What is the process of applying for the BigDeal franchise?
+                        What is the process of applying for the BigDeal Supermart Franchise?
                       </button>
                     </h3>
                   </div>
                   <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
                     <div class="card-body">
-                      Complete the application form on BigDeal franchise website. After receiving and reviewing your
+                      Complete the application form on BigDeal Supermart Franchise website. After receiving and reviewing your
                       application, we will arrange a meeting in order to get to know you and your objectives, perform a
                       visit to the location and provide you with information on the further course of action.
                     </div>
@@ -610,7 +607,7 @@
                   </div>
                   <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                     <div class="card-body">
-                      BigDeal franchise support provides strong marketing assistance such as creating and implementing
+                      BigDeal Supermart Franchise support provides strong marketing assistance such as creating and implementing
                       online marketing plans, running branding advertisements, and providing collateral. Franchisees are
                       provided with marketing kits every 3 months consisting of marketing materials appropriate to the
                       target market making sure the store has customers and retains them while creating brand equity.
@@ -632,7 +629,7 @@
                   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
                       For four weeks, we offer in-depth training focused on how to operate a store, manage the stock,
-                      interact with customers, and implement marketing tactics. Our BigDeal franchise support helps you
+                      interact with customers, and implement marketing tactics. Our BigDeal Supermart Franchise support helps you
                       keep up with the current market trends and practices so that you prepare well for the running of
                       your franchise, thus paving the way for the future success of the business.
                     </div>
@@ -667,7 +664,7 @@
                   </div>
                   <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                     <div class="card-body">
-                      Once the Bigdeal Supermarket franchise has been opened, there is continuous support that is
+                      Once the BigDeal Supermart franchise has been opened, there is continuous support that is
                       offered to the franchisee concerning the operations of the business, marketing and event
                       management. Also included are updates concerning the business environment and trends quarterly,
                       along with quarterly business reviews to provide you with all necessary tools to further enhance
@@ -680,13 +677,13 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
                         aria-expanded="false" aria-controls="collapseFive">
-                        How is product quality maintained by BigDeal company?
+                        How is product quality maintained by BigDeal Supermartcompany?
                       </button>
                     </h3>
                   </div>
                   <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
                     <div class="card-body">
-                      BigDeal Supermarket franchise aims to satisfy all customers by providing quality products. We have
+                      BigDeal Supermart franchise aims to satisfy all customers by providing quality products. We have
                       worked with more than a hundred suppliers who we trust and we regularly inspect their quality. We
                       pay particular attention to young perishable goods and equity goods aiming at letting its
                       franchisees offer the most affordable quality products to consumers.
@@ -698,7 +695,7 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
                         aria-expanded="false" aria-controls="collapseEight">
-                        Is it possible to run a BigDeal franchise on a part-time basis?
+                        Is it possible to run a BigDeal Supermart Franchise on a part-time basis?
                       </button>
                     </h3>
                   </div>

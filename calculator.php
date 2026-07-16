@@ -9,16 +9,16 @@
 
   <title>Franchise Investment Calculator | BigDeal Supermart | Estimate ₹10-25L Cost</title>
   <meta name="description"
-    content="Estimate your BigDeal grocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
+    content="Estimate your BigDeal Supermartgrocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Franchise Investment Calculator | BigDeal Supermart | Estimate ₹10-25L Cost">
   <meta property="og:url" content="https://www.bigdealsupermart.com/calculator">
   <meta property="og:description"
-    content="Estimate your BigDeal grocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
+    content="Estimate your BigDeal Supermartgrocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
@@ -28,20 +28,17 @@
   <meta name="twitter:title" content="Franchise Investment Calculator | BigDeal Supermart | Estimate ₹10-25L Cost">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/calculator">
   <meta name="twitter:description"
-    content="Estimate your BigDeal grocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
+    content="Estimate your BigDeal Supermartgrocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta itemprop="name" content="Franchise Investment Calculator | BigDeal Supermart | Estimate ₹10-25L Cost">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/calculator">
   <meta itemprop="description"
-    content="Estimate your BigDeal grocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
+    content="Estimate your BigDeal Supermartgrocery or supermarket franchise investment. Compare Mini, Super, and Hyper Mart setup costs, formats, and launch budgets.">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <link rel="canonical" href="https://www.bigdealsupermart.com/calculator">
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>
@@ -197,7 +194,7 @@
         <h2>Franchise Opening Cost Calculator</h2>
         <h3>Plan Your Retail Business with Confidence</h3>
         <p>
-          Starting a grocery franchise in India has never been more accessible—and knowing your exact startup costs is the first step to building a successful venture. Most BigDeal formats fall within a ₹10-25 lakh investment range, and this calculator helps you estimate how your city, store size, and setup plan influence that final number.
+          Starting a grocery franchise in India has never been more accessible—and knowing your exact startup costs is the first step to building a successful venture. Most BigDeal Supermartformats fall within a ₹10-25 lakh investment range, and this calculator helps you estimate how your city, store size, and setup plan influence that final number.
         </p>
         <p>
           Through its user-friendly interface, the Franchise Opening Cost Calculator generates a complete cost analysis for Mini Mart Franchises, Super Mart Franchises, and Hyper Mart Franchises.
@@ -274,7 +271,7 @@
 
         <h3>BigDeal Supermart—A Smart Step Into India’s Retail Revolution</h3>
         <p>
-          From Tier-2 cities to metro zones, BigDeal is rapidly becoming one of India’s most trusted names in grocery franchising. With low investment, high margins, and full operational support, your journey starts here—with clarity, confidence, and the right tools.
+          From Tier-2 cities to metro zones, BigDeal Supermartis rapidly becoming one of India’s most trusted names in grocery franchising. With low investment, high margins, and full operational support, your journey starts here—with clarity, confidence, and the right tools.
         </p>
 
         <p><strong>Use the Franchise Investment Calculator Today</strong></p>

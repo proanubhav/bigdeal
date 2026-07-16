@@ -49,6 +49,12 @@
         "postalCode": "121003",
         "addressCountry": "IN"
       },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4804928,
+        "longitude": 77.3083983
+      },
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=12%2F2+1st+Floor+Sapna+Market+Sector+37+Faridabad+Haryana+121003",
       "areaServed": {
         "@type": "Country",
         "name": "India"

@@ -7,15 +7,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Thank you | BigDeal Supermarket Franchise</title>
+  <title>Thank you | BigDeal Supermart Franchise</title>
   <meta name="description"
     content="Thank you for contacting BigDeal Supermart. Our franchise team will reach out shortly.">
   <meta name="keywords"
-    content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+    content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-  <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+  <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Thank you | BigDeal Supermarket Franchise">
+  <meta property="og:title" content="Thank you | BigDeal Supermart Franchise">
   <meta property="og:url" content="https://www.bigdealsupermart.com/thank-you">
   <meta property="og:description"
     content="Thank you for contacting BigDeal Supermart. Our franchise team will reach out shortly.">
@@ -25,12 +25,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="Thank you | BigDeal Supermarket Franchise">
+  <meta name="twitter:title" content="Thank you | BigDeal Supermart Franchise">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/thank-you">
   <meta name="twitter:description"
     content="Thank you for contacting BigDeal Supermart. Our franchise team will reach out shortly.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="Thank you | BigDeal Supermarket Franchise">
+  <meta itemprop="name" content="Thank you | BigDeal Supermart Franchise">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/thank-you">
   <meta itemprop="description"
     content="Thank you for contacting BigDeal Supermart. Our franchise team will reach out shortly.">
@@ -39,9 +39,6 @@
 
   <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
   <meta name="robots" content="noindex, nofollow">
-  <meta http-equiv="cache-control" content="max-age=0" />
-  <meta http-equiv="cache-control" content="no-cache" />
-  <meta http-equiv="pragma" content="no-cache" />
 
   <!-- Stylesheets -->
   <?php include 'common/stylesheet.php'; ?>

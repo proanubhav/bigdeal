@@ -11,11 +11,11 @@
     <meta name="description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
     <meta name="keywords"
-        content="Supermarket Franchise, BigDeal Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, Big Deal Supermart, Supermarket Franchise Model">
+        content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
-    <meta property="og:site_name" content="Bigdeal Supermart Franchise">
+    <meta property="og:site_name" content="BigDeal Supermart Franchise">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="Privacy Policy Bigdeal Supermart">
+    <meta property="og:title" content="Privacy Policy BigDeal Supermart">
     <meta property="og:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta property="og:description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:domain" content="www.bigdealsupermart.com">
     <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-    <meta name="twitter:title" content="Privacy Policy Bigdeal Supermart">
+    <meta name="twitter:title" content="Privacy Policy BigDeal Supermart">
     <meta name="twitter:url" content="https://www.bigdealsupermart.com/privacy-policy">
     <meta name="twitter:description"
         content="Discover BigDeal's success story and Supermarket Franchise Model. Join India’s leading Supermart franchise for growth opportunities. Learn about us!">
@@ -39,9 +39,6 @@
 
     <link rel="icon" href="assets/img/big-deal-favicon.png" sizes="16x16" type="image/png">
     <meta name="robots" content="index, follow">
-    <meta http-equiv="cache-control" content="max-age=0" />
-    <meta http-equiv="cache-control" content="no-cache" />
-    <meta http-equiv="pragma" content="no-cache" />
 
     <!-- Stylesheets -->
     <?php include 'common/stylesheet.php'; ?>
@@ -61,7 +58,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1>Privacy Policy</h1>
-                    <p>Welcome to Bigdeal Supermart! Your privacy is important to us. This Privacy Policy
+                    <p>Welcome to BigDeal Supermart! Your privacy is important to us. This Privacy Policy
                         explains how we collect, use, and protect the personal information you provide to us through our
                         website, services, or interactions with our company. By using our website or services, you
                         consent to the terms outlined in this policy.</p>
