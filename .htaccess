@@ -1,3 +1,10 @@
+# Redirect non-www URLs to the canonical HTTPS www domain.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^bigdealsupermart\.com(?::[0-9]+)?$ [NC]
+    RewriteRule ^ https://www.bigdealsupermart.com%{REQUEST_URI} [R=301,L,NE]
+</IfModule>
+
 # Redirect browser requests for PHP pages to their extensionless URLs.
 # THE_REQUEST excludes internal rewrites, preventing redirect loops.
 # Keep form submissions on their original endpoint.
