@@ -7,33 +7,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Supermarket Franchise | BigDeal Supermart- ₹10-25L, Zero Royalty</title>
+  <title>Supermarket Franchise in India | BigDeal Supermart - Zero Royalty</title>
   <meta name="description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Own a grocery or supermarket franchise in India with BigDeal Supermart. Zero royalty, three store formats, full setup and 4-week training. Apply now.">
   <meta name="keywords"
-    content="supermarket franchise, grocery store franchise, mini grocery store franchise, supermarket franchise in India, grocery mart franchise, mart franchise, mini grocery franchise, supermarket franchise opportunities, super market franchise, grocery supermarket franchise, franchise super market, franchise of supermarket, small grocery store franchise, departmental store franchise, hypermarket franchise, mini supermarket franchise, mart franchise cost, best supermarket franchise, mini mart franchise, supermarket franchise cost, small supermarket franchise, grocery franchise">
+    content="supermarket franchise, grocery store franchise, mini grocery store franchise, supermarket franchise in India, grocery mart franchise, mart franchise, mini grocery franchise, supermarket franchise opportunities, super market franchise, grocery supermarket franchise, franchise super market, franchise of supermarket, small grocery store franchise, departmental store franchise, hypermarket franchise, mini supermarket franchise, mart franchise cost, mini mart franchise, supermarket franchise cost, small supermarket franchise, grocery franchise">
 
   <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Supermarket Franchise | BigDeal Supermart - ₹10-25L, Zero Royalty">
+  <meta property="og:title" content="Supermarket Franchise in India | BigDeal Supermart - Zero Royalty">
   <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta property="og:description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Own a grocery or supermarket franchise in India with BigDeal Supermart. Zero royalty, three store formats, full setup and 4-week training. Apply now.">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="Supermarket Franchise | BigDeal Supermart - ₹10-25L, Zero Royalty">
+  <meta name="twitter:title" content="Supermarket Franchise in India | BigDeal Supermart - Zero Royalty">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta name="twitter:description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Own a grocery or supermarket franchise in India with BigDeal Supermart. Zero royalty, three store formats, full setup and 4-week training. Apply now.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="Supermarket Franchise | BigDeal Supermart - ₹10-25L, Zero Royalty">
+  <meta itemprop="name" content="Supermarket Franchise in India | BigDeal Supermart - Zero Royalty">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta itemprop="description"
-    content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
+    content="Own a grocery or supermarket franchise in India with BigDeal Supermart. Zero royalty, three store formats, full setup and 4-week training. Apply now.">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <link rel="canonical" href="https://www.bigdealsupermart.com/apply-franchise">
 
@@ -129,27 +129,27 @@
         <div class="franchise-workshop-copy">
           <h1>
             <span class="hero-line">Own a Grocery or Supermarket Franchise in India.</span>
-            <span class="hero-line"><span class="is-accent">Zero Royalty.</span> 100% Your Profit.</span>
+            <span class="hero-line"><span class="is-accent">Zero Royalty.</span> No Revenue Share.</span>
           </h1>
-          <p>BigDeal Supermart gives you a ready-to-run grocery store or supermarket franchise with a proven business model, complete store setup, and a team that stays with you from day one.</p>
+          <p>BigDeal Supermart sets up your grocery store or supermarket franchise end to end - site assessment, interiors, billing systems, opening stock and staff training - and charges no royalty on what you sell afterwards.</p>
         </div>
 
         <div class="franchise-hero-stats" aria-label="BigDeal Supermart franchise highlights">
           <div class="franchise-hero-stat">
             <strong>45 Days</strong>
-            <span>From sign-up to store launch</span>
+            <span>Typical signing-to-launch timeline</span>
           </div>
           <div class="franchise-hero-stat">
-            <strong>₹10-25L</strong>
-            <span>Total investment range</span>
+            <strong>₹13L+</strong>
+            <span>Starting investment, by format</span>
           </div>
           <div class="franchise-hero-stat">
-            <strong>20%</strong>
-            <span>Average profit margins</span>
+            <strong>3</strong>
+            <span>Store formats, 500 to 10,000+ sq ft</span>
           </div>
           <div class="franchise-hero-stat">
             <strong>0%</strong>
-            <span>Royalty fee - ever</span>
+            <span>Royalty on your sales - ever</span>
           </div>
         </div>
 
@@ -177,13 +177,13 @@
         <div class="franchise-lead-form-copy">
           <span class="franchise-lead-form-label">APPLY FOR FRANCHISE</span>
           <h2>Check supermarket franchise availability in your city</h2>
-          <p>BigDeal Supermart operates a limited number of grocery and supermarket franchise locations per city to protect each partner's market. Fill in your details and our franchise consultant calls you within 4 business hours.</p>
+          <p>BigDeal Supermart appoints a limited number of grocery and supermarket franchise partners per city so territories do not overlap. Send your details and a franchise consultant calls you within 4 business hours to confirm whether your area is open.</p>
 
           <ul class="franchise-lead-form-points">
             <li>No payment, no commitment until you are fully satisfied with the terms.</li>
-            <li>Complete cost breakdown - franchise fee, setup, and working capital - shared before you sign anything.</li>
-            <li>City-specific ROI projections prepared by our franchise consultants.</li>
-            <li>No prior retail experience needed. Our 4-week training covers everything.</li>
+            <li>Complete cost breakdown - franchise fee, setup, opening stock and working capital - itemised in writing.</li>
+            <li>A written cost sheet for your chosen format before any agreement is signed.</li>
+            <li>No prior retail experience required - our 4-week training covers billing, stock and staffing.</li>
           </ul>
         </div>
 
@@ -218,9 +218,9 @@
                 <label for="investmentBudget">Investment budget *</label>
                 <select name="investmentBudget" id="investmentBudget">
                   <option value="" disabled selected>Select investment budget</option>
-                  <option value="₹10-12L (Mini Mart)">₹10-12L (Mini Mart)</option>
-                  <option value="₹15-18L (Super Mart)">₹15-18L (Super Mart)</option>
-                  <option value="₹20-25L (Hyper Mart)">₹20-25L (Hyper Mart)</option>
+                  <option value="₹13-32L (Mini Mart)">₹13-32L (Mini Mart)</option>
+                  <option value="₹33-82L (Super Mart)">₹33-82L (Super Mart)</option>
+                  <option value="₹83L+ (Hyper Mart)">₹83L+ (Hyper Mart)</option>
                   <option value="Still exploring">Still exploring</option>
                 </select>
                 <span class="prettyprint" id="investmentBudget_error"></span>
@@ -230,9 +230,9 @@
                 <label for="area">Store space available</label>
                 <select name="area" id="area">
                   <option value="" disabled selected>Select store space</option>
-                  <option value="500-800 sq ft">500-800 sq ft</option>
-                  <option value="800-1,200 sq ft">800-1,200 sq ft</option>
-                  <option value="1,200+ sq ft">1,200+ sq ft</option>
+                  <option value="500-1,500 sq ft">500-1,500 sq ft</option>
+                  <option value="1,500-4,000 sq ft">1,500-4,000 sq ft</option>
+                  <option value="4,000+ sq ft">4,000+ sq ft</option>
                   <option value="Still searching">Still searching</option>
                 </select>
                 <span class="prettyprint" id="area_error"></span>
@@ -283,22 +283,22 @@
         <div class="franchise-challenge-grid">
           <article class="franchise-challenge-card">
             <h3>No brand recognition</h3>
-            <p>You spend months, sometimes years, building trust. An independent grocery store or small grocery store franchise starts from zero. A BigDeal Supermart Franchise starts with a recognised name on day one.</p>
+            <p>An independent kirana store or small grocery store franchise opens to an empty catchment and earns trust slowly. A BigDeal Supermart franchise opens under a name shoppers already recognise, with signage, uniforms and store standards in place.</p>
           </article>
 
           <article class="franchise-challenge-card">
             <h3>No supply chain</h3>
-            <p>Getting top brands at competitive prices takes years of vendor relationships. Most independent grocery businesses overpay or cannot stock the brands customers actually want.</p>
+            <p>Buying rates depend on volume, and a single store has none. Independent grocery businesses routinely pay more per unit than chains and still cannot stock the lines shoppers ask for. Franchise partners buy through BigDeal Supermart's vendor network instead.</p>
           </article>
 
           <article class="franchise-challenge-card">
             <h3>No proven operating system</h3>
-            <p>Inventory, billing, staffing, and store layout are expensive to figure out alone. A BigDeal Supermart franchise gives you every system already built.</p>
+            <p>Shelf layout, reorder levels, billing software, shrinkage control and staff roles are all learned the expensive way. A BigDeal Supermart franchise hands you these as working systems, with four weeks of training on how to run them.</p>
           </article>
 
           <article class="franchise-challenge-card">
-            <h3>High upfront risk, slow ROI</h3>
-            <p>Most independent grocery stores take 3-5 years to break even. BigDeal Supermart grocery franchise partners target 18-24 month ROI with 20% average profit margins.</p>
+            <h3>Capital committed before you know the numbers</h3>
+            <p>Fit-out quotes, stock lists and staffing costs usually arrive piecemeal, so the true cost only becomes clear after money is spent. BigDeal Supermart issues one itemised cost sheet up front, before any agreement is signed.</p>
           </article>
         </div>
       </div>
@@ -311,7 +311,7 @@
         <div class="franchise-why-bigdeal-content">
           <span class="franchise-why-bigdeal-label">WHY BIGDEAL</span>
           <h2>BigDeal Supermart gives you a working supermarket franchise business - not just a brand name.</h2>
-          <p>Every grocery mart franchise partner gets everything needed to open and run a profitable store from day one - with no royalty, no hidden charges, and full ongoing support.</p>
+          <p>Every grocery mart franchise partner gets the brand, the supply chain, the systems and the training needed to trade from day one - with no royalty, no revenue share and no hidden charges.</p>
           <a class="franchise-why-bigdeal-cta" href="#franchise-application">Apply Now</a>
         </div>
 
@@ -321,7 +321,7 @@
               <img src="assets/img/BigDeal-Franchise.svg" alt="Zero royalty franchise illustration" loading="lazy">
             </div>
             <h3>Zero royalty - ever</h3>
-            <p>100% of your store's profits belong to you. No monthly royalty cuts and no revenue sharing. BigDeal Supermart earns nothing from your daily grocery sales.</p>
+            <p>No monthly royalty and no revenue share. BigDeal Supermart takes no percentage of your daily grocery sales - what your store earns after its own costs stays with you.</p>
           </article>
 
           <article class="franchise-why-bigdeal-card">
@@ -329,15 +329,15 @@
               <img src="assets/img/bigdeal-team-mates.svg" alt="Launch support illustration" loading="lazy">
             </div>
             <h3>Grocery or supermarket franchise - launch in 45 days</h3>
-            <p>From signing to opening day, BigDeal Supermart manages setup, interiors, branding, and staff training for your mini mart, super mart, or hypermarket franchise.</p>
+            <p>From signing to opening day, BigDeal Supermart handles interiors, fixtures, branding, opening stock and staff training for your mini mart, super mart or hypermarket franchise. The typical window is 45 days once the site is finalised.</p>
           </article>
 
           <article class="franchise-why-bigdeal-card">
             <div class="franchise-why-bigdeal-media">
               <img src="assets/img/Maximum_Profits.svg" alt="Profit margin illustration" loading="lazy">
             </div>
-            <h3>20% average profit margins</h3>
-            <p>Our grocery mart franchise partners benefit from supply chain pricing power, operational support systems, and a model built around margin control.</p>
+            <h3>Buying power of the full network</h3>
+            <p>Your grocery mart franchise orders at network rates rather than single-store rates, across FMCG, staples, personal care and packaged foods - the difference shows up in your cost of goods on every order.</p>
           </article>
 
           <article class="franchise-why-bigdeal-card">
@@ -345,15 +345,15 @@
               <img src="assets/img/High-Reward.svg" alt="Store format illustration" loading="lazy">
             </div>
             <h3>3 franchise formats to match your market</h3>
-            <p>Mini Mart for Tier 2 and 3 cities, Super Mart for metro suburbs, and Hyper Mart for high-footfall zones. One proven model, three formats.</p>
+            <p>Mini Mart from 500 sq ft for Tier 2 and 3 cities, Super Mart from 1,500 sq ft for metro suburbs, and Hyper Mart from 4,000 sq ft for high-footfall commercial zones. One operating model, three sizes.</p>
           </article>
 
           <article class="franchise-why-bigdeal-card">
             <div class="franchise-why-bigdeal-media">
-              <img src="assets/img/Renowned_Brand.svg" alt="Top brand assortment illustration" loading="lazy">
+              <img src="assets/img/Renowned_Brand.svg" alt="Opening stock illustration" loading="lazy">
             </div>
-            <h3>Top brands stocked from day one</h3>
-            <p>Britannia, Haldiram's, Kwality Walls, McCain, and more are sourced through BigDeal's supplier network so your grocery franchise opens fully stocked.</p>
+            <h3>Shelves filled before you open</h3>
+            <p>Opening stock is planned, ordered and merchandised by BigDeal Supermart across staples, packaged foods, dairy, frozen, personal care and home care, so your grocery franchise trades from its first morning.</p>
           </article>
 
           <article class="franchise-why-bigdeal-card">
@@ -361,7 +361,7 @@
               <img src="assets/img/full_assistance.svg" alt="Business support illustration" loading="lazy">
             </div>
             <h3>Full support - store launch and beyond</h3>
-            <p>Operations, marketing, inventory, and quarterly business reviews keep BigDeal's team actively involved in your supermarket franchise success after launch.</p>
+            <p>Quarterly business reviews, marketing kits, reorder support and an assigned point of contact mean BigDeal Supermart stays involved in your supermarket franchise long after the opening week.</p>
           </article>
         </div>
       </div>
@@ -373,7 +373,7 @@
       <div class="franchise-formats-wrap">
         <div class="franchise-formats-copy">
           <span class="franchise-formats-label">FORMATS &amp; SUPERMARKET FRANCHISE COST</span>
-          <h2>Three supermarket franchise formats. One proven model. Choose what fits your market.</h2>
+          <h2>Three supermarket franchise formats. One operating model. Choose what fits your space and budget.</h2>
           <p>Whether you're opening a small grocery store franchise, a small supermarket franchise, a mini supermarket franchise in a residential neighbourhood, or a full hypermarket franchise in a commercial hub, BigDeal Supermart has a format built for your goals and budget.</p>
         </div>
 
@@ -381,15 +381,15 @@
           <article class="franchise-format-card">
             <span class="franchise-format-pill">BEST FOR TIER 2 AND TIER 3 MARKETS</span>
             <h3>Mini Mart</h3>
-            <p class="franchise-format-size">500-800 sq ft store</p>
-            <p class="franchise-format-price">₹10-12 Lakhs</p>
-            <p class="franchise-format-meta">Total all-inclusive investment</p>
+            <p class="franchise-format-size">500-1,500 sq ft store</p>
+            <p class="franchise-format-price">From ₹13 Lakhs</p>
+            <p class="franchise-format-meta">All-inclusive starting investment</p>
 
             <ul class="franchise-format-points">
               <li>Best for Tier 2 and 3 cities and residential neighbourhoods</li>
-              <li>Low mart franchise cost with quick ROI and low overhead</li>
-              <li>Ideal first-time mini grocery franchise opportunity</li>
-              <li>Strong local community loyalty from day one</li>
+              <li>Lowest entry point in the range, with modest rent and staffing</li>
+              <li>A natural upgrade path from a kirana store or mini grocery franchise</li>
+              <li>Built around repeat daily-needs shopping in its catchment</li>
               <li>Full setup, branding, and 4-week training included</li>
             </ul>
 
@@ -399,15 +399,15 @@
           <article class="franchise-format-card is-featured">
             <span class="franchise-format-pill">MOST POPULAR FORMAT</span>
             <h3>Super Mart</h3>
-            <p class="franchise-format-size">800-1,200 sq ft store</p>
-            <p class="franchise-format-price">₹15-18 Lakhs</p>
-            <p class="franchise-format-meta">Total all-inclusive investment</p>
+            <p class="franchise-format-size">1,500-4,000 sq ft store</p>
+            <p class="franchise-format-price">From ₹33 Lakhs</p>
+            <p class="franchise-format-meta">All-inclusive starting investment</p>
 
             <ul class="franchise-format-points">
               <li>Ideal for mid-sized towns, metro suburbs, and apartment zones</li>
-              <li>High product variety, balanced supermarket franchise cost</li>
+              <li>Wider assortment across food, personal care and home care</li>
               <li>A practical super market franchise for growing catchments</li>
-              <li>Growing daily footfall, strong brand growth potential</li>
+              <li>Suits catchments with steady weekday and weekend footfall</li>
               <li>Most popular format among BigDeal Supermart franchise partners</li>
               <li>Full setup, branding, inventory, and training included</li>
             </ul>
@@ -418,15 +418,15 @@
           <article class="franchise-format-card">
             <span class="franchise-format-pill">PREMIUM HIGH-FOOTFALL FORMAT</span>
             <h3>Hyper Mart</h3>
-            <p class="franchise-format-size">1,200+ sq ft store</p>
-            <p class="franchise-format-price">₹20-25 Lakhs</p>
-            <p class="franchise-format-meta">Total all-inclusive investment</p>
+            <p class="franchise-format-size">4,000-10,000+ sq ft store</p>
+            <p class="franchise-format-price">From ₹83 Lakhs</p>
+            <p class="franchise-format-meta">All-inclusive starting investment</p>
 
             <ul class="franchise-format-points">
               <li>For malls, main markets, and high-footfall commercial locations</li>
-              <li>Maximum volume - the premium hypermarket franchise format</li>
+              <li>Built for volume - the largest hypermarket franchise format</li>
               <li>Strong positioning against departmental store franchise competitors</li>
-              <li>Highest profit potential in the BigDeal Supermart franchise range</li>
+              <li>Largest assortment and basket size in the BigDeal Supermart range</li>
               <li>Full setup, staffing guidance, and national brand support</li>
             </ul>
 
@@ -456,13 +456,13 @@
           <article class="franchise-process-card">
             <span class="franchise-process-step">2</span>
             <h3>Free consultation call</h3>
-            <p>A BigDeal Supermart franchise consultant calls you within 4 business hours to understand your city, budget, and the right grocery or supermarket franchise format.</p>
+            <p>A BigDeal Supermart franchise consultant calls you within 4 business hours to go through your city, your space and your budget, and to say plainly whether the territory is open.</p>
           </article>
 
           <article class="franchise-process-card">
             <span class="franchise-process-step">3</span>
             <h3>Market assessment</h3>
-            <p>Our team evaluates footfall, competition, and accessibility, then provides a city-specific ROI projection for your chosen franchise format.</p>
+            <p>Our team reviews footfall, nearby competition, parking and accessibility for your site, then recommends the format that fits it and explains the reasoning in writing.</p>
           </article>
 
           <article class="franchise-process-card">
@@ -474,13 +474,13 @@
           <article class="franchise-process-card">
             <span class="franchise-process-step">5</span>
             <h3>Store setup and training</h3>
-            <p>Interiors, branding, inventory sourcing, and 4-week staff training are managed by BigDeal Supermart within your 45-day launch window.</p>
+            <p>Interiors, fixtures, branding, billing setup, opening stock and 4-week staff training are managed by BigDeal Supermart, typically inside a 45-day launch window.</p>
           </article>
 
           <article class="franchise-process-card">
             <span class="franchise-process-step">6</span>
             <h3>Opening day</h3>
-            <p>Your grocery mart franchise or supermarket opens within 45 days of signing, backed by BigDeal's brand recognition across India.</p>
+            <p>Your grocery mart franchise or supermarket opens under the BigDeal Supermart name, with launch-day merchandising, signage and local promotion handled with you.</p>
           </article>
         </div>
       </div>
@@ -493,35 +493,35 @@
         <div class="franchise-financial-copy">
           <span class="franchise-financial-label">FINANCIAL CLARITY</span>
           <h2>What does the supermarket franchise cost actually look like?</h2>
-          <p>We believe in full transparency before you sign anything. Here is exactly how the investment works for every BigDeal Supermart grocery mart franchise format.</p>
+          <p>Here is exactly how the money works for every BigDeal Supermart grocery mart franchise format - including what the investment does not cover, so there are no surprises later.</p>
         </div>
 
         <div class="franchise-financial-grid">
           <article class="franchise-financial-card">
             <h3>One-time franchise fee</h3>
-            <p>A fixed, clearly disclosed amount secures your franchise rights. No recurring annual licence fee and no renewal charges. You pay once, and your franchise rights are yours.</p>
+            <p>A fixed, clearly disclosed amount secures your territory and the right to trade as BigDeal Supermart. No recurring annual licence fee and no renewal charge during the agreement term.</p>
           </article>
 
           <article class="franchise-financial-card">
             <h3>Fixed setup and branding cost</h3>
-            <p>Interiors, fixtures, branding, and equipment come at pre-defined pricing. The mart franchise cost shown in our documentation is the mart franchise cost you pay.</p>
+            <p>Interiors, racking, signage, billing hardware and equipment are quoted at pre-defined pricing per format. The mart franchise cost written on your cost sheet is the mart franchise cost you pay.</p>
           </article>
 
           <article class="franchise-financial-card">
             <h3>Zero royalty on your revenue - ever</h3>
-            <p>Every rupee your grocery store or supermarket franchise earns is yours. BigDeal Supermart takes no percentage of sales. This is a one-time investment model.</p>
+            <p>BigDeal Supermart takes no percentage of your sales, this month or in year five. Your revenue is yours to run the store from - the franchise and setup fee is paid once, not shared forever.</p>
           </article>
 
           <article class="franchise-financial-card">
-            <h3>ROI in 18-24 months</h3>
-            <p>Most BigDeal Supermart franchise partners recover their full grocery franchise investment within 18-24 months. Our consultants provide city-specific projections during your call.</p>
+            <h3>What the investment does not include</h3>
+            <p>Your rent or deposit, electricity and water connections, trade licences and GST registration, and your monthly staff salaries sit outside the franchise investment. We list these separately on your cost sheet so you can plan working capital properly.</p>
           </article>
         </div>
 
         <div class="franchise-financial-cta-box">
           <div class="franchise-financial-cta-copy">
-            <h3>Need city-specific ROI clarity?</h3>
-            <p>Talk to a franchise consultant before you commit. The consultation is free and designed to help you assess location, format, and budget fit.</p>
+            <h3>Want the full cost sheet for your format?</h3>
+            <p>Talk to a franchise consultant before you commit anything. The call is free, there is no obligation, and you end it knowing the real numbers for your city.</p>
           </div>
           <a class="franchise-financial-cta" href="#franchise-application">Apply Now</a>
         </div>
@@ -535,7 +535,7 @@
         <div class="franchise-stories-copy">
           <span class="franchise-stories-label">REAL FRANCHISE PARTNERS, REAL RESULTS</span>
           <h2>Hear from BigDeal Supermart grocery and supermarket franchise owners across India.</h2>
-          <p>Real store owners. Real numbers. See what building a BigDeal Supermart mini grocery store franchise, super mart, or hypermarket franchise looks like in practice - from the people doing it.</p>
+          <p>Store owners in their own words. Hear what opening and running a BigDeal Supermart mini grocery store franchise, super mart or hypermarket franchise is actually like - the setup, the early months and the day-to-day.</p>
         </div>
 
         <div class="franchise-stories-grid">
@@ -570,7 +570,7 @@
         <div class="franchise-faq-copy">
           <span class="franchise-faq-label">FREQUENTLY ASKED QUESTIONS</span>
           <h2>Questions people ask before starting a grocery or supermarket franchise with BigDeal.</h2>
-          <p>These answers remove doubts around mart franchise cost, supermarket franchise cost, royalty, experience, launch timing, and support.</p>
+          <p>Straight answers on mart franchise cost, supermarket franchise cost, royalty, experience, launch timing, ongoing costs and support.</p>
         </div>
 
         <div class="franchise-faq-list">
@@ -580,7 +580,7 @@
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>The total supermarket franchise cost ranges from ₹10 to ₹25 lakhs depending on the format and location. This is all-inclusive - it covers the one-time franchise fee, store setup, interiors, branding, initial inventory, and working capital. Our team gives you a full itemised breakdown before you commit. There are no hidden charges and no ongoing royalty fees.</p>
+              <p>It depends on the format. A Mini Mart starts from ₹13 lakhs, a Super Mart from ₹33 lakhs, and a Hyper Mart from ₹83 lakhs. Each figure covers the one-time franchise fee, interiors and fixtures, branding, billing setup and opening stock. Rent, deposits, utility connections, licences and staff salaries are separate and are listed for you on the same cost sheet. You get the full itemised breakdown before you commit, and there is no ongoing royalty.</p>
             </div>
           </details>
 
@@ -596,21 +596,21 @@
 
           <details class="franchise-faq-item">
             <summary>
-              <span>Can I open a mini grocery store franchise in a smaller city or town?</span>
+              <span>Can I open a mini grocery store or kirana franchise in a smaller city or town?</span>
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>Yes. Our Mini Mart format - at 500-800 sq ft and ₹10-12 lakhs - is built for Tier 2 and Tier 3 cities and residential neighbourhoods. A mini grocery store franchise with BigDeal Supermartgives you full brand backing, training, and supply chain access even in smaller markets.</p>
+              <p>Yes. The Mini Mart format - 500 to 1,500 sq ft, starting from ₹13 lakhs - is built for Tier 2 and Tier 3 cities and residential neighbourhoods. A mini grocery store franchise with BigDeal Supermart gives you the same brand, training and supply chain access as a metro store, sized for a smaller catchment. Existing kirana store owners often convert an established shop to this format.</p>
             </div>
           </details>
 
           <details class="franchise-faq-item">
             <summary>
-              <span>What makes BigDeal Supermart the best supermarket franchise opportunity in India?</span>
+              <span>How is BigDeal Supermart different from other supermarket franchise opportunities?</span>
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>Three things set BigDeal Supermart apart from other supermarket franchise opportunities: zero royalty, fixed all-inclusive investment with no hidden costs, and a 45-day launch timeline with full setup handled by our team. Unlike many franchise of supermarket models that charge ongoing revenue percentages, BigDeal Supermart is a one-time investment model.</p>
+              <p>Three differences matter most. First, there is no royalty - many franchise of supermarket models take a monthly percentage of your sales, and we do not. Second, the investment is quoted per format up front, with excluded costs listed openly rather than discovered later. Third, setup is done for you - interiors, stock and training - inside a typical 45-day window, instead of being left to you to coordinate.</p>
             </div>
           </details>
 
@@ -620,7 +620,7 @@
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>No prior retail or franchise super market experience is required. BigDeal's 4-week training programme covers store operations, inventory management, billing systems, customer service, and local marketing. The system is designed for first-time business owners too.</p>
+              <p>No prior retail or franchise super market experience is required. The 4-week training programme covers store operations, stock and reorder management, billing systems, customer service and local marketing, and it runs before you open rather than after. Many BigDeal Supermart partners are first-time business owners.</p>
             </div>
           </details>
 
@@ -630,7 +630,7 @@
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>The main differences are store size and investment. A mini mart franchise is 500-800 sq ft at ₹10-12 lakhs, ideal for residential areas and smaller towns. A hypermarket franchise is 1,200+ sq ft at ₹20-25 lakhs, designed for malls, main markets, and high-footfall commercial zones. Both run on the same BigDeal Supermart model with full setup, zero royalty, and complete support.</p>
+              <p>Size, assortment and investment. A mini mart franchise is 500 to 1,500 sq ft starting from ₹13 lakhs, suited to residential areas and smaller towns. A hypermarket franchise is 4,000 to 10,000+ sq ft starting from ₹83 lakhs, designed for malls, main markets and high-footfall commercial zones, with a much wider range and larger baskets. Both run on the same operating model, with full setup, zero royalty and the same support.</p>
             </div>
           </details>
 
@@ -640,7 +640,7 @@
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>Most BigDeal Supermart grocery supermarket franchise stores are fully set up, branded, trained, stocked, and ready to open within 45 days of signing the franchise agreement. BigDeal Supermart manages interiors, branding, fixtures, inventory, and staff training so you do not have to coordinate it alone.</p>
+              <p>The typical window is 45 days from signing, provided the site is ready and approvals are in hand. In that time BigDeal Supermart handles interiors, fixtures, branding, billing setup, opening stock and staff training. Sites needing structural work or pending licences take longer, and your consultant will tell you that before you sign rather than after.</p>
             </div>
           </details>
 
@@ -656,11 +656,11 @@
 
           <details class="franchise-faq-item">
             <summary>
-              <span>What is the ROI timeline for a grocery mart franchise with BigDeal?</span>
+              <span>What are the ongoing costs once my grocery mart franchise is open?</span>
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>Most BigDeal Supermart grocery mart franchise partners recover their full investment within 18 to 24 months of opening, with 20% average monthly profit margins. The exact timeline depends on location, store format, and execution. During your consultation call, our team provides city-specific ROI projections.</p>
+              <p>Your recurring costs are rent, staff salaries, electricity and utilities, and the stock you reorder. There is no royalty, no revenue share and no annual licence fee payable to BigDeal Supermart. Stock is reordered through our vendor network at network rates. Store performance varies with location, rent, footfall and how the store is run, so we do not publish blanket return figures - your consultant will walk you through the cost structure for your specific site instead.</p>
             </div>
           </details>
 
@@ -670,7 +670,7 @@
               <span class="franchise-faq-icon" aria-hidden="true"></span>
             </summary>
             <div class="franchise-faq-answer">
-              <p>BigDeal Supermart provides quarterly marketing kits with digital assets, in-store signage, and promotional collateral. We also run national branding campaigns that build awareness and drive footfall across the store network, while franchise consultants review marketing performance and recommend local promotion strategies.</p>
+              <p>Departmental store franchise and supermarket partners receive quarterly marketing kits containing digital assets, in-store signage and promotional collateral, plus support for launch-day and festive promotions. Quarterly business reviews cover what worked in your catchment, and your consultant recommends local promotions for the season ahead.</p>
             </div>
           </details>
         </div>
@@ -683,13 +683,13 @@
       <div class="franchise-final-cta-panel">
         <span class="franchise-final-cta-label">FINAL STEP</span>
         <h2>Your city might still have an open grocery or supermarket franchise slot.</h2>
-        <p>BigDeal Supermart operates a limited number of grocery mart franchise and supermarket franchise locations per city to protect each partner's territory and profitability. Apply now to check if your area is still available - our franchise consultant calls you within 4 business hours.</p>
+        <p>BigDeal Supermart appoints a limited number of grocery mart franchise and supermarket franchise partners per city so territories do not overlap. Apply now to check whether your area is still open - a franchise consultant calls you within 4 business hours.</p>
 
         <div class="franchise-final-cta-actions">
           <a class="franchise-final-cta-primary" href="#franchise-application">Apply Now</a>
         </div>
 
-        <p class="franchise-final-cta-note">No payment. No commitment. A free, no-obligation consultation call - that is all it takes to find out if BigDeal Supermartis the right supermarket franchise opportunity for you.</p>
+        <p class="franchise-final-cta-note">No payment. No commitment. A free, no-obligation consultation call - that is all it takes to find out whether BigDeal Supermart is the right supermarket franchise opportunity for you.</p>
       </div>
     </div>
   </section>
