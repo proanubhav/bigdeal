@@ -92,7 +92,7 @@
           <div class="serv_article_card">
             <div class="intro_sec_area">
               <h2>The Smart Way to Start a <span class="main-green">Supermarket Franchise</span></h2>
-              <p>Establishing a supermarket chain benefits an investor at present times. BigDeal Supermart franchise is a perfect place to begin and actualize one’s dreams. Big Deal Supermarket business franchisees enjoy a low risk and high return imitation of a working business model and thus it is understandable. We offer every tool and support that you need to establish and run your store successfully. We have elaborate coverage that includes real-time inventories and sales strategies, marketing and training so that you are already ready for business when you come to us.</p>
+              <p>Establishing a supermarket chain benefits an investor at present times. BigDeal Supermart franchise is a perfect place to begin and actualize one’s dreams. BigDeal Supermarket business franchisees enjoy a low risk and high return imitation of a working business model and thus it is understandable. We offer every tool and support that you need to establish and run your store successfully. We have elaborate coverage that includes real-time inventories and sales strategies, marketing and training so that you are already ready for business when you come to us.</p>
               <p>Join BigDeal Supermart and be part of an industry-leading franchise that puts your success first.</p>
             </div>
           </div>
@@ -139,7 +139,7 @@
         various store formats like <strong>Mini Mart</strong>, <strong>Super Mart</strong>, and <strong>Hyper Mart</strong> stores.
       </p>
       <p>
-        From your first day of operation, BigDeal Supermartprovides complete support through a comprehensive network of franchise assets:
+        From your first day of operation, BigDeal Supermart provides complete support through a comprehensive network of franchise assets:
       </p>
       <ul>
         <li>Streamlined store setup</li>

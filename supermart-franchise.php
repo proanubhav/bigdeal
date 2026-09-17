@@ -9,7 +9,7 @@
 
   <title>Start your Franchise with BigDeal Supermart in India</title>
   <meta name="description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta name="keywords"
     content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
@@ -18,7 +18,7 @@
   <meta property="og:title" content="Start your Franchise with BigDeal Supermart in India">
   <meta property="og:url" content="https://www.bigdealsupermart.com/supermart-franchise">
   <meta property="og:description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
@@ -28,12 +28,12 @@
   <meta name="twitter:title" content="Start your Franchise with BigDeal Supermart in India">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/supermart-franchise">
   <meta name="twitter:description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta itemprop="name" content="Start your Franchise with BigDeal Supermart in India">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/supermart-franchise">
   <meta itemprop="description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <link rel="canonical" href="https://www.bigdealsupermart.com/supermart-franchise">
 
@@ -205,7 +205,7 @@
               <div class="feat_card">
                 <img src="assets/img/Renowned_Brand.svg" alt="Renowned brand illustration">
                 <h3>Renowned Brand</h3>
-                <p>Kick-off easily backed by Bigdeal's existing customers.</p>
+                <p>Kick-off easily backed by BigDeal's existing customers.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">

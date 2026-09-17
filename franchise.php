@@ -9,7 +9,7 @@
 
   <title>Apply for BigDeal Supermart Franchise in India | High Growth</title>
   <meta name="description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta name="keywords"
     content="Supermarket Franchise, BigDeal Supermart Franchise, Growth in Supermarket Franchise,  Supermart franchise in India, BigDeal Supermart, Supermarket Franchise Model">
 
@@ -18,7 +18,7 @@
   <meta property="og:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
   <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta property="og:description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta property="og:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta property="og:image:alt" content="Supermarket Franchise">
   <meta property="og:type" content="service">
@@ -28,12 +28,12 @@
   <meta name="twitter:title" content="Apply for BigDeal Supermart Franchise in India | High Growth">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta name="twitter:description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <meta itemprop="name" content="Apply for BigDeal Supermart Franchise in India | High Growth">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta itemprop="description"
-    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with Big Deal. Apply now!">
+    content="Join BigDeal Supermart Franchise for a proven supermart franchise model. Experience profits & growth in supermart franchise with BigDeal. Apply now!">
   <meta itemprop="image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
   <link rel="canonical" href="https://www.bigdealsupermart.com/apply-franchise">
 
@@ -271,7 +271,7 @@
               <div class="feat_card">
                 <img src="assets/img/Renowned_Brand.svg" alt="Renowned brand illustration">
                 <h3>Renowned Brand</h3>
-                <p>Kick-off easily backed by Bigdeal's existing customers.</p>
+                <p>Kick-off easily backed by BigDeal's existing customers.</p>
               </div>
             </div>
             <div class="col-12 col-md-4 mb-sm-3">
@@ -533,7 +533,7 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne"
                         aria-expanded="true" aria-controls="collapseOne">
-                        How much would it cost to open a franchise for BigDeal Supermartin the beginning?
+                        How much would it cost to open a franchise for BigDeal Supermart in the beginning?
                       </button>
                     </h3>
                   </div>
@@ -606,7 +606,7 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2"
                         aria-expanded="false" aria-controls="collapse2">
-                        How does Big Deal Help in Marketing?
+                        How does BigDeal Help in Marketing?
                       </button>
                     </h3>
                   </div>
@@ -682,7 +682,7 @@
                     <h3 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
                         aria-expanded="false" aria-controls="collapseFive">
-                        How is product quality maintained by BigDeal Supermartcompany?
+                        How is product quality maintained by BigDeal Supermart company?
                       </button>
                     </h3>
                   </div>
@@ -690,7 +690,7 @@
                     <div class="card-body">
                       BigDeal Supermart franchise aims to satisfy all customers by providing quality products. We have
                       worked with more than a hundred suppliers who we trust and we regularly inspect their quality. We
-                      pay particular attention to young perishable goods and equity goods aiming at letting its
+                      pay particular attention to fresh perishable goods and quality goods aiming at letting its
                       franchisees offer the most affordable quality products to consumers.
                     </div>
                   </div>

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Supermarket Franchise in India | BigDeal Supermart- ₹10-25L, Zero Royalty</title>
+  <title>Supermarket Franchise | BigDeal Supermart- ₹10-25L, Zero Royalty</title>
   <meta name="description"
     content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
   <meta name="keywords"
@@ -15,7 +15,7 @@
 
   <meta property="og:site_name" content="BigDeal Supermart Franchise">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Supermarket Franchise in India | BigDeal Supermart - ₹10-25L, Zero Royalty">
+  <meta property="og:title" content="Supermarket Franchise | BigDeal Supermart - ₹10-25L, Zero Royalty">
   <meta property="og:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta property="og:description"
     content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
@@ -25,12 +25,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.bigdealsupermart.com">
   <!-- <meta name="twitter:site" content="@om_sai_group"> -->
-  <meta name="twitter:title" content="Supermarket Franchise in India | BigDeal Supermart - ₹10-25L, Zero Royalty">
+  <meta name="twitter:title" content="Supermarket Franchise | BigDeal Supermart - ₹10-25L, Zero Royalty">
   <meta name="twitter:url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta name="twitter:description"
     content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
   <meta name="twitter:image" content="https://www.bigdealsupermart.com/assets/img/big-deal-supermart.webp">
-  <meta itemprop="name" content="Supermarket Franchise in India | BigDeal Supermart - ₹10-25L, Zero Royalty">
+  <meta itemprop="name" content="Supermarket Franchise | BigDeal Supermart - ₹10-25L, Zero Royalty">
   <meta itemprop="url" content="https://www.bigdealsupermart.com/apply-franchise">
   <meta itemprop="description"
     content="Own a grocery or supermarket franchise with BigDeal. No royalty, ₹10-25L investment, 45-day launch, 20% margins. Apply now.">
